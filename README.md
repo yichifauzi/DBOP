@@ -1,4 +1,4 @@
-![DBOP Logo](/DBOP%20logo.png)
+<img src="D" alt="DBOP logo.png" width="128">
 
 # DirtTW's Basement Optimize Pack
 
