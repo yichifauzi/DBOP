@@ -1,4 +1,4 @@
-<img src="https://github.com/yichifauzi/DBOP/blob/main/DBOP%20logo.png?raw=true" alt="DBOP logo.png" width="128">
+<img src="https://github.com/yichifauzi/DBOP/blob/main/DBOP%20banner.png?raw=true" alt="DBOP logo.png" width="900">
 
 # DirtTW's Basement Optimize Pack
 
