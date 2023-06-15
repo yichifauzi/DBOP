@@ -1,0 +1,13 @@
+name = "DBOP MC 1.19.4"
+author = "dirtTW"
+version = "0.0.5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9d79fce5d379ecc428a1b0babfd59df34d2d6abc6d9ab6c36f2e6cc89dbd3bcc"
+
+[versions]
+fabric = "0.14.21"
+minecraft = "1.19.4"
