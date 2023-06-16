@@ -19,6 +19,7 @@
   - 使用 Dashloader 來讓Minecraft麥塊載入速度更快
   - 一些Optifine 小特性同步
   - Spark 模組 方便檢查什麼東西造成卡頓
+  - Midnight Controls 增加手把支持!
 
  ### 回報問題
   - 在github上回報問題 : [DBOP
@@ -40,7 +41,7 @@ DBOP is based on fabric modloader that optimize minecraft performance with mostl
  - Faster loading minecraft using Dashloader
  - Some Optifine parity
  - Spark performance profiler that will eazy maintain what causing lag
-
+ - Midnight Controls add support for controller!
 
 ### Report Issues
  - Report an Issues on Github : [DBOP
