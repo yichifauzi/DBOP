@@ -1,0 +1,13 @@
+name = "Noxesium"
+filename = "noxesium-1.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/OWQ5Decl/noxesium-1.0.5.jar"
+hash-format = "sha1"
+hash = "c9712b2fe47aeb8d8942adac21ab00650802d0d2"
+
+[update]
+[update.modrinth]
+mod-id = "Kw7Sm3Xf"
+version = "OWQ5Decl"
