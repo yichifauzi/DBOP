@@ -34,7 +34,7 @@ gamma:1.0
 renderDistance:12
 simulationDistance:5
 entityDistanceScaling:1.0
-guiScale:3
+guiScale:0
 particles:0
 maxFps:260
 graphicsMode:1
@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
