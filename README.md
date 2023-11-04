@@ -16,10 +16,12 @@
   - 基於 Sodium 模組 能夠帶來麥塊巨大優化
   - 包含 Iris 光影模組
   - 原汁原味 無任何修改原版機制
-  - 使用 Dashloader 來讓Minecraft麥塊載入速度更快
+  - 使用 ModernFIx 來讓Minecraft麥塊載入速度更快
   - 一些Optifine 小特性同步
   - Spark 模組 方便檢查什麼東西造成卡頓
-  - Midnight Controls 增加手把支持!
+  - Controlify 增加手把支持!
+  - Essential 模組 增加許多好用的功能以及跟好友連線的多人體驗 跟許多不錯的時裝
+(2只有相同 Essential模組的好友能看到時裝)
 
  ### 回報問題
   - 在github上回報問題 : [DBOP
@@ -38,10 +40,13 @@ DBOP is based on fabric modloader that optimize minecraft performance with mostl
  - Based on Sodium that give minecraft huge performance improvement
  - Include Iris mod shader support 
  - Vanilla experience
- - Faster loading minecraft using Dashloader
+ - Faster loading minecraft using ModernFix
  - Some Optifine parity
  - Spark performance profiler that will eazy maintain what causing lag
- - Midnight Controls add support for controller!
+ - Controlify add support for controller!
+ - Essential mod that add many quality of life feature and easy friend multiplayer experience with very cool cosmetic items
+(only Friend with Essential mods can see)
+
 
 ### Report Issues
  - Report an Issues on Github : [DBOP
