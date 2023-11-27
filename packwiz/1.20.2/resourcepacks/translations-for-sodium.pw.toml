@@ -3,11 +3,11 @@ filename = "SodiumTranslations.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/yfDziwn1/versions/5B3IlQLZ/SodiumTranslations.zip"
+url = "https://cdn.modrinth.com/data/yfDziwn1/versions/CeCmsjs8/SodiumTranslations.zip"
 hash-format = "sha1"
-hash = "1d15091545a29e5bca028c387618ffc0e5dd160e"
+hash = "97d30d2841624868c7aabc19973772b20f092524"
 
 [update]
 [update.modrinth]
 mod-id = "yfDziwn1"
-version = "5B3IlQLZ"
+version = "CeCmsjs8"
