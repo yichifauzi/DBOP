@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e0dab3339a3e09887b7e396d299025df0a95a7876bd2e62f41b42444cedd74d1"
+hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "d7573d88a1a79b515a5c5938064b6e1b8c5793c6be0dd7d8fd0ac897c9e9a02c"
+hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
 metafile = true
 
 [[files]]
