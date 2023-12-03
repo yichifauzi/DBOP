@@ -304,11 +304,6 @@ hash = "a31b4ee2eb163779aec7bdfd40f23a5295da9eeb5fde086166d26058549c1565"
 metafile = true
 
 [[files]]
-file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "d62de2103f3fb2166cffcff84a858e225bc824b20e34ca6736af89fb9beb8b91"
-metafile = true
-
-[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "4baaf612a8dc5bb749c2e4d9d533ea1df3c9d7dd7eb518d929d4519ccecff59a"
 metafile = true
@@ -416,6 +411,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "6e097137bca0d6f27ae40c394ee122f0377af027177ddfa62bd5790d35d7222d"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "be45cdd2ea730890957e66f7998ca9543a7bf252fb9aa052c859e4f03ff92ed1"
 metafile = true
 
 [[files]]
