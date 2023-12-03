@@ -420,7 +420,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "ab4da86f8fbf4cab86e50f538d54e04bee24274344605482ea4974647e6e27bf"
+hash = "7f184f049a65f1c41ca99857ff5a21b5df5b8db33f29b5c484bf5f1a97026cc8"
 metafile = true
 
 [[files]]
@@ -475,5 +475,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c3ace11ab53fc62606d631c55a8336b13e9cb77e4ad0613b53c89c71155a2b92"
+hash = "3bf42ba9a3aabff4164d08d001d5077629551f091301f16f85f98592d2bb5662"
 metafile = true
