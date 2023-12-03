@@ -1,40 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/animatica.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/authme.json5"
-hash = "22a10597d058e8cf00c44650cc7e5fd7eb79324dc45d81e46d784813688e7dd5"
-
-[[files]]
-file = "config/c2me.toml"
-hash = "2ef51b5128139e2874911ef889246e4605e94d5d47c5f87696ba96705e1c202c"
-
-[[files]]
-file = "config/chat_heads.json5"
-hash = "e75e276e03b262d765be77de9520663131e8c1a217907223b985e1b0f6039625"
-
-[[files]]
 file = "config/citresewn.json"
 hash = "4ae8241015ed1dad4c97bf133d4dd48f07fb9ed409b95b7e70e5df0470b83221"
-
-[[files]]
-file = "config/continuity.json"
-hash = "77f86e18fff51b0c06b773b5bc9608b5b74e264e2220589d6b1723b044b18e10"
-
-[[files]]
-file = "config/controlify.json"
-hash = "77fd8959b3289ce7eb3d495500355ee3e64408fe8448ac3bb957dededd68c2ec"
-
-[[files]]
-file = "config/debugify-descriptions.json"
-hash = "9e0a3e50d3354d8f812dee6fdc146dd863a44be50fad55950abd2224a963d15f"
-
-[[files]]
-file = "config/debugify.json"
-hash = "3ae22ec288cf259b40b7678f1a8fdbf54d632c99c5f82a037392fb0a2303fd82"
 
 [[files]]
 file = "config/dynamicfps.toml"
@@ -45,104 +13,100 @@ file = "config/enhanced_bes.properties"
 hash = "825d084b84356890d99c0aa17ba69605598f09696eee06274c312d78e381e706"
 
 [[files]]
-file = "config/entity_model_features.json"
-hash = "d946e60946bcd3e638a8f61cbb791dd3a6c11cc13a753aa5ade13deeb7d115c1"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "9c82c3893ec010f70199ecd293346528043c631d0ed4d9b71355064f426e2fa7"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
-
-[[files]]
-file = "config/fabricskyboxes-config.json"
-hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
-
-[[files]]
-file = "config/fastquit.toml"
-hash = "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2"
-
-[[files]]
 file = "config/ferritecore.mixin.properties"
 hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "20461536d3ab8ad646a1398f556805b11356ec03a2ee9769b2fedba2543a5170"
-
-[[files]]
-file = "config/indium-renderer.properties"
-hash = "0c5c7e227e835fdb2a19a03ba3f75f963775ead77d732b744cfe44012b7720a9"
+hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ea808f8d7af3ea4d71b872c516601299067f47334052c2edbb34118032e1eba6"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "549798bcf6bb131ad6989f6a14cc1402550a4e5be1aaee40b069fc7f73efec7b"
-
-[[files]]
-file = "config/languagereload.json"
-hash = "214a499f4ed7b50c5a0795bec9cddbad3260d24b41d497765b6b2e576ff1690d"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "ad22a56c38869fbd7eb1114a5e5da62087672d9ebafb379e20767315488ec73c"
-
-[[files]]
-file = "config/midnightlib.json"
-hash = "42faf0eb11129840e29860526868d355161154abe8cd4217e4d4e50d6a069cbb"
-
-[[files]]
-file = "config/modelfix-client.json"
-hash = "5baeb566294558c413fc88749baea4f35f4eb75c8559ed9267b9f4e70e04ef65"
-
-[[files]]
-file = "config/modernfix-mixins.properties"
-hash = "f82704e10f9a544e51108c4e7faf36e51c5e160f1039fbe7e5b3d7583d45b4b8"
-
-[[files]]
-file = "config/modmenu.json"
-hash = "032a1cd3ad4ab2248f1971172dcbf6d7316eb897837f10f8f8319c14dade6f43"
-
-[[files]]
-file = "config/moreculling.toml"
-hash = "0eb4edb8d0bd8eb33da1e47356a7c6c154b215e3313b0c5b716c8dc1502d69ee"
+hash = "90a9c57071027c685679219bc7f5ed3d69dd6265a28101b16066a0ac7c2cad08"
 
 [[files]]
 file = "config/mousewheelie.hjson"
 hash = "e611e7b378cc31c9accf9019ba9160f9f0dbb87d1b87b1c279f334186c1f7976"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "68007407632f4402a2348b93cca3ee004aa11b66439ce07b78b30c55758644fc"
+file = "config/yosbr/config/debugify.json"
+hash = "3ae22ec288cf259b40b7678f1a8fdbf54d632c99c5f82a037392fb0a2303fd82"
 
 [[files]]
-file = "config/rrls.toml"
-hash = "521543ab25e3da8e2167b68c6abad8f78bdebe9802f2802615e0e4f521ed1ab0"
+file = "config/yosbr/config/entity_model_features.json"
+hash = "d946e60946bcd3e638a8f61cbb791dd3a6c11cc13a753aa5ade13deeb7d115c1"
 
 [[files]]
-file = "config/rrp.properties"
-hash = "a7d6b6389f62f3ed3a026d551ae7b7345f7b5844ea1fd9d06c3c4873f4a984dc"
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "9c82c3893ec010f70199ecd293346528043c631d0ed4d9b71355064f426e2fa7"
 
 [[files]]
-file = "config/shulkerboxtooltip.json5"
-hash = "05dc6a0812a031d28be85a54d1458e6b706153bb3ab7daab38216f698908fd0d"
+file = "config/yosbr/config/entityculling.json"
+hash = "1eab49670e52d33fb63c14c6f5eec9d8abf735d9ee24679ba00f2ca19b96c2d0"
 
 [[files]]
-file = "config/vmp.properties"
-hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
+file = "config/yosbr/config/fabricskyboxes-config.json"
+hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
+
+[[files]]
+file = "config/yosbr/config/fastquit.toml"
+hash = "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2"
+
+[[files]]
+file = "config/yosbr/config/indium-renderer.properties"
+hash = "0c5c7e227e835fdb2a19a03ba3f75f963775ead77d732b744cfe44012b7720a9"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "bd269eb77a1bbeded1114d527f531be8c93defd016f0a02882fd9facae0f79bf"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "549798bcf6bb131ad6989f6a14cc1402550a4e5be1aaee40b069fc7f73efec7b"
+
+[[files]]
+file = "config/yosbr/config/languagereload.json"
+hash = "214a499f4ed7b50c5a0795bec9cddbad3260d24b41d497765b6b2e576ff1690d"
+
+[[files]]
+file = "config/yosbr/config/lithium.properties"
+hash = "ad22a56c38869fbd7eb1114a5e5da62087672d9ebafb379e20767315488ec73c"
+
+[[files]]
+file = "config/yosbr/config/midnightlib.json"
+hash = "42faf0eb11129840e29860526868d355161154abe8cd4217e4d4e50d6a069cbb"
+
+[[files]]
+file = "config/yosbr/config/modelfix-client.json"
+hash = "5baeb566294558c413fc88749baea4f35f4eb75c8559ed9267b9f4e70e04ef65"
+
+[[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "f82704e10f9a544e51108c4e7faf36e51c5e160f1039fbe7e5b3d7583d45b4b8"
+
+[[files]]
+file = "config/yosbr/config/modmenu.json"
+hash = "032a1cd3ad4ab2248f1971172dcbf6d7316eb897837f10f8f8319c14dade6f43"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "0eb4edb8d0bd8eb33da1e47356a7c6c154b215e3313b0c5b716c8dc1502d69ee"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "68007407632f4402a2348b93cca3ee004aa11b66439ce07b78b30c55758644fc"
+
+[[files]]
+file = "config/yosbr/config/rrls.toml"
+hash = "521543ab25e3da8e2167b68c6abad8f78bdebe9802f2802615e0e4f521ed1ab0"
+
+[[files]]
+file = "config/yosbr/config/rrp.properties"
+hash = "a7d6b6389f62f3ed3a026d551ae7b7345f7b5844ea1fd9d06c3c4873f4a984dc"
+
+[[files]]
+file = "config/yosbr/config/shulkerboxtooltip.json5"
+hash = "05dc6a0812a031d28be85a54d1458e6b706153bb3ab7daab38216f698908fd0d"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -159,6 +123,10 @@ hash = "b35b099a51f0cc1cfd94b1a1444de0d0d0c4e1b3399575504bbdcfaf02c359b0"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "ed130b93a5c9add5ac2f9683ed5a11d6a0082c8eb2d4e168bcc4bb4d8d1413be"
+
+[[files]]
+file = "config/yosbr/config/vmp.properties"
+hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/options.txt"
