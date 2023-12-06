@@ -168,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1e555622ded601f0572c946fd8676b7cc47f4005cb30563833e01c7f38cbd076"
+hash = "a9678b1354742b40f75d21b6f70c7f6be0af1d2288358e15a277b13305e0a246"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a06a26194dbc6c49a75ff7383c85cb8e1e101160f1a5b306cfffad8cf08dd95b"
+hash = "f13e6308f58bda364989f84c4dece95868b3bdf38fd09a39a324f86abda4e670"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5ad2693f567c04f457a94ae16feeb49f1421aa2c7a0527b314eb09929eec450f"
+hash = "d0c33f19182867ebce3edc8d6e3c6628bf24831aeb0491d5448cd6ffceb3d855"
 metafile = true
 
 [[files]]
@@ -304,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
-metafile = true
-
-[[files]]
-file = "mods/lilac.pw.toml"
-hash = "bdf9805ce53574e70fef116c24679d27f4b0dc71207975231128f567d4aac267"
 metafile = true
 
 [[files]]
@@ -423,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "02c678726427ebed5371829ffb309227af6d42dfd3bcb2d2221db100d31df55b"
+hash = "fe361a0f719b941999202e3da00d70ddb8266c890585b16ceed65e292d842aa3"
 metafile = true
 
 [[files]]

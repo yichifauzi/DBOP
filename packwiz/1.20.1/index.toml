@@ -339,11 +339,6 @@ hash = "ce3ab9c8e2d852111f0fbde0c5e69821b6f4888b8325c150e32e17bcb5ff45f2"
 metafile = true
 
 [[files]]
-file = "mods/lilac.pw.toml"
-hash = "bdf9805ce53574e70fef116c24679d27f4b0dc71207975231128f567d4aac267"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "6ccdedbcab01af6b64bf08338c6341a16efe907a71cca5b398192c75fbcc07c8"
 metafile = true

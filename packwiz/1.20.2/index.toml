@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ca4b38c49a46fbf1b9c52e87ec6bbb19e359edd759375fa532adb0b015866456"
+hash = "8b98a77bd50c8c287121ded96feff795d9ca11d8038cd2e500a248651354b2a6"
 metafile = true
 
 [[files]]
@@ -304,11 +304,6 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "1a6cb4f1181b8eaf17b30f3bab2ef3339dc35df93809d3e354793b070173f7dc"
-metafile = true
-
-[[files]]
-file = "mods/lilac.pw.toml"
-hash = "bdf9805ce53574e70fef116c24679d27f4b0dc71207975231128f567d4aac267"
 metafile = true
 
 [[files]]
