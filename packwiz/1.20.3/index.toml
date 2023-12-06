@@ -22,7 +22,7 @@ hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "90a9c57071027c685679219bc7f5ed3d69dd6265a28101b16066a0ac7c2cad08"
+hash = "f8451d2ec5d377e706879b8319c84ef6f164947abae33162d5257c11d1a45090"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "17c313a709b5e4e89d9ad8b2a250f9a4640667bd7a450d230d8c10db159bbac0"
+hash = "bd0bfff02f63f53b605801ad02c96907ee29b1b076369abb3bc3d169996dc620"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "0c50f97ae4f3b94139fcd27a426149d0c3956aebf3fd3acc22d32ffae33e247d"
+hash = "bbcda2f7b256694ae2f88b50242666166b9099be3f7cf5982f1313f33aa5b1c3"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "14087360a8b0ea52597fc8fa00d1e027506f1b44fcf77c75de2bba1872b4dfa2"
+hash = "24f6226cf7ccd8144ea513e0330f44aa898c473e07d1f128f0f1170f5a5b4848"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "966077e824ed69185b839475e20b4c518037eb4e5494fb413442a0dea08df84a"
+hash = "e8a2feeb7f82d28fea903e8734457f6759d29c27e25f4009bfd115f80d0231bd"
 metafile = true
 
 [[files]]
@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d171eabd7e1e44aaf3437dff4887bd02d2bb90f54c219417f538278b0f6cda12"
+hash = "336d04d41ab06161d1ac4c43282201b73e91ca30a88f9724b54bd817df179727"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ca4b38c49a46fbf1b9c52e87ec6bbb19e359edd759375fa532adb0b015866456"
+hash = "5ad2693f567c04f457a94ae16feeb49f1421aa2c7a0527b314eb09929eec450f"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "1a6cb4f1181b8eaf17b30f3bab2ef3339dc35df93809d3e354793b070173f7dc"
+hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
 metafile = true
 
 [[files]]
@@ -333,12 +333,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "45c1feec0eb2f16e1c2d5665e024bfe429633d35f709998ffb8ca40bd616889f"
+hash = "39ed42b47a3742d3a399907422665c66bf62d50524049ab46dd7b730d0eeec2b"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "34204cc7f858b076adf34a7234a847a8ee1f8afa49e08497c9ed7efdad0897d9"
+hash = "331c6d89776fbf94b3208089d2f3f4c58b37835739b9f49b1249a8628f866cbe"
 metafile = true
 
 [[files]]
@@ -388,7 +388,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "7f184f049a65f1c41ca99857ff5a21b5df5b8db33f29b5c484bf5f1a97026cc8"
+hash = "08e79352e1fa631501f03dd622076cc65e3621342cab94b79f4c51e91500365b"
 metafile = true
 
 [[files]]
@@ -408,7 +408,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f1d83469db110ef5cad996049037740d122688703cd90e75ecdc52e4d834a360"
+hash = "c4a37ef552930c37787f78d94cdb9a444dd3f27fc1cfd0c13dfd68f126067f3e"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a89740fe7f956573781e4a46a3b54d2e02fde555156688a41e8fe75a8041bf59"
+hash = "1a2beed4e506ea971793bf59103c7e23a256ad8a0db6f42357e9a459b4778bca"
 metafile = true
 
 [[files]]

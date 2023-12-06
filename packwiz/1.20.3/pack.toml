@@ -1,4 +1,4 @@
-name = "DBOP MC 1.20.2"
+name = "DBOP MC 1.20.3"
 author = "dirtTW"
 version = "0.1.25"
 pack-format = "packwiz:1.1.0"
@@ -6,11 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b80f0340c3ee401cd3d659f0561171d442256ecd3aaa95fb4722602ae9880b21"
+hash = "c1f2f5328fe230a0f15c6ce125d33e4fafe8b676c209b057a277dda42f199788"
 
 [versions]
 fabric = "0.15.0"
-minecraft = "1.20.2"
+minecraft = "1.20.3"
 
 [options]
-acceptable-game-versions = ["1.20.2"]
+acceptable-game-versions = ["1.20.3"]
