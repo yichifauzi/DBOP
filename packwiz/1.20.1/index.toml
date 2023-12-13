@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "8aa54c941181fb8d986d5fab15ac2f09cd066247b39e36a4a19d302a068df182"
+hash = "31fdd1e2499f295c5806bac01987129f54c0960fdee8dfba5123ac6432bc8f9b"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "1fd9743825978115ffb37a98d4ae8b4d181d220f95c9bcba607113bd41b6ddc4"
+hash = "0243e5340ac8a37ec903b58411be61e4dcab50468ddca99827bba49acbbec190"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8c2a62fb9f0e7ae11519a19c77ee797722e6ae37f901f3bf585b863c870ff196"
+hash = "19b66c624b16ef3616b9ab37f18b630f04088d18f4982a0d7df9204b55e31353"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e41a9ba30fe4f55cfe11b41b99e2d6ac20368dc89c29f73e804826f538de8cfa"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
+hash = "a99e2672e7585f6e31278a4a18b37865ab780175b93eb740064a692635f36a1b"
 metafile = true
 
 [[files]]
@@ -475,5 +475,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3bf42ba9a3aabff4164d08d001d5077629551f091301f16f85f98592d2bb5662"
+hash = "2d6489c9d8e72f8fe815ac8a4f2849ca255b0512fc3ac10703581315591159c9"
 metafile = true
