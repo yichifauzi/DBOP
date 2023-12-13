@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "896d687f57cb6132c019bd282eb15ae19d0c9d16d7746cdad6b68f3f90b55562"
+hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
 
 [[files]]
@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "f13e6308f58bda364989f84c4dece95868b3bdf38fd09a39a324f86abda4e670"
+hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "75ed6666aa990f5b0814337c7e5fa016dd3880112146f79bf649ff3e64e7033c"
+hash = "53a9d821352aca075cbb47c032d388ae6232f727fac76a856f239d2f4df8181f"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "24f6226cf7ccd8144ea513e0330f44aa898c473e07d1f128f0f1170f5a5b4848"
+hash = "691e132d4db104ebd999a91a17a1b7c0de1b6f80c4efb4cc3d66cdd4f59a1f86"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "e8a2feeb7f82d28fea903e8734457f6759d29c27e25f4009bfd115f80d0231bd"
+hash = "09bbc63eb9db568591073a6b1c8e3f5185702211980fbc1635f716c7146811b0"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e41a9ba30fe4f55cfe11b41b99e2d6ac20368dc89c29f73e804826f538de8cfa"
+hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d0c33f19182867ebce3edc8d6e3c6628bf24831aeb0491d5448cd6ffceb3d855"
+hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "fb255c227126b87a45bcfdcef66c90678ef6be507fa2c6b40739b01ed04788ca"
+hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-shulker-preview.pw.toml"
-hash = "1f7c74a3bcd223432225cea1e3acecf5761f76da839aaca4229abe0c3098f8b9"
+hash = "ecf5a944cc6503d145849fd762cb370a0ba4d70a1dd2f2f2e12cb5850549e0c0"
 metafile = true
 
 [[files]]
@@ -403,12 +403,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "c4a37ef552930c37787f78d94cdb9a444dd3f27fc1cfd0c13dfd68f126067f3e"
+hash = "582b585d4bcb3bc316e0451a3c46a869d0b2f120598df12bd339bae2a68c5734"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "a5bc38533a82cc9513c4abd7442a5a0508b24ab6bfb1c65684298bc06d5018ca"
+hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
@@ -423,7 +423,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1a2beed4e506ea971793bf59103c7e23a256ad8a0db6f42357e9a459b4778bca"
+hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
 metafile = true
 
 [[files]]
@@ -438,5 +438,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3bf42ba9a3aabff4164d08d001d5077629551f091301f16f85f98592d2bb5662"
+hash = "2d6489c9d8e72f8fe815ac8a4f2849ca255b0512fc3ac10703581315591159c9"
 metafile = true
