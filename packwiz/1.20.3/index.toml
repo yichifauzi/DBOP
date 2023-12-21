@@ -158,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "5f02b84e4aec1a2be97f3de69174b81b4e480bb3e5e8a4fb5e0efba65b11e98c"
+hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "53a9d821352aca075cbb47c032d388ae6232f727fac76a856f239d2f4df8181f"
+hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a60e11e12ce5ce248b5f087c26558c7ddfe3d113741a57c1be0920400b3d92e5"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "12495a3eca5446202fffefcd0a6e0e0558bc03d3a7669043b0cbb0c2fb58ba2c"
+hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
 metafile = true
 
 [[files]]
@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c7a35c20b4a1b9a2609126991aaf848344fc859ac1460032a27bd6a2234236b3"
+hash = "bf2d53afb61c955fa5fde1967b28d9e593427f5aaf3e05ef16af00f20b442868"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "331c6d89776fbf94b3208089d2f3f4c58b37835739b9f49b1249a8628f866cbe"
+hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
 
 [[files]]
@@ -348,17 +348,17 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "b4aac45190ac33c76a87f0b5943b43e5fb6c47ca93eeb9dff7d76ea26873b40b"
+hash = "1dd763449a565c742e6c3d3227b5167d3d423df8244959d8c7083ff99d225ea7"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "096e441242243ef93f9db36281d3338d4aee9b0a74a94f77c416a2c5b86a4040"
+hash = "aa82f9bf467fc7069f3b00a612348b6fa15f112e06a3cda85e67181daa18b974"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "080d5bbc64d16728e2ef12d364e4a2c4c7278cc6477ba54c8c159f03352e4fdc"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
@@ -438,5 +438,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2d6489c9d8e72f8fe815ac8a4f2849ca255b0512fc3ac10703581315591159c9"
+hash = "76e0233e59450354105a963b960cba528920952d8c3d0d8cceac40adf9a6c8fc"
 metafile = true

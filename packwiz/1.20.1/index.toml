@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "6ce95b0cd42ac575a26fac560b0438c15e85bf8911884495baa175ccaf8bf9b5"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a60e11e12ce5ce248b5f087c26558c7ddfe3d113741a57c1be0920400b3d92e5"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "a0ad035b23bdc15b548458348c07bb874348759f3ec1f4f51901639af67b5bce"
+hash = "1f6af5d3701b93bdf0bed65e3938c687e46c75cc0026bd813374ce2f3c07ce2b"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "b9fe5a87618cef2218205cbd75da04922539a8d7a29a89fc0cc4d8b368a2fb86"
+hash = "899685dcf62ea766b1bc17580eac543b72901fcc6e7854de9da9180b5974d460"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "080d5bbc64d16728e2ef12d364e4a2c4c7278cc6477ba54c8c159f03352e4fdc"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
@@ -475,5 +475,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2d6489c9d8e72f8fe815ac8a4f2849ca255b0512fc3ac10703581315591159c9"
+hash = "76e0233e59450354105a963b960cba528920952d8c3d0d8cceac40adf9a6c8fc"
 metafile = true

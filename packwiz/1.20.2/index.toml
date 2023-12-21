@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3d6b086706dafceb5141954c666068d97b23aab0101836c955e826a0e43b78c6"
+hash = "c6fb2a9c31fe297e65fbb72c20967c498860168082a5d7881487dcb1a61ac72c"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a60e11e12ce5ce248b5f087c26558c7ddfe3d113741a57c1be0920400b3d92e5"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "4c56c85b6367468481d5106982c667899e1141eb753e8fbef10c7a855e8f7bd0"
+hash = "b323f4dac554d4396957ba6c2db2634b762d535c5baf063ea012153254dc129d"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "b9fe5a87618cef2218205cbd75da04922539a8d7a29a89fc0cc4d8b368a2fb86"
+hash = "48958a4edb5f04c8962be5886e531cff28450b1248eb068d91ea4b8d63df6eee"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "12495a3eca5446202fffefcd0a6e0e0558bc03d3a7669043b0cbb0c2fb58ba2c"
+hash = "a81a6caaf787401a7a32dceee38e1d3f67ee6d747fb8fd7e38950b9c220e0c92"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "34204cc7f858b076adf34a7234a847a8ee1f8afa49e08497c9ed7efdad0897d9"
+hash = "c08c0b506ceacf79e77e25fffb8538274d75a9d70d8ddd57cc0fcac0f2a5444a"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "080d5bbc64d16728e2ef12d364e4a2c4c7278cc6477ba54c8c159f03352e4fdc"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
@@ -438,5 +438,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2d6489c9d8e72f8fe815ac8a4f2849ca255b0512fc3ac10703581315591159c9"
+hash = "76e0233e59450354105a963b960cba528920952d8c3d0d8cceac40adf9a6c8fc"
 metafile = true
