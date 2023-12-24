@@ -22,7 +22,7 @@ hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f8451d2ec5d377e706879b8319c84ef6f164947abae33162d5257c11d1a45090"
+hash = "863b4b6b151f2500839ea029edeb2dff8676ca306bd58c5e2fc6a79e80e7d86c"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "bd0bfff02f63f53b605801ad02c96907ee29b1b076369abb3bc3d169996dc620"
+hash = "daf48a25d5ba4874ac31164c6a0a473b2bf31e019abed76940eabe6d5623c07f"
 metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bbcda2f7b256694ae2f88b50242666166b9099be3f7cf5982f1313f33aa5b1c3"
+hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "4c56c85b6367468481d5106982c667899e1141eb753e8fbef10c7a855e8f7bd0"
+hash = "b323f4dac554d4396957ba6c2db2634b762d535c5baf063ea012153254dc129d"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "651e82c2b53b326df742ea36e806f3003e5ad68d1177a09fbe94d9dc7e780471"
+hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "59a63978280095fc713766f6da6fd2375395b8eadbe54a681978c32a406f3fcc"
+hash = "0284cdd1d19bb3d33aababe9ff1446886e586852450036b8c45e7bedeb1974a4"
 metafile = true
 
 [[files]]
@@ -438,5 +438,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "76e0233e59450354105a963b960cba528920952d8c3d0d8cceac40adf9a6c8fc"
+hash = "873cc072ae826658a2bc30004c53c063477e34a364862d83cd2c306956d0f2f8"
 metafile = true
