@@ -22,7 +22,7 @@ hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "863b4b6b151f2500839ea029edeb2dff8676ca306bd58c5e2fc6a79e80e7d86c"
+hash = "9fa8acb822ef6f6f923199a602d3eb00b6b594fdbcb16250f0341c17c62a1097"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -177,11 +177,6 @@ hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "e00a6c3069bad762fddbdfe81b4fb85ed16dfee27bca33187e80c0659c3ba2e0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -262,11 +257,6 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "c4071b1197d1851a3e4f8b175db316771dab3c48060a4b2854f0bf3fcee597ed"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -294,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "b5ae45fff91dd80abf8271bdb86434d3caa45d4139e476b174bb8147864c0ae1"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "8f7da2a5ce61a4123163b1f890abd7933114b6f6e21a7e5097ca8c82ebd0e191"
 metafile = true
 
 [[files]]
