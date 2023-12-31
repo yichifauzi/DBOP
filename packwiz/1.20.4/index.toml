@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "691e132d4db104ebd999a91a17a1b7c0de1b6f80c4efb4cc3d66cdd4f59a1f86"
+hash = "a054765471e2b9625ca5fd17afe57219319e790bfaf5c60045120faf4c9ca94b"
 metafile = true
 
 [[files]]
@@ -228,12 +228,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "09bbc63eb9db568591073a6b1c8e3f5185702211980fbc1635f716c7146811b0"
+hash = "1dccc0ab54ee79019edad0688a37511c7a20fc856283bc1c205437e69e3584b3"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "b323f4dac554d4396957ba6c2db2634b762d535c5baf063ea012153254dc129d"
+hash = "6924b82866feca8fbc0ea45b7c9268206fe31cb664c3dfb38e4dd62aacd0033d"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "b5ae45fff91dd80abf8271bdb86434d3caa45d4139e476b174bb8147864c0ae1"
+hash = "091c4ea5881034c224f41a21fd5bf4de8e4f75bbcbd4edce0c5fb91f4f637a0b"
 metafile = true
 
 [[files]]
