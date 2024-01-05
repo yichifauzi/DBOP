@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
+hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1dccc0ab54ee79019edad0688a37511c7a20fc856283bc1c205437e69e3584b3"
+hash = "88fe2cd2e5d5e50597e09f704ca21bc7ad499e65d4c043250e9bd9bef9ccd22c"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "091c4ea5881034c224f41a21fd5bf4de8e4f75bbcbd4edce0c5fb91f4f637a0b"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "be45cdd2ea730890957e66f7998ca9543a7bf252fb9aa052c859e4f03ff92ed1"
+hash = "5aeea8a1729dd21ed571f619f0b5e74a55a395bc044b2d2e827fdf192ef2c444"
 metafile = true
 
 [[files]]

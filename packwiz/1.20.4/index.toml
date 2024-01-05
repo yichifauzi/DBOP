@@ -168,12 +168,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bfd6aac603c9f2a577892c936cf1550010b92fdbe564f8253de8dbe34a562924"
+hash = "be785e99be4bb36a3e5a8e54ccf389f4f44319d4787eb7c75c2065ef06097b5d"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "17b52c26167bab2ff5d234d22e88b8022ba8c4e574b5240dc36a7ff413253378"
+hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1dccc0ab54ee79019edad0688a37511c7a20fc856283bc1c205437e69e3584b3"
+hash = "88fe2cd2e5d5e50597e09f704ca21bc7ad499e65d4c043250e9bd9bef9ccd22c"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "091c4ea5881034c224f41a21fd5bf4de8e4f75bbcbd4edce0c5fb91f4f637a0b"
+hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "be45cdd2ea730890957e66f7998ca9543a7bf252fb9aa052c859e4f03ff92ed1"
+hash = "4808ab8081af61c9aae3067dd243ec6b7b6acc391429dcbd362357000d14085c"
 metafile = true
 
 [[files]]
@@ -418,7 +418,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6625f9eb1f24a2fac67e4edc47582b0e7abf2a656f348c6c249dbbe708b59d7c"
+hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
 metafile = true
 
 [[files]]
