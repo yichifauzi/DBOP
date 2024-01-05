@@ -317,6 +317,11 @@ hash = "1883ce97c88cd65830988c865757e077646632881fb4fceb263b7127256d84b6"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "f395370c85fadafff7f793cd66a875c927c381320cfdb5a638ad3bc7b59fc01e"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
 metafile = true
