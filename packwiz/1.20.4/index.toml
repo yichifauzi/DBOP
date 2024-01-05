@@ -177,11 +177,6 @@ hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "e00a6c3069bad762fddbdfe81b4fb85ed16dfee27bca33187e80c0659c3ba2e0"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
 metafile = true
@@ -262,11 +257,6 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "c4071b1197d1851a3e4f8b175db316771dab3c48060a4b2854f0bf3fcee597ed"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
 metafile = true
@@ -294,11 +284,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "8f7da2a5ce61a4123163b1f890abd7933114b6f6e21a7e5097ca8c82ebd0e191"
 metafile = true
 
 [[files]]
