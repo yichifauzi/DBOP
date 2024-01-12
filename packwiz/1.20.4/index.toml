@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bdee49ed5bd0f58601ea8d56101490f685e75540a7885b5bb50674df1f4dd328"
+hash = "2da3320ba7704f932626355b0ec27c083bca9b453db93b39a524b7ab3143b7c9"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be785e99be4bb36a3e5a8e54ccf389f4f44319d4787eb7c75c2065ef06097b5d"
+hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
 metafile = true
 
 [[files]]
@@ -233,7 +233,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "052cee4a2f1230519fb12dd030dd69990ff35aae840264d40065a0fdcb167ab6"
+hash = "dce61dc785a16446575cac0c042ded380226ed257eac97d7b53a2952e423086a"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f395370c85fadafff7f793cd66a875c927c381320cfdb5a638ad3bc7b59fc01e"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -318,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "783fe7d40a9e8e14775ed458cedc7cfc5cd13a2d3d857792adfda77025d3f379"
+hash = "1654a6c794a7b7af5a5c683287d81ec074e441c2b4b6bdad4862b590430e68cf"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
+hash = "6063147a48c044764c85e6692513c95fc6b7f6c02f17318ad350a63f386c492d"
 metafile = true
 
 [[files]]
@@ -368,7 +368,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "4808ab8081af61c9aae3067dd243ec6b7b6acc391429dcbd362357000d14085c"
+hash = "e59d293e4cec918d73bb4e2c5dc42d878fda7691bcad59b360f3a21592ac6be9"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0586ab215d02d290a9e8562763a674f54c6b35dde612e9f19a4252fcaab2ff6d"
+hash = "015e69cbe657406038201674ff4c38c469a60dd50eea62f6662ea9ffb820a248"
 metafile = true
 
 [[files]]
@@ -428,5 +428,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "873cc072ae826658a2bc30004c53c063477e34a364862d83cd2c306956d0f2f8"
+hash = "839142073dff1ec9fe936c3a0f9e44a10a5b643a8de59b0a6f290573a25a4cd6"
 metafile = true
