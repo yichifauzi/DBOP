@@ -22,7 +22,7 @@ hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "863b4b6b151f2500839ea029edeb2dff8676ca306bd58c5e2fc6a79e80e7d86c"
+hash = "56aaff383210b3c76ca38581d61ca066667ecca12ca3f920f2c855847e3994a0"
 
 [[files]]
 file = "config/mousewheelie.hjson"
