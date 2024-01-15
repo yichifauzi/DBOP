@@ -22,7 +22,7 @@ hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "56aaff383210b3c76ca38581d61ca066667ecca12ca3f920f2c855847e3994a0"
+hash = "bff3acb38ec8cb7f63fc82f2a0102180675c6ebb2eb764f9e41a2110f9da4946"
 
 [[files]]
 file = "config/mousewheelie.hjson"
@@ -254,6 +254,11 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml"
 hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
 metafile = true
 
 [[files]]
