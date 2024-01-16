@@ -407,11 +407,6 @@ hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
 metafile = true
 
 [[files]]
-file = "mods/videotape.pw.toml"
-hash = "6487f21b1b5ba8cda600ae36697035675cd387c802e546a351524c5d3fbe7dc2"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
 metafile = true
