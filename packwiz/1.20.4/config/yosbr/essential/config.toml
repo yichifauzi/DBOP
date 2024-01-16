@@ -23,8 +23,11 @@
 
 	[hidden.hidden]
 		emote_perspective = 1
+		coinspurchasecreatorcode = "__default__"
 		screenshotbrowseritemsperrow = 3
 		spspinnedgamerules = ""
+		showemotepagekeybindbanner = true
+		coinsselectedcurrency = "USD"
 
 [emotes]
 
