@@ -1,36 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "4ae8241015ed1dad4c97bf133d4dd48f07fb9ed409b95b7e70e5df0470b83221"
-
-[[files]]
-file = "config/dynamicfps.toml"
-hash = "2fcf11e6c3a1ff8240276bde9c534445860ca75e82e9b08da23d6f5d83fa29ac"
-
-[[files]]
-file = "config/enhanced_bes.properties"
-hash = "825d084b84356890d99c0aa17ba69605598f09696eee06274c312d78e381e706"
-
-[[files]]
-file = "config/ferritecore.mixin.properties"
-hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
-
-[[files]]
-file = "config/immediatelyfast.json"
-hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "bff3acb38ec8cb7f63fc82f2a0102180675c6ebb2eb764f9e41a2110f9da4946"
 
 [[files]]
-file = "config/mousewheelie.hjson"
-hash = "e611e7b378cc31c9accf9019ba9160f9f0dbb87d1b87b1c279f334186c1f7976"
+file = "config/modmenu.json"
+hash = "1d65ac3421502848a41c9aa369e3be2494590be71c57d6f12392591a935c24bb"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "4ae8241015ed1dad4c97bf133d4dd48f07fb9ed409b95b7e70e5df0470b83221"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
 hash = "3ae22ec288cf259b40b7678f1a8fdbf54d632c99c5f82a037392fb0a2303fd82"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "2fcf11e6c3a1ff8240276bde9c534445860ca75e82e9b08da23d6f5d83fa29ac"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -51,6 +39,14 @@ hash = "573bbb101771e1ffa11b347e9e3465eb4b41e0bc292e6dc23dffebe1d5b44801"
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "fbdfff0d6ff4c2ca863895c6ad091e1170f4fb841bfe72981a4d5ff223639bf2"
+
+[[files]]
+file = "config/yosbr/config/ferritecore.mixin.properties"
+hash = "a2091a291309db8920c8a80e913ed31c24c29687d8cd25ac18076ad85a90ddb8"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
@@ -82,15 +78,15 @@ hash = "5baeb566294558c413fc88749baea4f35f4eb75c8559ed9267b9f4e70e04ef65"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "f82704e10f9a544e51108c4e7faf36e51c5e160f1039fbe7e5b3d7583d45b4b8"
-
-[[files]]
-file = "config/yosbr/config/modmenu.json"
-hash = "032a1cd3ad4ab2248f1971172dcbf6d7316eb897837f10f8f8319c14dade6f43"
+hash = "f6b67feb4594c6a99f98056ae7e8f197d83d2009475d026f9fc1059e07f46eef"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "0eb4edb8d0bd8eb33da1e47356a7c6c154b215e3313b0c5b716c8dc1502d69ee"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "e611e7b378cc31c9accf9019ba9160f9f0dbb87d1b87b1c279f334186c1f7976"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
@@ -129,12 +125,12 @@ file = "config/yosbr/config/vmp.properties"
 hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "1384cb6de3a3fb73e02ad143a407b48ae2697f4bcc0687dbc994753aed21bc39"
+file = "config/yosbr/essential/config.toml"
+hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
-file = "essential/config.toml"
-hash = "34ef0c6da70b2e29fb9134f77aaf5a56769ea86718672bfa8ae7d61b6d0ccfa8"
+file = "config/yosbr/options.txt"
+hash = "6dd91f06ccf2c1138fa0461eeb49ba9694c055f907c62350c141bde487956879"
 
 [[files]]
 file = "mods/animatica.pw.toml"
