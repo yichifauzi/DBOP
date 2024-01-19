@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bff3acb38ec8cb7f63fc82f2a0102180675c6ebb2eb764f9e41a2110f9da4946"
+hash = "9e911ad363f01c58115d0b082313eaabed9e8fcde14bf3d972839ea16636b05f"
 
 [[files]]
 file = "config/modmenu.json"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "eb7d18a31cda57ad548a95090da961b68360b8ff8387370a054635279fea0604"
+hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
 metafile = true
 
 [[files]]
