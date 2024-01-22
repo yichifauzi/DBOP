@@ -9,6 +9,10 @@ file = "config/modmenu.json"
 hash = "1d65ac3421502848a41c9aa369e3be2494590be71c57d6f12392591a935c24bb"
 
 [[files]]
+file = "config/moreculling.toml"
+hash = "c4b8e75abbea3246575937e702f031efd027fcf5f7355993419919dd2496c4fd"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "4ae8241015ed1dad4c97bf133d4dd48f07fb9ed409b95b7e70e5df0470b83221"
 
@@ -79,10 +83,6 @@ hash = "5baeb566294558c413fc88749baea4f35f4eb75c8559ed9267b9f4e70e04ef65"
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "f6b67feb4594c6a99f98056ae7e8f197d83d2009475d026f9fc1059e07f46eef"
-
-[[files]]
-file = "config/yosbr/config/moreculling.toml"
-hash = "0eb4edb8d0bd8eb33da1e47356a7c6c154b215e3313b0c5b716c8dc1502d69ee"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fefedc3157d0dc6d05af2ed8ae6fc0549a6011362ac2170f7b1115d5f73ca95b"
+hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
 metafile = true
 
 [[files]]
