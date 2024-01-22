@@ -348,6 +348,11 @@ hash = "1dd763449a565c742e6c3d3227b5167d3d423df8244959d8c7083ff99d225ea7"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
+metafile = true
+
+[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "aa82f9bf467fc7069f3b00a612348b6fa15f112e06a3cda85e67181daa18b974"
 metafile = true
