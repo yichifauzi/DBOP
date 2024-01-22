@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "fa914bac11bf97e090fcd8005a82efe70734f72c1e60251fbec6c91cdaf91650"
+hash = "821563e8e9c5ca2e31397655de6a9ba59ed93e7bd440f09a610798faaa3bff39"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2498a978634a0add18ebd0a47b4e8d23dbe8ac19d926fabf436d15ad94bd9a44"
+hash = "35604d51f362bbe912d84d8a43835c6b205fd51f8c655202ba1bf59aaaddab19"
 metafile = true
 
 [[files]]
@@ -439,5 +439,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "839142073dff1ec9fe936c3a0f9e44a10a5b643a8de59b0a6f290573a25a4cd6"
+hash = "90c849e9815a573436b53334be4636ccd63b5ba47cebe6677979fd5375b00185"
 metafile = true
