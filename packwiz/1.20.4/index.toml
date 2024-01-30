@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "501f1efe0af21f1aa688d77205a3e2100a26f55ae54c361df694036e0f9f14e0"
+hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c1a503279c840760e75e9c70d1c05944b99222e4028ec954dade8ef9da4d9e51"
+hash = "03f7b3ba98964e062668d8c105f8a40f7e6c649aab938e8da2d6219ee607c2ca"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "daf2a7408eeeaf8439527b153d24f4ee60865d8e3e7b2e4e05d4d56ce0b1797f"
+hash = "e040f3b3925a1d08e1b0b787a10816303d79cec5902c8118baec4d6fea036b74"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
+hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "df1041db6a11dee59405e3b0c65765c461f9cd97e327a041e440ea6d9e94b3ad"
+hash = "d2cf752938bcc2e83b8389fc1c6fc0557eb6a8b721fd33733b89f1a09fb535e5"
 metafile = true
 
 [[files]]
@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
+hash = "bdb385d21df44670f40faa233df7e7a50a20159615766e3b7c16746a7ba2531b"
 metafile = true
 
 [[files]]
@@ -404,12 +404,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "3d1f2e80bd6d7c53b599f6557aad24d225d42a5a985eb7a83b21130a12fe205a"
+hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ab1123243e4feacf2eebcbe8b75f67abea0cc2330e61197db899288c02bd89a0"
+hash = "83340bcd43d20d0aa3ef32df915269997ac39f098e3258d0de68be62793c1308"
 metafile = true
 
 [[files]]
@@ -444,5 +444,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7a87e6cb22bf2868322ca331b2fb48c5e2cb916f72f43e2bb8663aec62a0c82"
+hash = "92243662a66a93514d55ae3e445886716ea59acbbd840bfaa4113e67e686405c"
 metafile = true
