@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5c77827ed3d6f0553faeae1aa8fb42bdcd30ffdc8db9768c291448ed01d6a702"
+hash = "56a4d9f9b47a65b3508192e519163ff73c712354d3ff907938f2593d18ea166e"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3c74be6e3f141680170ab0235cf272db65d5bf82ddbf99f9cbdc178fffc9a735"
+hash = "17cb1c44cbc5486f3eedf1e4de4c48c29a4f8cd8282ff757e64c0b6f3b964dd6"
 metafile = true
 
 [[files]]
@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "18367cc70788ea339b4cb15a1f1437642467dfcf547235a982d821c2c273926e"
+hash = "ace5c16356f83d83a41ba828d3657324f5bcdc0dfc75ff950d371f9feef742f2"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "a4fc7e1049b3b97b3232262bbccf6e21d9247881e50664fee416ed069f0626ff"
+hash = "f65a3578bb4e5d903d75de8c631ce7ad6d60b451aad7dfc9b1e3fc9c62eb4bf6"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
+hash = "a52e7b7897b5f1000fbbb1c4fb72eb0691de2672324492a55c115b99496c1fec"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f395370c85fadafff7f793cd66a875c927c381320cfdb5a638ad3bc7b59fc01e"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "2205cb06ba208c342a08f3f2e14bd2bbebdfd2ff0be76b22170f231c01b7f76e"
+hash = "aa1cebfcacb1eb5019bd5ae27591a4201732afd49b8ac46f8fe2dfd059dc4b75"
 metafile = true
 
 [[files]]
@@ -375,12 +375,12 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "df1041db6a11dee59405e3b0c65765c461f9cd97e327a041e440ea6d9e94b3ad"
+hash = "d2cf752938bcc2e83b8389fc1c6fc0557eb6a8b721fd33733b89f1a09fb535e5"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "97b7b3f39eb2a15b0ac6d25004bf469b8cc9cfbd2ab9ad49e86986bd97080cdd"
+hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "d797b79ded34b7e3ad934422a341014ea959ed7954dddb3ecff17ae8f1a9d0f9"
+hash = "83a91f8d75114989ce95b13302fdf916c400514e8b43c32e8aafc3e17b2f5e03"
 metafile = true
 
 [[files]]
@@ -435,12 +435,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "c691a2fb318ec95581331ec9808f4916e4579cded9730d8851db95396806c8e4"
+hash = "5379b1da9fa50def37ede26e66dd963de3ce6f8576cd60a6b117998e09a5597c"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d13a38ea855dbbdf44c6032d396e250d52876ff8d33a9161763fdbd286885a93"
+hash = "dc2a58b44595ac5426543dc3c1ad1aad4c0e87a48eabee8978b000d505570846"
 metafile = true
 
 [[files]]
@@ -475,5 +475,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "76e0233e59450354105a963b960cba528920952d8c3d0d8cceac40adf9a6c8fc"
+hash = "92243662a66a93514d55ae3e445886716ea59acbbd840bfaa4113e67e686405c"
 metafile = true
