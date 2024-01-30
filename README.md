@@ -13,15 +13,15 @@
  ### DBOP是一個基於 fabric模組平台的一個優化包 大部分模組都是客戶端的 並且能夠優化Minecraft麥塊
 
  ### 特點
-  - 基於 Sodium 模組 能夠帶來麥塊巨大優化
-  - 包含 Iris 光影模組
+  - 基於 [Sodium]([https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)) 模組 能夠帶來麥塊巨大優化
+  - 包含 [Iris](https://modrinth.com/mod/iris) 光影模組
   - 原汁原味 無任何修改原版機制
   - 使用 ModernFIx 來讓Minecraft麥塊載入速度更快
   - 一些Optifine 小特性同步
   - Spark 模組 方便檢查什麼東西造成卡頓
-  - Controlify 增加手把支持!
-  - Essential 模組 增加許多好用的功能以及跟好友連線的多人體驗 跟許多不錯的時裝
-(2只有相同 Essential模組的好友能看到時裝)
+  - [Controlify](https://modrinth.com/mod/controlify) 增加手把支持!
+  - [Essential](https://essential.gg/) 模組 增加許多好用的功能以及跟好友連線的多人體驗 跟許多不錯的時裝
+(只有相同 Essential模組的好友能看到時裝)
 
  ### 回報問題
   - 在github上回報問題 : [DBOP
@@ -37,16 +37,19 @@
 DBOP is based on fabric modloader that optimize minecraft performance with mostly Client-side mods
 
 ### Feature
- - Based on Sodium that give minecraft huge performance improvement
- - Include Iris mod shader support 
+ - Based on [Sodium](https://modrinth.com/mod/sodium) that give minecraft huge performance improvement
+ - Include [Iris](https://modrinth.com/mod/iris) mod shader support 
  - Vanilla experience
- - Faster loading minecraft using ModernFix
+ - Faster minecraft loading using ModernFix
  - Some Optifine parity
- - Spark performance profiler that will eazy maintain what causing lag
- - Controlify add support for controller!
- - Essential mod that add many quality of life feature and easy friend multiplayer experience with very cool cosmetic items
+ - [Spark](https://modrinth.com/mod/spark) performance profiler that will eazy maintain what causing lag
+ - [Controlify](https://modrinth.com/mod/controlify) add support for controller!
+ - [Essential](https://essential.gg/) mod that add many quality of life feature and easy friend multiplayer experience with very cool cosmetic items
 (only Friend with Essential mods can see)
 
+<img src="https://cdn-raw.modrinth.com/data/olssWAmw/images/408d1217daeece3d7e85cc3bb4c38764d179a247.png" width="800">
+
+tested with Intel i5-11400H NVIDIA GeForce RTX 3050 Laptop GPU 32GB RAM (4GB use on game)
 
 ### Report Issues
  - Report an Issues on Github : [DBOP
