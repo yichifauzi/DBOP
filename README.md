@@ -8,6 +8,7 @@
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
 ![CurseForge Version](https://img.shields.io/curseforge/v/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
 ![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/968954?style=flat&logo=curseforge)
+![Discord](https://img.shields.io/discord/966225033968111647?style=flat&logo=discord&label=%E5%9C%9F%E9%9D%88%E6%B3%A5%E5%9C%9F%E5%B9%AB&link=https%3A%2F%2Fdiscord.gg%2F7upZWA82Zk)
 
 
  <details>
