@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1ed84e639333d8023ad8a0bd27571baee3c76ea3c0b1da21ead2747b9a927908"
+hash = "000925b51fd4237dd783d996dafd068f4d854149b3f0d929eb81e61a483216c0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "187e0238cdc73b9d9a88e77e0dd2c5ac9483857d01e6c1aa9cf50ccfd1f10cb5"
+hash = "e97127d8b38df96ee8e61224b89b8acc404d8deaeb4aeb513a643e89aa3796ab"
 
 [[files]]
 file = "config/modmenu.json"
@@ -149,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
 metafile = true
 
 [[files]]

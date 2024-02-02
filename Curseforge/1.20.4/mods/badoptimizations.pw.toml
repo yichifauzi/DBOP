@@ -1,0 +1,13 @@
+name = "BadOptimizations"
+filename = "BadOptimizations-1.6.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a96ae2466c6165d849f90839f900fcc830af7dbe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5033554
+project-id = 949555
