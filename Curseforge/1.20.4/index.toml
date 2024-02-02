@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "79399f37f4c08a6bb04f1c72702e1c83872f3e7d2ca4e90c86b02fdcf954befb"
+hash = "b3e0c7a6b2bad3bb0582930507b73ae14e26eebaf4f9eef0b44bafbb01e90bf4"
 
 [[files]]
 file = "config/modmenu.json"
@@ -283,10 +283,6 @@ hash = "553a22a24a33cdc98dca96eb2a1410c3031927dfa8661ff6b0446f07c9863239"
 metafile = true
 
 [[files]]
-file = "mods/iris-mc1.20.4-1.6.14.jar"
-hash = "ecdf04e2b7ebf2e96320a78b6ba96fec2a9402528488abfe5e1baee0d390e698"
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
 metafile = true
@@ -312,10 +308,6 @@ hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix-fabric-1.17+-1.1.5.jar"
-hash = "b8ac33d7262e019710dd25e454116616bc9ed1f714ed910594b28a4c1da5adde"
-
-[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
@@ -336,10 +328,6 @@ hash = "68d30e68a792d54357aad2ae7febb6b471681a65885129968eca453427bfd74e"
 metafile = true
 
 [[files]]
-file = "mods/modmenu-9.0.0.jar"
-hash = "b180249fa2b5e01ee703a987aedefd5e45ee940919c58725e4967d6e7007a0f1"
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
 metafile = true
@@ -350,10 +338,6 @@ hash = "cf9ae5744c15746a004a660dcdb120e8b81a70b56e3d55ce4d1781d494a2fc58"
 metafile = true
 
 [[files]]
-file = "mods/moreculling-1.20.4-0.22.0.jar"
-hash = "6ed6ff70b93710d55fe6ed3c0386c7750926846954ed58c043ff50f5baae1636"
-
-[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "ef9c4bc27256d065df4feaba2bc05883ba22987c41cd48786070d37ae85cc8e1"
 metafile = true
@@ -362,10 +346,6 @@ metafile = true
 file = "mods/mouse-wheelie.pw.toml"
 hash = "856e546207792c1890d5171367a00c372174d44abce96a9d53ba0beeb99a3f80"
 metafile = true
-
-[[files]]
-file = "mods/noxesium-1.2.0.jar"
-hash = "9e41c719092c1e9e15b77cf42f06cd5d0b9a20ee9240306b76f4fff53c49830d"
 
 [[files]]
 file = "mods/noxesium.pw.toml"
@@ -418,17 +398,9 @@ hash = "ecf5a944cc6503d145849fd762cb370a0ba4d70a1dd2f2f2e12cb5850549e0c0"
 metafile = true
 
 [[files]]
-file = "mods/simpleshulkerpreview-2.4.2-1.20.3.jar"
-hash = "886031cf2e20077fc5ed22ff56f42176027cc06a48a573e3d9ea650a47ee71dd"
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d88cd6f94947541e635993e458c7bbe3a33ee4371374b69fc763b570fa051417"
 metafile = true
-
-[[files]]
-file = "mods/sodium-fabric-mc1.20.3-0.5.5.jar"
-hash = "d45f023bbf84b04519107c3de6b71ed90199812ba533e25a3b1060402ba5ac0d"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -439,10 +411,6 @@ metafile = true
 file = "mods/spark.pw.toml"
 hash = "4bd3b59114877f918b080a4c73bfc72d3e3dc648394005f1b1790e50ee1c83fc"
 metafile = true
-
-[[files]]
-file = "mods/threadtweak-fabric-1.20.4-0.1.2.jar"
-hash = "4e47a3fad59cb9aed52b68a96a7cff0ae4b00ee8e1a9f9acf03381f8bfb19e4d"
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
