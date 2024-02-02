@@ -2,8 +2,12 @@
 
 # DirtTW's Basement Optimize Pack
 
-![](https://img.shields.io/modrinth/game-versions/olssWAmw?logo=modrinth&style=flat&color=1BDA6A) ![](https://img.shields.io/modrinth/v/olssWAmw?color=1BDA6A&logo=Modrinth)
-![](https://img.shields.io/modrinth/dt/olssWAmw?color=1BDA6A&logo=Modrinth) ![](https://img.shields.io/discord/966225033968111647?color=5865F2&label=%E5%9C%9F%E9%9D%88%E6%B3%A5%E5%9C%9F%E5%B9%AB&logo=discord) ![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop) ![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/968954?style=flat&logo=curseforge)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
+![Modrinth Version](https://img.shields.io/modrinth/v/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
+![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
+![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/968954?style=flat&logo=curseforge)
+
 
  <details>
     <summary>中文</summary>
