@@ -6,6 +6,7 @@
 ![Modrinth Version](https://img.shields.io/modrinth/v/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
 ![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
 ![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
+![CurseForge Version](https://img.shields.io/curseforge/v/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
 ![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/968954?style=flat&logo=curseforge)
 
 
