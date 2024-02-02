@@ -1,0 +1,13 @@
+name = "Server Resourcepack Checker"
+filename = "resourcepackchecker-fabric-1.20.4-1.1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5fa5220b213096270a79910e37d51b9efcdddc24"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4984400
+project-id = 687618
