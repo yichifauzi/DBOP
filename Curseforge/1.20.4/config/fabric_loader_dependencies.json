@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": { "+depends": { "fabricloader": ">=0.15.6" } },
+    "minecraft": {
+      "+recommends": { "DBOP MC 1.20.4": ">0.1.30" },
+      "+breaks": { "holdthatchunk": "<=2.0.1" }
+    },
+    "lambdynlights": { "recommends": {} },
+    "indium": { "-depends": { "sodium": "" } },
+    "sodium": { "-breaks": { "indium": "" } }
+  }
+}
