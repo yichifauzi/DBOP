@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d3a7764f686bd4c6e44ef7e2ec0581fdefeb9ed3d4aab1db63aa58821a264d61"
+hash = "fa58592ed842593d450e7e2dcb56e7c8b88dff7c0fd2fe2dcd92fbcbad545718"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "03f7b3ba98964e062668d8c105f8a40f7e6c649aab938e8da2d6219ee607c2ca"
+hash = "121cb63c8ecad9d730ecbd21000182b29a7f0e9ff8bf7645574d556a959d132d"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c4afda1d505225ad18e689ded06f0ed170dec2ea5e6c9621277b565d0fc338b8"
+hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5ba07c706075d05a1e095a4ab22997926be16615847e531606b5f39ddbd428a2"
+hash = "b88658496a83e1ade03fe955191c379d413db8915f2f8d9641797b6f22865b25"
 metafile = true
 
 [[files]]
@@ -433,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "25f30abe64eb76ee087648f3995a757868d2c5e1778610c03141bf8d2de2d955"
+hash = "53ef2669ace27d6233cb04dee1925aa6f3c6c4e313cc762da4edc1b30c7a856b"
 metafile = true
 
 [[files]]
@@ -453,5 +453,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "92243662a66a93514d55ae3e445886716ea59acbbd840bfaa4113e67e686405c"
+hash = "476370f8fc3d5f7aaedd1a39c9b81af6e94e1b8ce15f5e6e0db5b8ae2dcfa71d"
 metafile = true

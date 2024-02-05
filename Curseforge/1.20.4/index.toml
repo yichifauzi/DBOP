@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "2be896703e308cd88d1d30dbc0cf950daf602b3df6388aea8b9727fb53ae0b0a"
+hash = "c8a53a260e84c88e29e25e4ad7e5a72e2f2958ab48b98607a3bc1a60a51cd346"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "24ce4ba24398f4d0562d16be21b986df01f85e522d4046c0d10e76b8cb439f43"
+hash = "6dc7dc0ec60d05c3bfda72ced4faa84a6bd0d6f06b391736081587e1e7a3639a"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "68d30e68a792d54357aad2ae7febb6b471681a65885129968eca453427bfd74e"
+hash = "fe5eb25afb43a5bfbd7d16c8b72a307d5440ee6219fa7f5d25670e548493aa1a"
 metafile = true
 
 [[files]]
@@ -354,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "856e546207792c1890d5171367a00c372174d44abce96a9d53ba0beeb99a3f80"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "9ca0bad38fed184ee50085d17a401105b3e848ff8ce12cf79441d5170082512c"
 metafile = true
 
 [[files]]
@@ -428,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6425f939b8b50a1551a2955ba351d654596fa1582a9423975fc248314ac3cd14"
+hash = "ea0e0e298801416cce5b0fe6fddacd3f01ebcea0b97e376012c2b784a7ee1965"
 metafile = true
 
 [[files]]
@@ -448,5 +453,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "052d49618b6627395a3839519a04e4d46ba6a308894d3abba602b0ec4a088595"
+hash = "620f8e2fc9e651872902d0975f729ebadd6c31c044154165f22da3a5df72acf6"
 metafile = true
