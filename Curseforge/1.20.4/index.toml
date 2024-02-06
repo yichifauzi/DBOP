@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7189eae753a4eda2a1b9c0a5bec639882d2e4893eab95fb82f85146e2084ca1b"
+hash = "b483e17ab4115f6e6ad8f2add741fdbebfa33d64fa12dc3a10fd24a88ee25cde"
 metafile = true
 
 [[files]]
@@ -288,12 +288,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "553a22a24a33cdc98dca96eb2a1410c3031927dfa8661ff6b0446f07c9863239"
+hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e97fb0a6414879b4ac07651975deb6fef55c9619f9f5761249b94136908a1131"
+hash = "61fc4926a5d915dd8e52dce0c906b100f0d3c72ac91008c2a90c88abe22a3bf0"
 metafile = true
 
 [[files]]
