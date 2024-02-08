@@ -137,10 +137,6 @@ file = "config/yosbr/options.txt"
 hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
-file = "essential/config.toml"
-hash = "34ef0c6da70b2e29fb9134f77aaf5a56769ea86718672bfa8ae7d61b6d0ccfa8"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "156428c62a353b046a9771ed29e9a229683c79baeea728a896f5c41fa1f81a1e"
 metafile = true
