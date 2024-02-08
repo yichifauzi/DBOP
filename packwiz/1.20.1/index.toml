@@ -134,7 +134,7 @@ hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5b38e6c9dd26217d03550ff43bd435ed3d0cfd72f0b85d9c98b31293318b9ada"
+hash = "a4e21bdb6c14b12cd603354e683a00e261161a62ee20a3c5dd03b2be841a7754"
 
 [[files]]
 file = "essential/config.toml"
