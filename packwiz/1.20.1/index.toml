@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
+hash = "a2a38850af0076bcfb2c34327f59626d73a87876d03c4039092babfc673428c6"
 metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "5b14e27c49afae3796b106a408c5d6b1e5d6628226a7f95c1902ef1ece9c6444"
+hash = "1275df3c714ce6fb52294e5c63b1fe2dd32dbe0d43714b4b9791eb9b3f2f45d3"
 metafile = true
 
 [[files]]
