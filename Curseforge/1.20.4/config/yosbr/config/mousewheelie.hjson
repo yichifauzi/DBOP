@@ -60,7 +60,7 @@
 		scroll-creative-menu-items: false
 		// Sets whether creative mode tabs can be switched by scrolling over them.
 		// default: true
-		scroll-creative-menu-tabs: true
+		scroll-creative-menu-tabs: false
 	}
 	// Change sort modes. Existing sort modes are ALPHABET, RAW_ID and QUANTITY.
 	// For Minecraft 1.19 and up there's also CREATIVE_SEARCH.
