@@ -6,7 +6,7 @@ hash = "a7ec2ce1d3a9a17d03c4af8be63bf389270dd58c9271b5e097c0180c0e41a4b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f3c9caeaab6c57764e9c9b2604fa3519482dee3e73c26b40290b8026ce0e1e3c"
+hash = "623dff11cb57231fe8aea6dce58daf6d2c3b3a9696726a9c2146157d548148ed"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d8e45b80e8bedd5400ef5f8037704ada5e7ec3849d82ddc91326e7927b652e81"
+hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
 metafile = true
 
 [[files]]

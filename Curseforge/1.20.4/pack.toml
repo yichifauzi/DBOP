@@ -1,11 +1,11 @@
 name = "DirtTW's Basement Optimize Pack"
-version = "0.1.32"
+version = "0.1.33"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ef7af4c4803f4380218c61105766eebc92cf36a52706fd19794d98ecac8b3e5b"
+hash = "02f870c5ae2878d19eaf63ffda257d46965c7d3d58a1106740051239006f8b9d"
 
 [versions]
 fabric = "0.15.6"
