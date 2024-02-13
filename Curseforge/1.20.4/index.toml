@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "14f5a01a5d6fc58a64c3b12c073b438b94feb46273665dd37abe40820bd28448"
+hash = "fcebf63b421f84ab3db4d0be0f7cc5b2877ca2f5565b3801f05a9e73ba19735f"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ef40445de877441cd0d7ee241ba16236939b41b7a6b5ae8738dd6efb4cce70e4"
+hash = "12022f2b0f5e88891c27bb2c6c02421c285c9a6fa201442cea12733c91ff3200"
 metafile = true
 
 [[files]]
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "14b34984590f0786a3dcc8d584a546262355c7012c876ada496a12aecbd2c957"
+hash = "2f29c7614bf71f495496798df32e6442de9fff74d7866ba0668b20124a00d290"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3663f500ee6a13cc7716b0f6fd08fa78e427b488654dda4162f48c0cca2ea6d7"
+hash = "2039f5dff95a1831eab3e34bb3f17470c2f12608483959557a03120fdf926a44"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7169f560465ba70f204d3c4189cf3d1faef8ae6cf3dc063733a4d53f612a4d94"
+hash = "131eade1670699edee035c4d94e86c7039d3e1e71e4ff27ef50ef248ca1c9cb1"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resourcepack-checker.pw.toml"
-hash = "5c0d7731873e6d0cbffda06b32ae58a7d463bae516dee9d12142dca219507673"
+hash = "5172fd999f90f421ea127ce9a5ca425e4d0d5f422faa8de3414e9527a99cfafa"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "ea0e0e298801416cce5b0fe6fddacd3f01ebcea0b97e376012c2b784a7ee1965"
+hash = "d12bc54c9bb275cc5c3f5ea8c88a238bab6b1f68fbaa36c747eeac09ad20650d"
 metafile = true
 
 [[files]]
@@ -418,5 +418,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4f8f9934fa59c9a51cc32ba4d8b1a615e2644cccf42ca8a87288fa63a8fcf265"
+hash = "1050522df99f66e4faa1084dc7fb4260a19cf2756f1430e7662c0ef18d7ba73f"
 metafile = true

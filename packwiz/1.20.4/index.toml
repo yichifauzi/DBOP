@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "22912bd5332d75227a2eb6aba10a176e5d471c12b01e42fbe5219fac37fab19d"
+hash = "0ad1fa41a1015b0a13c0df5b4ab525811bda218b9f4f811cad0bcead4c17c1a3"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3c1b4abc7db9ac2c5cdc8c424ba51c26d192dc8560b4d11218861772cd1f5f8a"
+hash = "f5fed751a02234d4f890db5a5448586235c95329c2b51299067265c08e9b989c"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "d1ed35943d45fee289113bb614b24382b949dfadad1d7dc786d4356cb7887baa"
+hash = "5565745a71c49c243d26050d2dc94b7544057ff1e39b24428f9c3ca33df1c828"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "fd7e31a6fb48aab057dff463c77f42b640747ae0de0463d8eefcce0f00987934"
+hash = "c64865a058a81bdf4ea8602e77eacaee28acec7b37a37c212c8c796c493ae90d"
 metafile = true
 
 [[files]]
@@ -398,7 +398,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "53ef2669ace27d6233cb04dee1925aa6f3c6c4e313cc762da4edc1b30c7a856b"
+hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
 metafile = true
 
 [[files]]
