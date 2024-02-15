@@ -6,7 +6,7 @@ hash = "a7ec2ce1d3a9a17d03c4af8be63bf389270dd58c9271b5e097c0180c0e41a4b3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f3c9caeaab6c57764e9c9b2604fa3519482dee3e73c26b40290b8026ce0e1e3c"
+hash = "623dff11cb57231fe8aea6dce58daf6d2c3b3a9696726a9c2146157d548148ed"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1561915fee2eaede14d888ad15af91e57cce9416cb8a508f3139abf1b118562b"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fc779a408b93257c385321012d11063df38771a6c618bf2ff9fc1dc5b7fdb2e"
+hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
@@ -248,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "875d4d58186abd9c984b3084e1444fd051b58c36acd5d8a00b6bc54315d28750"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
 metafile = true
 
 [[files]]
@@ -393,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "ef9c521f970a4bad0afba80f748fe75a3d7383ef01d69b42455ee658c70c9d87"
+hash = "10eead85b57a4646c27aceed0597cca489cd4ae5e4436bb69f9b1b428325ef89"
 metafile = true
 
 [[files]]
