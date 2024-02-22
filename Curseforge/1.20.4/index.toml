@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fcebf63b421f84ab3db4d0be0f7cc5b2877ca2f5565b3801f05a9e73ba19735f"
+hash = "0cd4614a0a77b7913600bbb6cfbcb2f3c52bf9bed213cc010c487fb0c8148e95"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "12022f2b0f5e88891c27bb2c6c02421c285c9a6fa201442cea12733c91ff3200"
+hash = "e4caadfd1e97865a18aeb0c79b1d8dbe80aadeae796971c1856bd53c1be9ce20"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f8dd69853a48d45c4bf196b5d8c876bcd1a7c48824a400c914f61e94e2ca3276"
+hash = "d3c82901306047253878e26b734cf50a23046a997644d7bbb1889d159750282f"
 metafile = true
 
 [[files]]
@@ -198,12 +198,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2039f5dff95a1831eab3e34bb3f17470c2f12608483959557a03120fdf926a44"
+hash = "a716839b25446a7fd17ff21471cfec78ed6af524dd7caea4d2229ccf57a58d87"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "682dbda396392c309747e953429f9db1e4594f187ac85a7700a8ff02f7c8b523"
+hash = "270130a47f7dea4a94b4a85eb5795a4a820c45fe1985cad6b8afaf33ee066899"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "43cbb2ca57b350d3278cf49a8fecea6face69e0a794b768c1cbca3957baa989d"
+hash = "deb106381433f342aa5973f16e9c5d8cca64cff202fef241a937976de7991a64"
 metafile = true
 
 [[files]]
@@ -418,5 +418,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1050522df99f66e4faa1084dc7fb4260a19cf2756f1430e7662c0ef18d7ba73f"
+hash = "2b39d269c485228dfe2fc414c4dc090421c4364d5a5ab98754868aca82b59ceb"
 metafile = true
