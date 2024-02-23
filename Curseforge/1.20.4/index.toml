@@ -252,8 +252,8 @@ hash = "275e74338b823bb2b06aedc4337ef6866a47dd718fd9ae7d02df0d64da438cca"
 metafile = true
 
 [[files]]
-file = "mods/iris.pw.toml"
-hash = "131eade1670699edee035c4d94e86c7039d3e1e71e4ff27ef50ef248ca1c9cb1"
+file = "mods/irisshaders.pw.toml"
+hash = "ac47668052105c4f1d8986a58f0f2d82b691b53cf9b0c81d04bb612422ff8c5d"
 metafile = true
 
 [[files]]
