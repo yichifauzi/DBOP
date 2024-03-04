@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0a82445f56f0c8bc7a3eeb9b701bd38ffb836e80edad965dd5d3194e3a309e41"
+hash = "0859c7777525df4a2ae22cf312c8a31620d59d219202594f6bc05c6378bff055"
 metafile = true
 
 [[files]]
@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "0cd4614a0a77b7913600bbb6cfbcb2f3c52bf9bed213cc010c487fb0c8148e95"
+hash = "9b0b843844e70d1b10d805527b91686e7685c3aedde2422c5b21609fd90246d8"
 metafile = true
 
 [[files]]
@@ -163,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d3c82901306047253878e26b734cf50a23046a997644d7bbb1889d159750282f"
+hash = "e8129b3e4802e1f15dabcd9320e51144fc1719447ebd0c00fe857f2ac8bb6f9a"
 metafile = true
 
 [[files]]
@@ -193,12 +193,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "2f29c7614bf71f495496798df32e6442de9fff74d7866ba0668b20124a00d290"
+hash = "33fc16e9080f6a13e79e5a00b644ead72a5636d8dc6332b746b05ee01eeb6755"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a716839b25446a7fd17ff21471cfec78ed6af524dd7caea4d2229ccf57a58d87"
+hash = "cfe484dfb3903e353e0cd7d570457199eb78edbbd93e7cf01b75b89e2dbdc4fd"
 metafile = true
 
 [[files]]
@@ -418,5 +418,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2b39d269c485228dfe2fc414c4dc090421c4364d5a5ab98754868aca82b59ceb"
+hash = "7c69a196249b290ccdf29bb8fce2ec907cff00b24333bc578a6e93d6970baaaa"
 metafile = true
