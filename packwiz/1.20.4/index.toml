@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a7ec2ce1d3a9a17d03c4af8be63bf389270dd58c9271b5e097c0180c0e41a4b3"
+hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "623dff11cb57231fe8aea6dce58daf6d2c3b3a9696726a9c2146157d548148ed"
+hash = "c28bfcd9fa0505996bf799d73f8b106fb30dea3dd5e0d9bbc2bb274c40430b53"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "44d709018f8b7890428dac2ad1e4ab7020c3fcf49b9a37bb738008c691084fce"
+hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "f9b44413e36cf679e82ada56a588294939d0c095f8c34e127ef4a9d6eca7a419"
+hash = "16a136de4719322ef569934ec2f56271766b1bb45ba7969185ad2b9f4df08646"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a856296531bab559c7dbe061827078e206b9cf194be3be618c462c62ab4fd841"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b88658496a83e1ade03fe955191c379d413db8915f2f8d9641797b6f22865b25"
+hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
 metafile = true
 
 [[files]]
@@ -418,5 +418,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b88bf4ac61571d87935557329d904c4d1d8ff99ab076944b260c8762dc8ed392"
+hash = "713382a51b9c7f49790b6640079b8a5dab5839c4870192deb9b72ce47d94d602"
 metafile = true
