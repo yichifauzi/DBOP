@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0859c7777525df4a2ae22cf312c8a31620d59d219202594f6bc05c6378bff055"
+hash = "3cfd22d73862e60da5770eeecd4b15dab7e2306682634a59e51243f27986b29d"
 metafile = true
 
 [[files]]
@@ -123,12 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "66b4419793378fe75c5dacd666c8ee5c7d5e0ec5482c5b463eaf38067947d3e5"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "636e00e44f0ae73340aa5c07ff205ebe93cc5d5817724183f83b36112968448f"
+hash = "7519bcf80e688ab9f4b5479cee98024bd5089651848263c73e6f275762e242fa"
 metafile = true
 
 [[files]]
@@ -138,7 +133,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "364c69ba76bedbad0434b489c6e737e3a7075ff0de87152d3d0beb8f0dc35123"
+hash = "001ac0e62fe7ce4398dd4ac8c315715b3dcf806b1ed5b8af9d81051218141b83"
+metafile = true
+
+[[files]]
+file = "mods/cit-fork.pw.toml"
+hash = "85d2c78d0af51bf45d855bfb1253a564ca15b78eaf0120e37a1e45071f4b587a"
 metafile = true
 
 [[files]]
@@ -154,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "2f7179b35c58f24b3fb9db1a38a7fb15afdcbbb6d42ffd7a736988aa4eb0083e"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "bb8ad5e84982963a853c528feb85ec2387ca50c5fec9bdb26754e98034ee04af"
 metafile = true
 
 [[files]]
@@ -198,12 +203,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "cfe484dfb3903e353e0cd7d570457199eb78edbbd93e7cf01b75b89e2dbdc4fd"
+hash = "d041d301f84fb5fb33e4333d0c229923c119befc2bb664772590dcdbd7666ef2"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "270130a47f7dea4a94b4a85eb5795a4a820c45fe1985cad6b8afaf33ee066899"
+hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
@@ -333,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "60fa0f4cd9828069811c17aaa2ecd7159dab63dbef202704fca1943140e1b295"
+hash = "c6761a343463fa491ae1fb1ba71f0b4097dc87c63b32535608d69cf73498ec66"
 metafile = true
 
 [[files]]
@@ -418,5 +423,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cbb52efe06097df793ad770a7cdbccb2d20f6f8b205803ccb928d9b117adda9c"
+hash = "f5608607242fdc3c7464ecfc934c38986f5054e5f135729fe3072e498f95cea5"
 metafile = true

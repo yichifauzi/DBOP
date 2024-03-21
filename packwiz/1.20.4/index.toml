@@ -6,7 +6,7 @@ hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c28bfcd9fa0505996bf799d73f8b106fb30dea3dd5e0d9bbc2bb274c40430b53"
+hash = "8aa22de0067ed49e44e385c0520e922b7f8a6313dcf0390a419ae60b56480ee1"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -94,7 +94,7 @@ hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5b38e6c9dd26217d03550ff43bd435ed3d0cfd72f0b85d9c98b31293318b9ada"
+hash = "6dbec82b36c79f200a2ae25b9ed35967c27775bdf7657563014272efdb960d09"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "198de8b02c6d4ff1f5089b58883cca1fc39d549857f23e7ab4b9f58b35eabbf3"
+hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
 metafile = true
 
 [[files]]
@@ -123,12 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "7d3b0183e9e2f58cacbd4cd348c02219033539502094e45ac13f392f1ebfda3e"
-metafile = true
-
-[[files]]
-file = "mods/borderless-mining.pw.toml"
-hash = "bae8be543c1432b09beb4c93a67dc4e6c1304584453a4a5c8b2013178b0085b1"
+hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
 metafile = true
 
 [[files]]
@@ -138,7 +133,12 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "b8df5a6ae8c4f2c5492a9235463aa3f231af27964d7e240fcba1421c99e89736"
+hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
+metafile = true
+
+[[files]]
+file = "mods/cit.pw.toml"
+hash = "123906cf54fb7b9ed295c589ca2d6072a31e1acadd0da84f48c9a40656d3fc67"
 metafile = true
 
 [[files]]
@@ -154,6 +154,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "e697a14230c98291d0645e38e29f0afa1bc9141b146f124b4e5e913c1a7b0183"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
 
 [[files]]
@@ -198,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bc5559ece399ce470ad9bb879827ab460b3e5c5c113b39ae18ace6c33d875d1c"
+hash = "3d6073b78407cf64f5f8ba7d684a626224a2d37e54ea36bfe27c8d62e5358c01"
 metafile = true
 
 [[files]]
@@ -418,5 +423,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "713382a51b9c7f49790b6640079b8a5dab5839c4870192deb9b72ce47d94d602"
+hash = "a8c1a47f96a7c924cf4d4a2eda64f9b9ff93f2bd795e5750a17fd7146265d5ff"
 metafile = true
