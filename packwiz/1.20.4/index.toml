@@ -6,7 +6,7 @@ hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8aa22de0067ed49e44e385c0520e922b7f8a6313dcf0390a419ae60b56480ee1"
+hash = "9920b0ab2dce9e09ef31260a043986b338e6c18b3c153d05a75efe5386a0c4aa"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9fb071407761cdb22323713a3f24ca27f04bb67c0ea455ee2e73778c6ecece75"
+hash = "59904ae00ebd7d79853694a242c8f765da434d505a292f94cf615fa1ebf4484d"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d8141ee9ad948865c4da8594fe1e785ff6933d3f5b299234d002e2014559c0e4"
+hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "16a136de4719322ef569934ec2f56271766b1bb45ba7969185ad2b9f4df08646"
+hash = "035a4ec5f1977748c9949bd8958bf33703587eade8f7b6e21d34a5f3948701c5"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca7cc306ad9f3f8eb6e92d0cad5187778a23b081500b5820dbd9effd08ba0dfd"
+hash = "a05dcb27d2d7895c0ae969259d96841d689f233746595140ad8d9fc8cd9d8610"
 metafile = true
 
 [[files]]
@@ -423,5 +423,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a8c1a47f96a7c924cf4d4a2eda64f9b9ff93f2bd795e5750a17fd7146265d5ff"
+hash = "3e86e1be504c0092e5f853b00def89e079621215646af87792531263a905b4fd"
 metafile = true
