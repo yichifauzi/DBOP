@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/authme.json5"
+hash = "181532fe5e5276754299125375140071202fab40ca1474655eb7e1055d8c816d"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
