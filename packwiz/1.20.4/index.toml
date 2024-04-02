@@ -1,16 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/authme.json5"
-hash = "181532fe5e5276754299125375140071202fab40ca1474655eb7e1055d8c816d"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9920b0ab2dce9e09ef31260a043986b338e6c18b3c153d05a75efe5386a0c4aa"
+hash = "8216bbc98705b2a5a14739f5d1225627943badb2e33cd3a2c32c54eb97e7322e"
+
+[[files]]
+file = "config/yosbr/authme.json5"
+hash = "181532fe5e5276754299125375140071202fab40ca1474655eb7e1055d8c816d"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "59904ae00ebd7d79853694a242c8f765da434d505a292f94cf615fa1ebf4484d"
+hash = "d2a55b5ea4c0bf49de881d377918e07b025ddc51c596debe7af6fe478dbbd9a5"
 metafile = true
 
 [[files]]
@@ -141,8 +141,8 @@ hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
 metafile = true
 
 [[files]]
-file = "mods/cit.pw.toml"
-hash = "123906cf54fb7b9ed295c589ca2d6072a31e1acadd0da84f48c9a40656d3fc67"
+file = "mods/cit-resewn.pw.toml"
+hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "e697a14230c98291d0645e38e29f0afa1bc9141b146f124b4e5e913c1a7b0183"
+hash = "4b76308c338df7554b2849b2a4c1b951ecc9a208f19f9b9b8c792034259c152b"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "60d43521b68e4639ad7e258a8d10759e70a22e543aa0050727283a848466d0b9"
+hash = "b42f1dc7a2d11031a7b296055ac7e32637be00e7d52cd37254a8b500a5afcb7b"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -356,6 +356,11 @@ hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "a552c2d8c1b994191a20f37e6b5812642daa1ec575c8abcf933f016df39bb6f5"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
 metafile = true
@@ -412,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7dfbf79bf874dcfdb27e4bbc92da56cdab2ffdbee459dfd2eee5a57dacb59ed2"
+hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
 metafile = true
 
 [[files]]
@@ -432,5 +437,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3e86e1be504c0092e5f853b00def89e079621215646af87792531263a905b4fd"
+hash = "cd11e1f19b28c6c8f8552398cd405556687880cc5f9ee7961d3528f6a39949ab"
 metafile = true
