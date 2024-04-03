@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "e00a6c3069bad762fddbdfe81b4fb85ed16dfee27bca33187e80c0659c3ba2e0"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "7237ce7918edc4f1612e60d47e456a93fb2a82f47dcd7d36c1b851e1968cf34f"
+hash = "a9ffb3bf859112476294a1380d0f552c414578176706a48de84781a5d4fc8171"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "5f4f18ca1c40a63bdfe0d22f037603900df11d9539f2a7582b335f3d2b7403aa"
+hash = "b890195dde781b8c9b0efb6c675f01dc8c682ee3adb7aa5b5a741929a0e0743e"
 metafile = true
 
 [[files]]
@@ -337,6 +337,11 @@ hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "cbd1e2f9134104c260327a601edec971f0334fdea534f141d7dbb52eb57b33b7"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "c01693ef919a1ced5aed3b542f0affe24842ed16564ee0202ba032a3073f59f6"
 metafile = true
@@ -408,5 +413,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3e86e1be504c0092e5f853b00def89e079621215646af87792531263a905b4fd"
+hash = "cd11e1f19b28c6c8f8552398cd405556687880cc5f9ee7961d3528f6a39949ab"
 metafile = true
