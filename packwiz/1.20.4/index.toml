@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d2a55b5ea4c0bf49de881d377918e07b025ddc51c596debe7af6fe478dbbd9a5"
+hash = "17251ecdaed4668e20646189ffa23edbc76ea185a8389bde2c4c9f190ffd4d25"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "035a4ec5f1977748c9949bd8958bf33703587eade8f7b6e21d34a5f3948701c5"
+hash = "2ab2fa2862a10f07188702adc2e8472d1bcd4d545ac5631e8911b3dce81c709e"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "942a8797c5d76c6c60efc601f9bc4112585824f19cdd5ede46dea058fbf8679d"
+hash = "d64308ff021f16023e5b608355bdef0ac29cd9ddc83e3163fa71fe8aec3732e9"
 metafile = true
 
 [[files]]
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
+hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a552c2d8c1b994191a20f37e6b5812642daa1ec575c8abcf933f016df39bb6f5"
+hash = "418339fd110b3103efe89feb85b6f77bc3914a00fd8d81368fbb8524b5938bd6"
 metafile = true
 
 [[files]]
@@ -437,5 +437,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "cd11e1f19b28c6c8f8552398cd405556687880cc5f9ee7961d3528f6a39949ab"
+hash = "d112ef73f801604bece87d9a9dba6773ac9c95b0a0d0dc7b707ebbb419d5b7f3"
 metafile = true
