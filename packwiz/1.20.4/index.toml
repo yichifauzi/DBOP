@@ -6,7 +6,7 @@ hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8216bbc98705b2a5a14739f5d1225627943badb2e33cd3a2c32c54eb97e7322e"
+hash = "c725ca820bf152b347fb280c1f9c16765e3bb0837f8f7a8af6f941727d6d87bd"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -342,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8bb727360596439b65a6bc057ccd0a51996e529948c59d41c35db05ee35ca559"
+hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
 metafile = true
 
 [[files]]
