@@ -219,6 +219,11 @@ hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "706844fd53e616451ce437208ac4d61800c18cb28619748f9eeea646736ab9d3"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "a447ef00510d04ad8564b6fb2f870fa34b8f825f192b954ccc2dc116e2055eba"
 metafile = true
