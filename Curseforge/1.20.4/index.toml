@@ -124,11 +124,6 @@ hash = "dd6a5c7a2a1bb820aee82437145044e94c25a02c99b0a952a625f0b5cb09c5ac"
 metafile = true
 
 [[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "9b0b843844e70d1b10d805527b91686e7685c3aedde2422c5b21609fd90246d8"
-metafile = true
-
-[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
 metafile = true
