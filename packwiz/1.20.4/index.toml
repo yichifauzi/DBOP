@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/controlify.json"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2f0312b3706fec4424a1b3010f103d23eadcea0de9332574bd12f465fa458c94"
+hash = "f387d3293d639f05e9edcd1343cf5bb422f9d9e5bb2fd0f3bcf9f70b807a8fa4"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -17,8 +21,12 @@ file = "config/yosbr/config/citresewn.json"
 hash = "9800c7bdaf41d5327adec383181b88e29c4a64d64cc5c573cb824e1a6a9188e6"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "9719aa5ac20fd67c9304ecaf9e9f395764399f3d1845848584818fd6fadc0d73"
+hash = "fcbfeb692fc3955800b22a396e01f73aba608fcc0cfa87e97c9e95d5644bf4a3"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -58,7 +66,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "fc9c915f7600a8c858183895469172c63c7f0431d82445fab0f9ff877d870ad0"
+hash = "b3c80467a5320fad60c2fbc8fed0a0fde2d834bdcfdfb1f1782d9778e92e06fe"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -152,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "590207f59d608672d2e7f9aa8966a09ab71403e75d76da314e7cd5dac885743d"
+hash = "316e3651e847a18b33175405e6d0fc7c1a2f417505c958003c0c7e3c3ea53a99"
 metafile = true
 
 [[files]]
@@ -182,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "ecd143b560c3a3206ac1005ed0664bae8902a08caea9eef6fcb06e4bb5844f46"
+hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
 metafile = true
 
 [[files]]
@@ -192,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "121cb63c8ecad9d730ecbd21000182b29a7f0e9ff8bf7645574d556a959d132d"
+hash = "8f37fdd79b3c14043a02703dfe1a8da35c7ab8b40a9729c2e9e0bd42e5a92279"
 metafile = true
 
 [[files]]
@@ -317,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
@@ -427,7 +435,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "ef8b4c780a1410f45321a8f708c37a818a01ca0b576f0621e174899eb31e3853"
+hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
 metafile = true
 
 [[files]]

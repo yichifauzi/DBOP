@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/controlify.json"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3044041551a9dd499c805b4c39d15d55707d865d9fcf4ccd9abf5ebc282ac482"
+hash = "d5fd8fd8c381c8d5bca8b97aaa45fd265163ea879dfd8f8b86da007528c283ab"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -17,8 +21,12 @@ file = "config/yosbr/config/citresewn.json"
 hash = "9800c7bdaf41d5327adec383181b88e29c4a64d64cc5c573cb824e1a6a9188e6"
 
 [[files]]
+file = "config/yosbr/config/controlify.json"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
 file = "config/yosbr/config/debugify.json"
-hash = "9719aa5ac20fd67c9304ecaf9e9f395764399f3d1845848584818fd6fadc0d73"
+hash = "fcbfeb692fc3955800b22a396e01f73aba608fcc0cfa87e97c9e95d5644bf4a3"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -58,7 +66,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "fc9c915f7600a8c858183895469172c63c7f0431d82445fab0f9ff877d870ad0"
+hash = "b3c80467a5320fad60c2fbc8fed0a0fde2d834bdcfdfb1f1782d9778e92e06fe"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -187,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "491ed77d4989f65e1937321debbd6d5a7e7216747d1043d37f6ff961294c9ad7"
+hash = "cd52d61b2817517891eb20c838d84aa8c5a1491c5d9dd0cf1394794219ff2c17"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "c8a53a260e84c88e29e25e4ad7e5a72e2f2958ab48b98607a3bc1a60a51cd346"
+hash = "de819d4d627d8527364d7f89c01d9880c63e7fc94ce4f849b825907dd91bde63"
 metafile = true
 
 [[files]]
@@ -322,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "aeb80ffcd7d25d95429f93b54e31d620f85e75a08769126d77031bd8fb262cbf"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
@@ -432,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "def68e6c9e4b37f804dd8c4d7ef65ff9d4aef522142362b1b22ff2be47de7a02"
+hash = "04e4f56fb77fc5001fb69cd5c7713625ebd7106e51a4547a7a2e5bcc2a9bf111"
 metafile = true
 
 [[files]]
