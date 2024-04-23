@@ -6,11 +6,11 @@ hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
+hash = "b155e7fc00b2af8bbb67bca4fa6a831a3a3ad82552f6f0d6a14e569714b6bd13"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f387d3293d639f05e9edcd1343cf5bb422f9d9e5bb2fd0f3bcf9f70b807a8fa4"
+hash = "7880c2fe3d21fb24fe101d65f108a6f601a232c74f075675a0bd62425dbbc254"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "df7d79acf12a498c7d2c06c80417b14974e321aac61afa7e570b30330aedc764"
+hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5b4a1fd0a0b063a7f446c2f917365d39d57c947aa186629b3e189b640ce48a23"
+hash = "a5d141eab872ea8051bd1206b793c6522e67fa68e6f5346268f12d737cb066ff"
 metafile = true
 
 [[files]]
