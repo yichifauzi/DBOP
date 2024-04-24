@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b155e7fc00b2af8bbb67bca4fa6a831a3a3ad82552f6f0d6a14e569714b6bd13"
+hash = "9a3b93bbc27ff73eb04cb1ba373576d44d43c12b1d0b0c7a036c2258516299f2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7880c2fe3d21fb24fe101d65f108a6f601a232c74f075675a0bd62425dbbc254"
+hash = "657c28467afa11fbb750017e109a831cfaae3834aad4f9675be69a1b31585510"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -101,6 +97,10 @@ file = "config/yosbr/config/vmp.properties"
 hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
+file = "config/yosbr/controlify.json"
+hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+
+[[files]]
 file = "config/yosbr/essential/config.toml"
 hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "3b3eb136a09515edaa9d3b6fba49ac2d025c1dba4a5a0d9d7fdab1e17c6bddfb"
+hash = "b6aa0699274fe5ce4fb4e4376be6fa5e43e25451104542b73f4943c516cbbc18"
 metafile = true
 
 [[files]]
@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "17251ecdaed4668e20646189ffa23edbc76ea185a8389bde2c4c9f190ffd4d25"
+hash = "b21b3118720c44576336d8c92a92a461cac7a4fa76ce976bef57cc40fb7d8281"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "33d342ee2fb724a91754eddb0124a0383cf5a8b3ce4cf5ec64aef6f55e89235e"
+hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "f250d6778f5b8d03ca32913bea5ea677508e9bb6d8201cdebe005bbe9c3100ee"
+hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "316e3651e847a18b33175405e6d0fc7c1a2f417505c958003c0c7e3c3ea53a99"
+hash = "9851049324d13b3c370e58707afc0c4ab6ed384d8c60eee5eb28caaf85d59db3"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "307cd10b6f2fa6aa4731540f76802e8803e8e93e1cc747927ae94bc168cbcbbf"
+hash = "2c372d59e6d4637d2a2e7f96d35efe36ae4db40ae08c43e78aa8cbea4d5221d0"
 metafile = true
 
 [[files]]
@@ -220,12 +220,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "f80e4a46fab9a9c99ebf3193f2c73675f6f6659fcd740692e14501213f633c70"
+hash = "0150385c5eaea653a1433f4112afdd1b577521e71f9f2b7ab397af5e15aa391e"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "fb744211aaf9d09de4cb9825172c9282be8d0bc11ff845ca7e0f2a98bad7f83d"
+hash = "9482698f74ff6b14e036af6e2539f65d370482decd30b496faf574b6ea54b797"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "1883ce97c88cd65830988c865757e077646632881fb4fceb263b7127256d84b6"
+hash = "732e3a5fb7d7c41c380d1ba92118293db75d5a7f2c05a6df6ac04c54c4bd1a22"
 metafile = true
 
 [[files]]
@@ -315,17 +315,17 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8ab36ddea41aaea5969502df196cc821f52e679c60ffba9be030018d6de71885"
+hash = "35fe9c7a3a892797023d91778c30099eb42c8821e6d998b67e50d96b9b9334ba"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
+hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
 metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "d2cf752938bcc2e83b8389fc1c6fc0557eb6a8b721fd33733b89f1a09fb535e5"
+hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
@@ -395,7 +395,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-shulker-preview.pw.toml"
-hash = "ecf5a944cc6503d145849fd762cb370a0ba4d70a1dd2f2f2e12cb5850549e0c0"
+hash = "97ed88b94aae299aafe89a69d99061592216ff5884d67b3d7ff6b4430f238f43"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "3f1cdc39c7c76eba1c62b6f22d07f9507ff1c9a9e860f179481ec63449451a79"
+hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d5fa0e898cb2233b7928c1b6109d041e3f0a507bdbdca6aefabbb4462044d9c6"
+hash = "11df2c9652f24aa41f1832545b7df7288ed797c9f378e50e7a4d8425231bd1b0"
 metafile = true
 
 [[files]]
