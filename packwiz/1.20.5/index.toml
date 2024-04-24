@@ -124,11 +124,6 @@ hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
 metafile = true
 
 [[files]]
-file = "mods/better-mount-hud.pw.toml"
-hash = "4d939096054376b054d6e853ef34918b992c2b1da77f8af4a7438cd324ccb07c"
-metafile = true
-
-[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
 metafile = true
@@ -144,18 +139,8 @@ hash = "76dbe46bfee94f99f52feca4db16ddc8f5be4a1c6779124fcaedf7170ae961b1"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "7a4414a95295f22f036699300878058ddf043659fc95ac1bf1d7f725acb0bc46"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "3f3d863c0d7110522873a0a76da68ebb02135fe9eb877244dd7c38d7242a9059"
 metafile = true
 
 [[files]]
@@ -181,11 +166,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "c92a4817a95ac06eef5d614a2466950aa69149467aab781d4aae4f10e40a7739"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "179d1b7ca85bd3202749e2cc95413daec331dd37dbcf66d07f12a2cd1c0ee397"
 metafile = true
 
 [[files]]
@@ -244,28 +224,8 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
-hash = "ff278c8a9a5e56d412fb2e7106790b0ac33b0a4a8699978f0ae4d5a2c70c63b3"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "4146027b92b4885fddec00435233c61c3728b5e09265982ab187021519a4fa89"
-metafile = true
-
-[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "4baaf612a8dc5bb749c2e4d9d533ea1df3c9d7dd7eb518d929d4519ccecff59a"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
-metafile = true
-
-[[files]]
-file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -276,21 +236,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d398662ae6e9d87e89384ba50a9787dbeb9425902a18b0cd8239efd0b966b453"
-metafile = true
-
-[[files]]
-file = "mods/language-reload.pw.toml"
-hash = "037f6b72bde7b586901f261820197efb52a369cdad3557eeaaa7a3f8e9c19799"
-metafile = true
-
-[[files]]
-file = "mods/lithium.pw.toml"
-hash = "3dedde5213176d72e1c353877fa44315945e8f3da2ba05f5679d81e9f558bb1d"
 metafile = true
 
 [[files]]
@@ -349,11 +294,6 @@ hash = "aa82f9bf467fc7069f3b00a612348b6fa15f112e06a3cda85e67181daa18b974"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "2440a2e6d0ade6bc4ca8d3677b59312734dd22106fc6fc5cbac5c24b0ba2ff05"
-metafile = true
-
-[[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "a0626154090e5879cb832c75cbc98251e246f0142999d496ac0b084f29a2bc02"
 metafile = true
@@ -361,11 +301,6 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "3d893dfadfa820f509be9d34f6f302f31a89e824f522e5957e609985de35c591"
 metafile = true
 
 [[files]]
@@ -411,11 +346,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "44593cfab255a73ae00161802962950525bad36716eb00afda5f3e9bc6f4cba9"
 metafile = true
 
 [[files]]
