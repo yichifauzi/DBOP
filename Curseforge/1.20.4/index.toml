@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "164fe1ed59a85c891bd38d38a9a69376534ddaf205890c28c99fda404bf088b9"
+hash = "32d1564469633664115a85ceacd4d2dc6c3ec33308752ad8a1ebb371d9462bad"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d5fd8fd8c381c8d5bca8b97aaa45fd265163ea879dfd8f8b86da007528c283ab"
+hash = "8b3cf88c4ac34ab0ede63a7bfa81fe6ba2427ec47636efcf1b043a4ce6b84f0b"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -135,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "35bb72cac44ff5b7693895f5f1aad3e4a22f188f5762709ea7ad9cd44d0b0fa6"
+hash = "bb25358c1fb60ce737acfd221e3f6803237535f08bf37ea9a4b5e2f73d7bd1da"
 metafile = true
 
 [[files]]
@@ -160,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8bebf6047c579a0a5ef5e260bc5873e2c187061127297077553e6eeec7b3f562"
+hash = "8824930c8353070f54f20ac13a833d5214ccc9d98e2d8191ce24bf98a383c3e8"
 metafile = true
 
 [[files]]
@@ -175,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "e8129b3e4802e1f15dabcd9320e51144fc1719447ebd0c00fe857f2ac8bb6f9a"
+hash = "89cbb5954354a2819dbb46601197aa4cb991f3936ba5b8a142a17dbfff2ac263"
 metafile = true
 
 [[files]]
@@ -270,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "ac47668052105c4f1d8986a58f0f2d82b691b53cf9b0c81d04bb612422ff8c5d"
+hash = "d05255f35a34424a1dc8942060d513e327a2fa09afec437d44656aa32e5e292c"
 metafile = true
 
 [[files]]
@@ -315,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "df1e192bb14c78afe9d45905e7bd74ee9509a316bb89c46dbb4261617bf5d1d4"
+hash = "867bc8c6744ec9b3cbaad5125f1130dba1a5ce1b1f47c090e2dca71c4ecf64cd"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "d4fc2c4b7cf0f3b12db50134a02d4e61556d4138c9938b2eb5c08b97519ed814"
+hash = "086b045d63af3990b387f8173c9c94ae4b4b82e26ad70f98e12adc413a86a4be"
 metafile = true
 
 [[files]]
@@ -350,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "60fa0f4cd9828069811c17aaa2ecd7159dab63dbef202704fca1943140e1b295"
+hash = "c6761a343463fa491ae1fb1ba71f0b4097dc87c63b32535608d69cf73498ec66"
 metafile = true
 
 [[files]]
@@ -430,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "bd1bd8815f3f71ffa0a8d2f2bbb0421bef5b63a35d2d96dfd5a3299eec65c7d9"
+hash = "5dfb0621035ef1caacd4708ccb3f1034069f641dd495b77ad1a0243aa4c781a1"
 metafile = true
 
 [[files]]
@@ -445,5 +441,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1da5450a73ee2ff2ab499b5fbc421a0e2a7366125d170e1845a71cfbd6e0d1d1"
+hash = "28f960dc2bc90051fbb8fdbe886c35682efa9dc1170c889798bc9c64268ef329"
 metafile = true
