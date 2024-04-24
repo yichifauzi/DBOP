@@ -1,13 +1,13 @@
 name = "Sodium Extra"
-filename = "sodium-extra-0.5.4+mc1.20.4-build.116.jar"
+filename = "sodium-extra-0.5.4+mc1.20.5-build.117.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5cdad24baaac7c254e07205aef6052946f4a5246"
+hash = "118a71b9f4ca98f55393614d7520d9932325272f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5063878
+file-id = 5285079
 project-id = 447673
