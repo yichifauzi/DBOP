@@ -97,16 +97,12 @@ file = "config/yosbr/config/vmp.properties"
 hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
-file = "config/yosbr/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
-
-[[files]]
 file = "config/yosbr/essential/config.toml"
 hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "93d0ca109c247277dd2f5343c4e28ca621c352b71e046a1b54820af3426d32a6"
+hash = "80d30efdb82db95ce95319e3cfdfa0ff9b3f68ed7b8617bfb8a2df80d36d1cd9"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -121,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/auth-me.pw.toml"
 hash = "d8c4f0d87acda52c94a6f341cd98db22804e934b322eda4470089e3a511e8070"
-metafile = true
-
-[[files]]
-file = "mods/betterf3.pw.toml"
-hash = "8b13db034aecef8d45addf4f12aa024d35b905ae144df48542683e1b162ba4f9"
 metafile = true
 
 [[files]]
@@ -170,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "af7fd9d3c9e3c010fbe814edc39ddfcd46922f90eea135adf21cfd08a10ad033"
+hash = "b0c17249d20f70469564e8aeb544268cd117a694f099fac643724b83813a0e5b"
 metafile = true
 
 [[files]]
@@ -180,12 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8f37fdd79b3c14043a02703dfe1a8da35c7ab8b40a9729c2e9e0bd42e5a92279"
-metafile = true
-
-[[files]]
-file = "mods/essential.pw.toml"
-hash = "2ab2fa2862a10f07188702adc2e8472d1bcd4d545ac5631e8911b3dce81c709e"
+hash = "a5ee0d4b9d25bc3757d46631a5502a03a05111de7b1f40254d15b422adae80d5"
 metafile = true
 
 [[files]]
@@ -209,11 +195,6 @@ hash = "9482698f74ff6b14e036af6e2539f65d370482decd30b496faf574b6ea54b797"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "b91224d8b6110cbeca20c7905f2ae6032e8ccd992733829fbc6a79d2da957839"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
@@ -231,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "05fe4ad14dc2916a159c350df110ffbd1b92555ce100211d2e018a9afdfd59da"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "fe6abe1ea33393fe1441801f79eda74ea892e5f4b677a56eccafafcbf4d253ca"
 metafile = true
 
 [[files]]
@@ -279,18 +255,8 @@ hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "1dd763449a565c742e6c3d3227b5167d3d423df8244959d8c7083ff99d225ea7"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "150b6aa8e4d99b46f63c060d5efb1f546193e4ee8d44ab1b93ba3266944d37ad"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "aa82f9bf467fc7069f3b00a612348b6fa15f112e06a3cda85e67181daa18b974"
+file = "mods/optigui.pw.toml"
+hash = "3572aa6d75c3ee9bdd85db71a6c43e9a996ce15e5371b2596c7017feddf56c9f"
 metafile = true
 
 [[files]]
@@ -324,11 +290,6 @@ hash = "3c1edef96537546599f913b9a9c401194c37103b69e8610b0b0a53e73846d272"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "015e69cbe657406038201674ff4c38c469a60dd50eea62f6662ea9ffb820a248"
-metafile = true
-
-[[files]]
 file = "mods/simple-shulker-preview.pw.toml"
 hash = "97ed88b94aae299aafe89a69d99061592216ff5884d67b3d7ff6b4430f238f43"
 metafile = true
@@ -346,11 +307,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "6f30b61179b53af867528f0d8dee206298db65338da99d61e690c9cd9048130d"
 metafile = true
 
 [[files]]
