@@ -3,7 +3,7 @@
   "overrides": {
     "fabricloader": { "+depends": { "fabricloader": ">=0.15.10" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.20.5": ">0.2.0-alpha.2" },
+      "+recommends": { "DBOP MC 1.20.5": ">0.2.0-alpha.3" },
       "+breaks": { "holdthatchunk": "<=2.0.1" }
     }
   }
