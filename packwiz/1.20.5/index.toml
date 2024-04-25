@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9a3b93bbc27ff73eb04cb1ba373576d44d43c12b1d0b0c7a036c2258516299f2"
+hash = "40e122a0e90d5aeac8214bc962e45a929df0204f2df80c29d7a3baf2172b4c73"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "657c28467afa11fbb750017e109a831cfaae3834aad4f9675be69a1b31585510"
+hash = "b2b2664da49e7a5affde570b9b8be8905cde861089d9b81429365e7d5239b4d3"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -131,11 +131,6 @@ hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "9851049324d13b3c370e58707afc0c4ab6ed384d8c60eee5eb28caaf85d59db3"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -246,11 +241,6 @@ hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
-file = "mods/moreculling.pw.toml"
-hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "3572aa6d75c3ee9bdd85db71a6c43e9a996ce15e5371b2596c7017feddf56c9f"
 metafile = true
@@ -312,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "1fef55593d94fca71351b473dc41be4d780878db2e8beb97aef259c66ef0e2ee"
+hash = "343309421a28a9a4cea458fd0742c836e7cb6d18e0fb9b5cb4e1b07b49a283ad"
 metafile = true
 
 [[files]]
