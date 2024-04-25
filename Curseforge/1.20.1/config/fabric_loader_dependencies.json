@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "overrides": {
+    "fabricloader": { "+depends": { "fabricloader": ">=0.15.10" } },
+    "minecraft": {
+      "+recommends": { "DBOP MC 1.20.4": ">0.1.41" },
+      "+breaks": { "holdthatchunk": "<=2.0.1" }
+    }
+  }
+}
