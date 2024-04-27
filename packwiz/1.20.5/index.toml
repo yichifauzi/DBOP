@@ -6,7 +6,7 @@ hash = "b4b8e934b972194facf8074e3495ef583224c7b5abd5335de7573ba830ed440a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "977cf3d81f8cb64188d0ad67fc0e760bfdd6550ba0e40da372a01e3490bb89a8"
+hash = "4f38189de9d5b7cfb7a450db7305eaa5e2ec3e8299d9c0fee6cb2ebf35f16af1"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -102,7 +102,7 @@ hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d3c55c892803e44b26f5539278bc2e2e5ef1a122e4e1abc781ea3f425c1be6a7"
+hash = "4fc2e02184cb43a86036ccc2cbc4eb1a8b0ecc33f9add115bb1af90788bda791"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -132,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "0e9571ad3d425b94dc96cd5fe39a797fe8cab4c724152282e1d1dda9cf50650c"
 metafile = true
 
 [[files]]
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a5d141eab872ea8051bd1206b793c6522e67fa68e6f5346268f12d737cb066ff"
+hash = "022e8ace9cc4a6b9ff3c86d5331bae2a183ecaa3e75d4cf8b82c5734a25e5851"
 metafile = true
 
 [[files]]
@@ -190,6 +195,11 @@ hash = "9482698f74ff6b14e036af6e2539f65d370482decd30b496faf574b6ea54b797"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "33f6e6f2cf032eb6e0dfe17bbe6976f7bd5db2fe0742a6373014e5c75f9ddc52"
+metafile = true
+
+[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
 metafile = true
@@ -200,8 +210,18 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "13d6d7e0515aa48629f6c796b4be537010d51c73bf21fba078acf42c74867504"
+metafile = true
+
+[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "4baaf612a8dc5bb749c2e4d9d533ea1df3c9d7dd7eb518d929d4519ccecff59a"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -300,6 +320,11 @@ hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "6f30b61179b53af867528f0d8dee206298db65338da99d61e690c9cd9048130d"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "11df2c9652f24aa41f1832545b7df7288ed797c9f378e50e7a4d8425231bd1b0"
 metafile = true
@@ -321,5 +346,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "698c3838243bcbc1195244f509bed39b41e501e2c2fd1d33bade1be89e18c124"
+hash = "7397c48f14c1a403ebce969a660029e984cee96c899f7794f815dd7706b3d623"
 metafile = true
