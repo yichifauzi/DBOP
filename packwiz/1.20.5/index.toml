@@ -102,7 +102,7 @@ hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4fc2e02184cb43a86036ccc2cbc4eb1a8b0ecc33f9add115bb1af90788bda791"
+hash = "a2265e07ff48e25e3ed5b5308a52232b5919bfe9d0ddc6cb964b54594909d62e"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -317,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "6f30b61179b53af867528f0d8dee206298db65338da99d61e690c9cd9048130d"
 metafile = true
 
 [[files]]

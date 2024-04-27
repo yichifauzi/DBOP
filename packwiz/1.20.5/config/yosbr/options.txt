@@ -1,9 +1,9 @@
 version:3837
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
+snooperEnabled:false
 enableVsync:false
 guiScale:3
-incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default"]
 joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
