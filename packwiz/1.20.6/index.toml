@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "35fe9c7a3a892797023d91778c30099eb42c8821e6d998b67e50d96b9b9334ba"
+hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "3c1edef96537546599f913b9a9c401194c37103b69e8610b0b0a53e73846d272"
+hash = "87234bffe4d4f4d309857a263537bf9614d48917b037798c9fc81781575805b8"
 metafile = true
 
 [[files]]
@@ -311,12 +311,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7e5ee2f0c969e8a9792b511c3d53b0ecb61b3a5c7956b98819b319c9f3bb062d"
+hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "8790ff3c967c865ddb833863d22d8087c9d102a4ab9233e8ebe571b89f345182"
+hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
