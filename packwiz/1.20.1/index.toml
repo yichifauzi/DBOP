@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ac0683ee0c14768bc0b43acc48a2bbe73317efef7e65cebb32487c3230f5e810"
+hash = "6d814012d310ad66c8a2e17f638e1aeba3db2588120462a56bd3b32ed1b8d518"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -153,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "eecdad0f206905c68292f5ee9b63bec6a3e181b26de2b5084d3902fd3273568a"
 metafile = true
 
 [[files]]
