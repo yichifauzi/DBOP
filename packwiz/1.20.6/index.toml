@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "64f7a1104abcf86c0e6a10d9673ef90c09827c2e9ac2ddc7eb6ffa8e339b81ce"
+hash = "fd5d6c543fbbeccbd184b1e22fa8bba2e8d6cf655c35c8d0d8f2fd286dfa4cc8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "07eb68e0d9c29ae597c094e22bf6368158716f39aaaed9c1103015d3b563fdc2"
+hash = "efb7aa794e15b0e4dbc021524b91162b74f3f1a734950c3929086d49dc6eece9"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -125,6 +125,11 @@ hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "9123da9b16cff303e2eec4ddc964ed28a761cec865ad3dec36b939d53318621d"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "52f0f7fc78f73a9b7143c57d59e3c5bc39ce5e4e1691382fe8ca6403861a40dc"
 metafile = true
@@ -147,11 +152,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "774e690b5be887395987aabb847dc4736a3b19fce9fc432b895064918d3c6e0f"
 metafile = true
 
 [[files]]
@@ -215,6 +215,11 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "144c9b2dd530cfdf13dd3757c8eddcf6cfcc9631536dcabdd1378a39c8bdf47b"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
 metafile = true
 
 [[files]]
@@ -301,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "0e59d00de821ce2095849c161e17e03d12a768d18859e813086adeaa71fd037b"
+hash = "8be9dbb2abf2cdd5fb92f8fb64884a109fff9669c21e7f2c0aa1c31196ffd868"
 metafile = true
 
 [[files]]
