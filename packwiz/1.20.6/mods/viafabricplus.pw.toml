@@ -1,0 +1,13 @@
+name = "ViaFabricPlus"
+filename = "ViaFabricPlus-3.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIC2XJV4/versions/apfXMRSv/ViaFabricPlus-3.2.1.jar"
+hash-format = "sha1"
+hash = "d9199d9de4f19cbd5249ed600a724cdb9960650e"
+
+[update]
+[update.modrinth]
+mod-id = "rIC2XJV4"
+version = "apfXMRSv"

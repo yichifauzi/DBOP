@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "fd5d6c543fbbeccbd184b1e22fa8bba2e8d6cf655c35c8d0d8f2fd286dfa4cc8"
+hash = "dbfccc891efe5fc8609751aa7c8df606c11cd271468c90bf0f6049e28ef946b5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "efb7aa794e15b0e4dbc021524b91162b74f3f1a734950c3929086d49dc6eece9"
+hash = "3debe340762a145eb998b90b6f3ef55e61a689d492da294cd6c531df858a1fd4"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -146,12 +146,17 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "af332e5e4342d4c0b200bed45e5264ed56dcf2119ca1fa18661c2da8e04d1856"
+hash = "60f072b5e01439bcf0fac3351bf732f03fba64ed252a21202b248f4b94651b5f"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4e596f70957b214851ee57422d421ec59037425f5b209fc5813d44918d91c1b9"
 metafile = true
 
 [[files]]
@@ -181,12 +186,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3128c3600b7b3f360925afb2e0ace33c63fe0d588f91fc8f42648ff2362cb2a3"
+hash = "a3a4764437d80679d689091a1353277ba29fe8cb609ef2ed5dc6df5572eb1485"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
+hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
 metafile = true
 
 [[files]]
@@ -231,7 +236,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b2ee702eefe4a495e3a8aabfa1dc7862ac84077438c37e8171b17ec05ced533b"
+hash = "e401c07af397744ab4e6a6dad4f965c727c0ccbdeb62b7f025ac0be5df89e020"
 metafile = true
 
 [[files]]
@@ -276,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "34b0c904186f9883c26ffacf49afdf66bc21d44d8e62537cca5094032ccccb04"
+hash = "d3716e8b83ff2044733b4e58ea266cb3f2957f472d08d015abe6a54e425202e4"
 metafile = true
 
 [[files]]
@@ -292,6 +297,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
+metafile = true
+
+[[files]]
+file = "mods/noxesium.pw.toml"
+hash = "a6de4fe0147b4f689b9ade1651393c3b20e24685ea9a331b35d80ae5d0b7eae7"
 metafile = true
 
 [[files]]
@@ -350,6 +360,11 @@ hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "63fa7a353d3bab2720cf79f42b0461b5f4bea5732db69130348a6a38a8a498f1"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "279764a6cd7b6bc637f8d451ecd6fbcdd2be3692d6cd4b722ddf04e179d2bc89"
 metafile = true
@@ -371,5 +386,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "68fd7a766c44cf7ceae24ae3e6d9b046f9460fcf4870942adf1d1af443a2655e"
+hash = "2b28d0ac540b0c498003fc24f7724c8ed03798728be55a6feb22c689eb2d04fb"
 metafile = true
