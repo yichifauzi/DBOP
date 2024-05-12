@@ -125,6 +125,11 @@ hash = "48720fa4daacd4b092044f734342fb7ee07d6137d653c3a824d022bf72a08e47"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "84aff1dbe507de81e3f7cef7011f7e97ec557c40f0164cbd0b8640a4899ef48a"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "9123da9b16cff303e2eec4ddc964ed28a761cec865ad3dec36b939d53318621d"
 metafile = true
