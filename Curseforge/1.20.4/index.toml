@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "001ac0e62fe7ce4398dd4ac8c315715b3dcf806b1ed5b8af9d81051218141b83"
+hash = "e5d6c8e407f79a746b6d0952782417cc6f854a764d8517370a702c15f30f87b6"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8824930c8353070f54f20ac13a833d5214ccc9d98e2d8191ce24bf98a383c3e8"
+hash = "78864640da732d5bad0539df973a7fabaf2b8cce06263f2094363665a8f6770e"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "1f0b227c6e44e2b83d758c18e78aa347fca2f93183edc8b3dd5bf009113c9bcd"
+hash = "c89c247fb7738bd9555bacd224365b51a52b498841094d19612a7a31cd6b7c6f"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "ffc481992126189a9c15e1e8693bbc3477d8f76334edc2c220459a6ad8b4c7cc"
+hash = "9cfe15235c5f9af8386a09087e57e8962713a8a439a61a18e25cda9b9336c60f"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c12773e5fa5fb122f82db00c1073517af13c44617bd9dbc487d507d732d32df4"
+hash = "86cdc90af8e0def914b09d450775470d9984ca3644f60bf81d6dd093807d9f84"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "6c13c31aba27750dccaf140eee06cd1adbf5159829c2c1b7f38db5e38fdb25fc"
+hash = "cdeb679a1c1ee286a04e86258d81b4547bdc6970d5acf84766583f888edd05c4"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e74b01cc3beb0dacf1cfeef6866e9a7a58c6ff03147dc04381912b91bc384dd8"
+hash = "468e2630bc280eaed50a309f1d6de8a2d9c2946f94b644d02115ad2c019b6326"
 metafile = true
 
 [[files]]
@@ -446,5 +446,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "859af022f894b56895c731a270b7f415bca28651a43527f6e8da4f0386adb653"
+hash = "e1a0dd75634a9ec416e90b0007521e64aa5645a2e8466080153c4e522054931f"
 metafile = true

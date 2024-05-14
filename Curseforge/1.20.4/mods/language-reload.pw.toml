@@ -1,13 +1,13 @@
 name = "Language Reload"
-filename = "language-reload-1.5.10+1.20.3.jar"
+filename = "language-reload-1.5.11+1.20.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "65ca8e5379306733f90e76d497d0f34597ca61e7"
+hash = "d21438a6e84447abd40a31fe74be0f1a7094a06a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4930676
+file-id = 5337628
 project-id = 527334
