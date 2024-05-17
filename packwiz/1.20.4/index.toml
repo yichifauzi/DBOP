@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3f3d863c0d7110522873a0a76da68ebb02135fe9eb877244dd7c38d7242a9059"
+hash = "951d42cf8154f811de3135952d5f444679946ab7c948e33d87da744679901803"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "a020122d04d5520618d590016a75b7670639761b73588081a8071d687d2f10cd"
+hash = "c72bf5022c64df11e20727591f1f01255723e52d8040fccb56c2a0c6f86db831"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "5052d627f71e627929be59f26d1b6fec0267476773eae062eab51d1d96fd9c9f"
+hash = "b9749a14f4cc5697124cdbd46c313384713a9c28f4b30a5baae6d43e8561e83c"
 metafile = true
 
 [[files]]

@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
+hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "840569174909b2633d950dbab94a59ed7d406f703f9b79d98709ccdd6f67b1ba"
+hash = "5c52ec5b882cf4aec6344b220d4f1f6f54cfe90ea406ca97f092ec9cc1965092"
 metafile = true
 
 [[files]]
@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "ffb174e77524ac20e5a1793aaea5dc6d6303dbea4e0ba388f910fa1639be2ee4"
+hash = "863c7625ed377ba905368ec8cb50a29d2ad23c833b50d7808f933aecbe1bcad4"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2469fbc6dc899364b6df9d39435e628482b09455a5c39f5a91080a22aaa49aa7"
+hash = "38e66f6e561ed6b5cfa0b6424111304b82871f877f87c0d2ef0ec5ff88bdfc07"
 metafile = true
 
 [[files]]
