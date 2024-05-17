@@ -3,12 +3,11 @@ advancedItemTooltips:true
 darkMojangStudiosBackground:true
 enableVsync:false
 guiScale:3
-incompatibleResourcePacks:["continuity:glass_pane_culling_fix","continuity:default"]
 joinedFirstServer:true
 maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/SodiumTranslations.zip","file/Fast Better Grass.zip"]
+resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
