@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "40b27ac4207b492a8fb3bb52932919b299c5b02578102184c24bb994bc576d9a"
+hash = "04e39c15692266f7172f6b09eca5d5c25909599c47a611f4fab09742fdedd194"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4bdf6aa79e91b0e314783fa5e586d0da5d3b1ef088a490fb3acf9c281a9e990d"
+hash = "ddf976f751c37703e34785a063f640d0669af6ac7b9aaeb615d19f52518dc11c"
 
 [[files]]
 file = "config/yosbr/authme.json5"
@@ -147,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "5880c8495984f1236b8ce71b3370b31327b380b527d9799b1dcc45c70e538e93"
 metafile = true
 
 [[files]]
