@@ -98,11 +98,11 @@ hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/essential/config.toml"
-hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
+hash = "fce42d59447f36804fe6725262b1fccc733db62e9129e9d8159269be6b6265de"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "80d30efdb82db95ce95319e3cfdfa0ff9b3f68ed7b8617bfb8a2df80d36d1cd9"
+hash = "006c66c925c8388d42ec932750169636672f3f530bc543b625aeac8cde63bc11"
 
 [[files]]
 file = "mods/animatica.pw.toml"
