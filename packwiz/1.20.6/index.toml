@@ -74,7 +74,7 @@ hash = "f3a0b8561285229d772760e8456d25ab6cd36743864175799f7f251538218afa"
 
 [[files]]
 file = "config/yosbr/config/puzzle.json"
-hash = "4b3865c99c139d16e628462a6f8266fd1b3c69133a0c990e2d3c098c5e4b6cf4"
+hash = "efdaf04049157b4f3ed9b5ce30f4a5fc0bde6df6cbdf8457b236a19f61fffbe8"
 
 [[files]]
 file = "config/yosbr/config/rrls.toml"
