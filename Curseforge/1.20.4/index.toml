@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e5d6c8e407f79a746b6d0952782417cc6f854a764d8517370a702c15f30f87b6"
+hash = "621e590ccf0c3a6a4990fe2e4ef43f710bcb5e42d2a73a7dd6927253565d41a4"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "d77919afaaccfa93c82d128438d3cf59a15242adf6bf725f2e49ffd6567eb6b9"
+hash = "aaf1c7b4a4fcff6dd9e7c09dba04dd45ca9cdb115246f03776068c8efd49c149"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "c89c247fb7738bd9555bacd224365b51a52b498841094d19612a7a31cd6b7c6f"
+hash = "ca3acd17f9605dfe6f12a693c8475bd4aa45abf1ae56df783cfb2aa1768eca44"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "86cdc90af8e0def914b09d450775470d9984ca3644f60bf81d6dd093807d9f84"
+hash = "f0589a4fabb9c08f6977cb7cc513170bb926459a3c6cfcb9bd435503c0875c65"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "cdeb679a1c1ee286a04e86258d81b4547bdc6970d5acf84766583f888edd05c4"
+hash = "983928f7846d1cd7720d56dc6131b0f2cbf6b800cf0e8feee3878f53dd19fafb"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "4baafd1f13daf2a5d2f9c63344dd5966851394382d22e5afd6642b37c7b554ae"
+hash = "958a97f9cbf1b3841489647ead000240beaea75c9dce4bcf5b5c20c0724b6824"
 metafile = true
 
 [[files]]
@@ -446,5 +446,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "e1a0dd75634a9ec416e90b0007521e64aa5645a2e8466080153c4e522054931f"
+hash = "bf0cd729982dac88b21f7d20b8cfae5a2076e392ef0b8df35e742edd1fd0cf95"
 metafile = true
