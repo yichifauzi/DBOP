@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6d814012d310ad66c8a2e17f638e1aeba3db2588120462a56bd3b32ed1b8d518"
+hash = "99c30de9daee51ecba7c3d845540fe49fe40ad688eaf6841f9004e90f8418ef9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b41056e22985e314f416df0867789be44b3531f37ef6d527e53ba6802d16a51e"
+hash = "06fca2bd1566545153ec0011af04dda1e50b497a4e816285cd5b23fd404c592f"
 
 [[files]]
 file = "config/yosbr/authme.json5"
