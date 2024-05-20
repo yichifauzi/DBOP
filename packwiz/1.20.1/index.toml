@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6fa6853ce4c5fb25ab835b857628b6965a77e911af660d1f819bef9334510801"
+hash = "522541d0f64752df95a0fd2089aff87c13aada4ebf6c9f54150284f28e207286"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d10d6632f398e4bc8f62555eab1d70a6624837741fc653f2e2a18188166c6477"
+hash = "2be3635a0b6d46cbe9dead49d8b9a31a7e0ff3426b18623455e4a49bc7720cf3"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "38e66f6e561ed6b5cfa0b6424111304b82871f877f87c0d2ef0ec5ff88bdfc07"
+hash = "73ba50359a21acea383225510a96b5833b9633b4bf0b4484cedea6bbb34bcc81"
 metafile = true
 
 [[files]]
@@ -442,5 +442,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "2b28d0ac540b0c498003fc24f7724c8ed03798728be55a6feb22c689eb2d04fb"
+hash = "c7e2d8e14bae5fab9fcef19a01af0f12de90f906d088ff047a0b3d3ab257a5fc"
 metafile = true
