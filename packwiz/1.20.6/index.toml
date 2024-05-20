@@ -390,6 +390,11 @@ hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
+metafile = true
+
+[[files]]
 file = "mods/viafabricplus.pw.toml"
 hash = "63fa7a353d3bab2720cf79f42b0461b5f4bea5732db69130348a6a38a8a498f1"
 metafile = true
