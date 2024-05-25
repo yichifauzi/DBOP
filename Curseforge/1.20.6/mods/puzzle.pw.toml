@@ -1,0 +1,13 @@
+name = "Puzzle"
+filename = "puzzle-1.6.2+1.20.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c5f7ed41df768a563903cd95e65d614a9ac617f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5315909
+project-id = 563977

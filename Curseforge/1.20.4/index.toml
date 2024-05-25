@@ -2,15 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "99c30de9daee51ecba7c3d845540fe49fe40ad688eaf6841f9004e90f8418ef9"
+hash = "604402520295a60330875ae1afd23ddc783959af3832fb6067d3420cf6da61fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "06fca2bd1566545153ec0011af04dda1e50b497a4e816285cd5b23fd404c592f"
-
-[[files]]
-file = "config/yosbr/authme.json5"
-hash = "181532fe5e5276754299125375140071202fab40ca1474655eb7e1055d8c816d"
+hash = "14d9c0705693a501d73556634297a8fceffeba3c38ab7a1597be140bfb72fcef"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -98,11 +94,15 @@ hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/essential/config.toml"
-hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
+hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6dbec82b36c79f200a2ae25b9ed35967c27775bdf7657563014272efdb960d09"
+hash = "2666e2229df3377ffa11c4c24c32b8c0bb533dabecb8ecd80db7eceb38e8f563"
+
+[[files]]
+file = "essential/config.toml"
+hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "78864640da732d5bad0539df973a7fabaf2b8cce06263f2094363665a8f6770e"
+hash = "0cd1e70b69472342010949107194a32f253dbed3caa16de914e05fc4e2cf8404"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9cfe15235c5f9af8386a09087e57e8962713a8a439a61a18e25cda9b9336c60f"
+hash = "ea99a6e82af6a00b7050f66529ae0c506cafa90bb04efa275e2a9aa38ce4d7c0"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "468e2630bc280eaed50a309f1d6de8a2d9c2946f94b644d02115ad2c019b6326"
+hash = "51d31a32aae0e1cac8e6084472d9ee8bd308165e353060075413b9ff5811aac2"
 metafile = true
 
 [[files]]
@@ -446,5 +446,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "bf0cd729982dac88b21f7d20b8cfae5a2076e392ef0b8df35e742edd1fd0cf95"
+hash = "438ffbfb8a317475ed55ca8a6888c1a1de35f3fd91cb64bbbd14647b1c7e0fbe"
 metafile = true

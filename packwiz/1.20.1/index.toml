@@ -6,7 +6,7 @@ hash = "49c8b99be9c8500cb0d26f6cac08392fc16ed5264f04859b4cd1a94544180099"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a0ddf879ecafdaba685a983ed9e189038de6fb3ebb4e9046c8a3942a518e502e"
+hash = "c4c3f97814057449cb61c8d152dc0e255998c7b479d4a7d712f9c423ee1476a2"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -98,7 +98,7 @@ hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "5b38e6c9dd26217d03550ff43bd435ed3d0cfd72f0b85d9c98b31293318b9ada"
+hash = "d0b147d5dba2943b0a87bd99feb8c75887f22813951d652aa83a57f635e355c8"
 
 [[files]]
 file = "essential/config.toml"
