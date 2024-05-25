@@ -8,7 +8,7 @@
 		essential_gui_scale = 0
 
 	[general.online_status]
-		show_essential_indicator_on_tab = true
+		show_essential_indicator_on_tab = false
 		show_essential_indicator_on_nametags = true
 
 	[general.experience]
@@ -16,7 +16,7 @@
 		darken_re-textured_menu_buttons = false
 		essential_menu_layout = 1
 		enable_essential = true
-		use_vanilla_button_texture = false
+		use_vanilla_button_texture = true
 		quick_action_bar = true
 
 [hidden]

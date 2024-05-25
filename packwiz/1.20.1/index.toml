@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "99c30de9daee51ecba7c3d845540fe49fe40ad688eaf6841f9004e90f8418ef9"
+hash = "49c8b99be9c8500cb0d26f6cac08392fc16ed5264f04859b4cd1a94544180099"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -94,11 +94,15 @@ hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/essential/config.toml"
-hash = "a5b79020014dcfeb29e69db96c6788d1ff02474e33f99d690d63bd53ba52eece"
+hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "5b38e6c9dd26217d03550ff43bd435ed3d0cfd72f0b85d9c98b31293318b9ada"
+
+[[files]]
+file = "essential/config.toml"
+hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -157,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "c0de5bba506e240a13775eae2a7fcf27734848fc460ddd5f106b9b32756e9aeb"
+hash = "da4b8cdf1ca78cbb53d6fc3a5169c46abd3e7f4e6b485e28b4b1f909473f6ba1"
 metafile = true
 
 [[files]]
@@ -212,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "e602bc6bb7b5ca5e4fb2351e285cd715ea5f7a4b4f83ffa6e137319e89e41a68"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
@@ -362,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "73ba50359a21acea383225510a96b5833b9633b4bf0b4484cedea6bbb34bcc81"
+hash = "ffc7af37af211b17ab959ee43d0780747a0f5a9b69bb9132d6538bc0e8df7ed8"
 metafile = true
 
 [[files]]
@@ -442,5 +446,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7e2d8e14bae5fab9fcef19a01af0f12de90f906d088ff047a0b3d3ab257a5fc"
+hash = "4c331cf4309108852027aaaeb3cc3546f884451a34b88569a6cd03111834f26d"
 metafile = true
