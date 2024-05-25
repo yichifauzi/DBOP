@@ -8,6 +8,7 @@ maxFps:260
 onboardAccessibility:false
 operatorItemsTab:true
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:default","continuity:glass_pane_culling_fix","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["e4mc_minecraft","modernfix","rrls","yet_another_config_lib_v3"]
 simulationDistance:6
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
