@@ -9,10 +9,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "e4fab02ea1e5fa14fb30f6eca44f9f6b6fa84c6ed0249659b0e7a88a1a6f75a9"
 
 [[files]]
-file = "config/yosbr/authme.json5"
-hash = "181532fe5e5276754299125375140071202fab40ca1474655eb7e1055d8c816d"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "9800c7bdaf41d5327adec383181b88e29c4a64d64cc5c573cb824e1a6a9188e6"
 
