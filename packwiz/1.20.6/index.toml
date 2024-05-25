@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4dbe1b18cfe98be92173caba3b135e5d5208e25324ed6b8e967556378ef5570a"
+hash = "dda16224bf441f250f0f60c3043adfc118a0f308f4f13688e31d121b29e7caf0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -99,6 +99,10 @@ hash = "040e0dad9de583448e9b5c27606215137e838e97974b080c2edec4487ae7e012"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "d2c61c4a138237cc5bcfab4650fdb22956acc7c47b125c9b5077ba6db0b392d0"
+
+[[files]]
+file = "essential/config.toml"
+hash = "040e0dad9de583448e9b5c27606215137e838e97974b080c2edec4487ae7e012"
 
 [[files]]
 file = "mods/animatica.pw.toml"
