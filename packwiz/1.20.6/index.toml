@@ -6,7 +6,7 @@ hash = "dda16224bf441f250f0f60c3043adfc118a0f308f4f13688e31d121b29e7caf0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e4fab02ea1e5fa14fb30f6eca44f9f6b6fa84c6ed0249659b0e7a88a1a6f75a9"
+hash = "3a46d49a4694af153b154fa951db47289218bbc370e445912e2e714befa4f0c6"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -94,15 +94,11 @@ hash = "add52927e94c7207a2283a98ba1f274b8fdd80e191f2a1767e46c1512571a307"
 
 [[files]]
 file = "config/yosbr/essential/config.toml"
-hash = "040e0dad9de583448e9b5c27606215137e838e97974b080c2edec4487ae7e012"
+hash = "9ca314e3267de0f8899fad8064823e4adb0f09711da5291f9bcff6df61fab6e9"
 
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "d2c61c4a138237cc5bcfab4650fdb22956acc7c47b125c9b5077ba6db0b392d0"
-
-[[files]]
-file = "essential/config.toml"
-hash = "040e0dad9de583448e9b5c27606215137e838e97974b080c2edec4487ae7e012"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -156,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "bfad4f1af458ca1ad97453ebce96b3b9cfaca938f65204857d9fe6148f74945c"
+hash = "1e6fa29fb01de5d6e2e7526c20b202fce8fcbb3b15efc1b9be7cc07d6cd5aa40"
 metafile = true
 
 [[files]]
@@ -186,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "b7e6e46a2d481a911df481f6c694c350fd81da871cd646b13e826bdef3a63081"
+hash = "1e8b1b36d7c3f2d481f57166895a90c94f8e026c135885d36ad675e97f5ab9bf"
 metafile = true
 
 [[files]]
@@ -196,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "7566866f47654836d5747b4b0130d4ef175db6674d0f3b1df4d0cd656d81a2ec"
+hash = "c4f6c76a45cc10b0181c6ab0ef361c66a3426aedd7e5331b1b8f65f314f359a9"
 metafile = true
 
 [[files]]
@@ -320,6 +316,11 @@ hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "128beb21515e22b8d8984d25c40ec1f9b220b363cfaea315de78e0648a250d29"
+metafile = true
+
+[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "6efafee1d40cff2e48e92dc02af9d5ac98ce6e28e33afa742c1d942e52fc0f07"
 metafile = true
@@ -341,7 +342,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "22ae00cbf36bcff6465eeb11d20ff434fd45210ce1d884b54935835737e571c9"
+hash = "a4792fde3b01ca94f94fcd969b5a5a194a7359305fa41f16d09e945b5165d7f2"
 metafile = true
 
 [[files]]
@@ -366,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "fed3f820405a711f5b928a0eb86aed2d6bc47598b75f0e5cbc89dc5c7be43740"
+hash = "726fa7814c0b34a0e86130485e5ba36b37ebd70947c48b8da2c62d039d43f7d8"
 metafile = true
 
 [[files]]
@@ -396,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "63fa7a353d3bab2720cf79f42b0461b5f4bea5732db69130348a6a38a8a498f1"
+hash = "b00472be8caefc88f4590f0541b2c065973f8e1a1d75c800b4532274d37638b7"
 metafile = true
 
 [[files]]
@@ -406,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c097a97f354136fdea5214a9660970eade3a25449792365372dd82f65f7a9ffa"
+hash = "9ae6c555e5f5b610419c89d8259ef1f2c148f2efd6278e8e305b2dcbf96693ee"
 metafile = true
 
 [[files]]
