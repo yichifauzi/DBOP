@@ -6,7 +6,7 @@ hash = "604402520295a60330875ae1afd23ddc783959af3832fb6067d3420cf6da61fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "14d9c0705693a501d73556634297a8fceffeba3c38ab7a1597be140bfb72fcef"
+hash = "c54279979397c290aa1da86e584dce1366800f094c05c1626bc68fd9dec55d9f"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -99,10 +99,6 @@ hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "2666e2229df3377ffa11c4c24c32b8c0bb533dabecb8ecd80db7eceb38e8f563"
-
-[[files]]
-file = "essential/config.toml"
-hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
