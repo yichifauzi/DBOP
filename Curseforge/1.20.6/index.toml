@@ -6,7 +6,7 @@ hash = "4fb6c39c0250fedbbad4163cb9f72697b1f358f7e376f9c16399b92553d29414"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8c6152286984290123c442d6f99502d6456deaccd0b03f5d4fb6f5e99cb10f16"
+hash = "24995ee367ce27f366cb5235fa87a86f02c92d1471323e39ea1ade741005cb86"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -101,10 +101,6 @@ file = "config/yosbr/options.txt"
 hash = "80d30efdb82db95ce95319e3cfdfa0ff9b3f68ed7b8617bfb8a2df80d36d1cd9"
 
 [[files]]
-file = "essential/config.toml"
-hash = "a40f83f745896f30e04dec758ab4a02a64da5dde2a217dca1843683ecac406e0"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "c688319082fabc81ac56fe130530256b8e3326900a132cb8a839c46c1537813f"
 metafile = true
@@ -151,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "18ee49298545357770f15f3f6afde4bf236e0f00fa2e44c7d272be3496cd4163"
+hash = "27690aafdd3b5ec1ceb42d7eb8ca45e0cac565e0db12eb945fc4390fc4ed801c"
 metafile = true
 
 [[files]]
@@ -186,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "feeae8e5791bb0dcfbca82c2452d97dbcba6e6018ab8ed1da5b0acafe50dcf0f"
+hash = "1898ea50f64ccfa8ba79f31b1f79dda896e1d9e6f7e57f9a733f7d4743e03e40"
 metafile = true
 
 [[files]]
@@ -315,6 +311,11 @@ hash = "9d76e9b5d107004c51e91c33404a9e22f03770420e3cf6a49bc1393b6f9fe3c3"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "ecee94fc17b6dc9c93da9713e490c5f896983cce6587100b14c01b0cb1484d20"
+metafile = true
+
+[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "6efafee1d40cff2e48e92dc02af9d5ac98ce6e28e33afa742c1d942e52fc0f07"
 metafile = true
@@ -336,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2e7595169501e848bf07ae5f52ad6ce944d0c48803cf2f6baf5d4480a013c6ad"
+hash = "a9869acf6e91ebcf5ad5de6b12244a9a4547980a2668a353881b5bf0b611901f"
 metafile = true
 
 [[files]]
@@ -361,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "14d7a190d407d281bf5253d51080a54bb217d255bb216a57019a1d9399723411"
+hash = "6742bad2d35a0f47b61f8e70bb5bfb70e3a0556cb5d7e4fafbce4f153be79deb"
 metafile = true
 
 [[files]]
@@ -401,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "61ed4715f063c219c44dc93e9cf4c4f4a5ebcd659b195b32ee762c66ff0a3f9d"
+hash = "3b563c61e167ddde3abb00355ee476f96789b8bf0f77dcc19c7022452cca442c"
 metafile = true
 
 [[files]]
