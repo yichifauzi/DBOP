@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities.pw.toml"
-hash = "4350d31a88c0a70af3783fa6e4778628ae42de023fc7dbf92c8286df5f7bc093"
+hash = "b046a51c170a29723c14ef9509b66f1212e5e55f6b84655ebbc6959d861d9b3b"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "ca3acd17f9605dfe6f12a693c8475bd4aa45abf1ae56df783cfb2aa1768eca44"
+hash = "b60ee8cc947f1f78028b62313dafeaf7ed8d2f1f88b195b58845ad0ee56e7f9c"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ed82b48b7104f02ed5edef7dc6a32ff0fc58f5d3ea27d60d2949da71de801876"
+hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f0589a4fabb9c08f6977cb7cc513170bb926459a3c6cfcb9bd435503c0875c65"
+hash = "e464361a16b1f8e39f49f24c18e4f2dd0b4b85c89ac514042dc90e786d48d622"
 metafile = true
 
 [[files]]
