@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
+hash = "6fa84f7f7d9531276332ea1f4dbb4f46158b06de611b2ab14c204033a6298a21"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e2eafd77597771fd8810583370b6dd445b89490cc1b403f048305736dd23eed8"
+hash = "678d9fbe84cedd639c84743b2a95d47ab9dc5b88a89e5df72b4270eb6abae51d"
 metafile = true
 
 [[files]]
@@ -437,10 +437,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "2d9ab5d76c32219c684dbb599ef9ebc6d99148a084c38bc61c0cf1ea5f16a77c"
+hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "4c331cf4309108852027aaaeb3cc3546f884451a34b88569a6cd03111834f26d"
+hash = "b9702a96e21940f0f41e90c7ad9614d98c28cab78de1d6072078f3f07ee97e2c"
 metafile = true
