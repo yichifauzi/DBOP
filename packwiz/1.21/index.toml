@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "406a3f78220ed5d7a4e60c7f89eb9a07e37dd30b4ce6fe684a697096dcd2118c"
+hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3c5c24ba7c1af10c4bd3522efa8d1b89c88352e53382529610f81d50d46f0a32"
+hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
 
 [[files]]
