@@ -1,0 +1,13 @@
+name = "Server Resourcepack Checker"
+filename = "resourcepackchecker-fabric-1.20.6-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/wxQJVrrt/resourcepackchecker-fabric-1.20.6-1.2.1.jar"
+hash-format = "sha1"
+hash = "b976c13f84237509f9e071ba40701c219cfd71d6"
+
+[update]
+[update.modrinth]
+mod-id = "fCpuZIcM"
+version = "wxQJVrrt"
