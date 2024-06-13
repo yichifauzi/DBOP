@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2f16fa49c1e3ae4102e2de61c23c6892a351396c59f8bd0c5231323da9a49603"
+hash = "71ddbffcb32c6464a78584525eb48da3e0727ba8de4105ed9bac19351ac38698"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "2c24f3b7bb9e171e8a3784e2c9a29c30f8541cff26e086962013c504a6c1cdb0"
+hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "ef364a31e3355d3b920af2530bac7a2dc4ed69f78e83bf219a616730a63051fa"
+hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "87234bffe4d4f4d309857a263537bf9614d48917b037798c9fc81781575805b8"
+hash = "abebd075929215403e1c44945c80516156b2fe32ff4c2025db9873b241ac42aa"
 metafile = true
 
 [[files]]
