@@ -3,11 +3,11 @@ filename = "iris-1.7.1+mc1.20.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/vWzy27FZ/iris-1.7.1%2Bmc1.20.6.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/keLlmlCc/iris-1.7.1%2Bmc1.20.6.jar"
 hash-format = "sha1"
-hash = "192010bbe234aad1e15a85ac0a9200cce06d45b1"
+hash = "9a858e46db5292c1f1b9f857cad902a6ec5cb4e0"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "vWzy27FZ"
+version = "keLlmlCc"
