@@ -206,11 +206,6 @@ hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
-metafile = true
-
-[[files]]
 file = "mods/fastanim.pw.toml"
 hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
@@ -218,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "7004d6d04c19eaa92fda0b47ac70b7c85987c47cc1431313014c5e9367679173"
-metafile = true
-
-[[files]]
-file = "mods/imblocker-original.pw.toml"
-hash = "2acc88dca959fd5664f18a6873400cd71a73a8a598a5b8d1d122344fc5afb14a"
 metafile = true
 
 [[files]]
@@ -276,16 +266,6 @@ hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "5c0dfc69736a9d187228e3964f1ae7baf33179f18e7d6862992b874689e49729"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "128beb21515e22b8d8984d25c40ec1f9b220b363cfaea315de78e0648a250d29"
-metafile = true
-
-[[files]]
 file = "mods/noxesium.pw.toml"
 hash = "6efafee1d40cff2e48e92dc02af9d5ac98ce6e28e33afa742c1d942e52fc0f07"
 metafile = true
@@ -333,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
 metafile = true
 
 [[files]]
