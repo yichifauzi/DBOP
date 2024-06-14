@@ -38,7 +38,7 @@ hash = "5515d995f5e79eb47d0dd557ff81e3a8c61dbd3dbc76489b2c7074a073e815c0"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
+hash = "c401bf38b612d99cef67a2db11ad71a7ff0cd1341996a27658b01d977be42cb0"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
