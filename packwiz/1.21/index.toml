@@ -112,12 +112,12 @@ metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "cd774a8a652beea10342e6696b0424e624c23d486c3e2587ff7208e88f391169"
+hash = "3efb5df489cdac5c07964f7d2d6bcb8f0464f76e55b4397ed85f9e378fa1a784"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "59c8780265c413ecfa69a7004cb2946d46c943798d3230ea31d470452830442e"
+hash = "dd4a333665383d4af8f20f338b10b89f5ad383f5371d9dfc278f65b3d97d66f7"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "5880c8495984f1236b8ce71b3370b31327b380b527d9799b1dcc45c70e538e93"
+hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ce0282aa9a31909cba4c187bbf1ea0df1c0cd6077d21f89130116f6051a8d6ca"
+hash = "191874e7f32413e363fb002b721061b5ed885896e38974738a4f6faf080668de"
 metafile = true
 
 [[files]]
@@ -367,7 +367,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "9f4b2ad9506a1bbeb10ab60bf5b390f25365aaf07b16653b7948b6fff8edfe11"
+hash = "084bc8025cd2898cf6d46f984c32edeb18da9b36743f2b35b53da6d3b025e3b1"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "91c8a11ea2106490c89e9e24228860ef2e63c84f98ca6fc1761d1a049a8ae498"
+hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
 
 [[files]]
