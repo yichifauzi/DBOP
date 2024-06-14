@@ -196,8 +196,8 @@ hash = "feea6ad1cce24d171745d3019c8fdb5a6a9296effe8de3e680e2f9f6e78bc16d"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "0ed5e6012c67bfae6cba512120ed73b26a3209f3ccd4f2878a2609ba4f8a16db"
+file = "mods/fabricskyboxes.pw.toml"
+hash = "ad81f3ce25e23d00435950b7989c7ab4383f79d7b30f558c61e5da3c6e800246"
 metafile = true
 
 [[files]]
