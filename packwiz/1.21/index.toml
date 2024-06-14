@@ -98,7 +98,7 @@ hash = "9ca314e3267de0f8899fad8064823e4adb0f09711da5291f9bcff6df61fab6e9"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d2c61c4a138237cc5bcfab4650fdb22956acc7c47b125c9b5077ba6db0b392d0"
+hash = "aaa0c4f8cbfda75cd85d2aa61b827d1c054f42a43ba18dfb04725f4a243331cb"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "43a3ae3e208a09927e59b283bbcddb696f42bca7ad065a161926289641f62cbc"
+hash = "3335118064b224948f44cded8492164421d14a640363709251a3c09a3c8861fc"
 metafile = true
 
 [[files]]
@@ -266,11 +266,6 @@ hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "6efafee1d40cff2e48e92dc02af9d5ac98ce6e28e33afa742c1d942e52fc0f07"
-metafile = true
-
-[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
@@ -291,11 +286,6 @@ hash = "abebd075929215403e1c44945c80516156b2fe32ff4c2025db9873b241ac42aa"
 metafile = true
 
 [[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "726fa7814c0b34a0e86130485e5ba36b37ebd70947c48b8da2c62d039d43f7d8"
-metafile = true
-
-[[files]]
 file = "mods/simple-shulker-preview.pw.toml"
 hash = "97ed88b94aae299aafe89a69d99061592216ff5884d67b3d7ff6b4430f238f43"
 metafile = true
@@ -313,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
-metafile = true
-
-[[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "e7a85028ca6dbf0fa2532aa796fa95d2e46dee20ce3984f2dbf26183676236eb"
 metafile = true
 
 [[files]]
