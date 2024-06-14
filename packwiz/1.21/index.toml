@@ -14,7 +14,7 @@ hash = "9800c7bdaf41d5327adec383181b88e29c4a64d64cc5c573cb824e1a6a9188e6"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "ba199dc4caf8bd40d40e319e0a28ee21553a65006219f989f3930331fa3e6295"
+hash = "d31cc86ccf147d5be24a9a852a4ef13b177b2d263c69dbe6f869c2dba73092d0"
 
 [[files]]
 file = "config/yosbr/config/debugify.json"
@@ -146,11 +146,6 @@ hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "40ffcd28c7dc4fb5527f090de61834ab69961889b1634d6933b64ca51b62dc3c"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
 metafile = true
@@ -173,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "de858d34871042c79ee2a664582c1be5afee9421a870038f8cbeba520d406181"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "f1cfb6d5b1aeae9d349d909fc3170f60332b6347493543a2e4f1f0801f4a5d4d"
 metafile = true
 
 [[files]]
