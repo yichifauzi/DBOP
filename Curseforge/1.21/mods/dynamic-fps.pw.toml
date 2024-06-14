@@ -1,0 +1,13 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-3.4.3+minecraft-1.21.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "40fa85ae61c152a417aaee0a0d012ffb632c16e8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5381873
+project-id = 335493
