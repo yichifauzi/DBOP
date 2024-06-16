@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "aa5c7fcf50fdbe8f213af4ebb093fa4c48232230072a1a53efe77e13ae77a559"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a991f9b9a63f7d2fff769fc93265bd68b7c57095c23d6158db4c44cd9a0b72e9"
+hash = "758f57c61abbea552c8f5d627a75730d9cab630713c43d8074aada3dd30ddf0d"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -51,10 +59,6 @@ hash = "806fda595b9aaacf7d6ce9efebaed21083682d7502ae05460cdb2d0635d9ff18"
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "549798bcf6bb131ad6989f6a14cc1402550a4e5be1aaee40b069fc7f73efec7b"
-
-[[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -117,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "dd4a333665383d4af8f20f338b10b89f5ad383f5371d9dfc278f65b3d97d66f7"
+hash = "79ab4fc83d9cd5db3c935a4374b0328d0b1eaa056c5315f93551e914ab4fdcae"
 metafile = true
 
 [[files]]
@@ -127,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5e65ad1b854853c038705e7ffab1321e584c1da5463487865fcf1c3b145d4073"
+hash = "3374fd0790ec7c1a3f2119764830988f9194732b19e27a416c0f5dc7919b8a1c"
 metafile = true
 
 [[files]]
@@ -138,11 +142,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "0f24f7bd2057b70b6816de4e66922b64f8b6635dc603e40cc45d62646dc7221d"
 metafile = true
 
 [[files]]
@@ -211,6 +210,11 @@ hash = "4b8de873d2e5836fdc0a505ea1bd297e1957852725cb9bf3cf8423d444ed1b74"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -228,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "fd77358f512f332ee2113e5fd9d8929ff9fc5952c78f3693c98e27b0de77fef9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
 metafile = true
 
 [[files]]
@@ -252,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e96cb6e6ea59e5dec199d7f5db52cc2fea96d9018be74bfb893b52dfc3fedee1"
+hash = "365313e20f6fd244d13667b352d8aa16312a609c7247b7472771cf4555908869"
 metafile = true
 
 [[files]]
@@ -261,8 +270,18 @@ hash = "b3c7151e31da9752a8ef153f445919eae27e5101e99e42d242155abd2d810d3f"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "d8d16415897778ba9e6bf5cd74920edce456787f48c4e8fc6e2aa1d17fdffdc7"
+metafile = true
+
+[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "b36d95833b8ec416f259a52e367f9e31e5f2b770be844f08abec6553335205c2"
 metafile = true
 
 [[files]]
@@ -297,7 +316,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "40db85936e7296ee0940dd86a9355202d40f23d6af5631cc6e05ae2059e9c78b"
+hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
 metafile = true
 
 [[files]]
