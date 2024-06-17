@@ -10,7 +10,7 @@ hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "758f57c61abbea552c8f5d627a75730d9cab630713c43d8074aada3dd30ddf0d"
+hash = "34ba1d327ecbfee577de406d7a761c30b1f84195d9ca72149842d18cb590c15a"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -212,6 +212,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "dfc7306d9eeaa3f4ddb22e6ef73141eba09f1891a584fdeeacaa9fbb2d182a77"
 metafile = true
 
 [[files]]
