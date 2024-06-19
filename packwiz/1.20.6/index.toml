@@ -6,11 +6,7 @@ hash = "d357ca9e46c51fdab8df8978c018087f525ae80c25c2ba47dadf97be00f1a10d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0a5f396b344e39a61f40576b0d0abbbe81037378979759b27ed1fd5b4e5b35cb"
-
-[[files]]
-file = "config/lithium.properties"
-hash = "a3d5b0ce0244e4253ebc7082631b294635adda1c3c29f5d8d20b84027f04f99d"
+hash = "8c369933a6eaa2088c339edc35ea5c8a2d570864a5029d02236070130ac22010"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
