@@ -2,11 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "24ffeb8e31dc1b3bff3469a4ae78b428eb0c450002ac9f4be8173ce90fc1c803"
+hash = "d357ca9e46c51fdab8df8978c018087f525ae80c25c2ba47dadf97be00f1a10d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "25024b6dc64123f6050b10106413313557cbc088d83e4ada6c50f2cfcb1ba374"
+hash = "0a5f396b344e39a61f40576b0d0abbbe81037378979759b27ed1fd5b4e5b35cb"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "a3d5b0ce0244e4253ebc7082631b294635adda1c3c29f5d8d20b84027f04f99d"
+
+[[files]]
+file = "config/yosbr/config/PaginatedAdvancements.json5"
+hash = "b83e96ddde03e97b22f1880678974466589f75ceb53ba263fc0cc91d2b1d30de"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -21,8 +29,8 @@ file = "config/yosbr/config/debugify.json"
 hash = "fcbfeb692fc3955800b22a396e01f73aba608fcc0cfa87e97c9e95d5644bf4a3"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "2fcf11e6c3a1ff8240276bde9c534445860ca75e82e9b08da23d6f5d83fa29ac"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "8440749f6834f6b986acf04b169f71ea9ed1a52366e750b0727465a7a094330f"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -38,7 +46,7 @@ hash = "5515d995f5e79eb47d0dd557ff81e3a8c61dbd3dbc76489b2c7074a073e815c0"
 
 [[files]]
 file = "config/yosbr/config/immediatelyfast.json"
-hash = "ad1dd68209cac426441ce405c588323aa59be6e7941098f3577e54415bc95c52"
+hash = "48513668868e89a63c603258b1869ef0f3d3326e6411c412cae4417ebeea2c83"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
@@ -152,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "7c46ead8e0ebb83e8059ca129d631b3835b4463c1ae08a0a043a8302f3e2e53f"
+hash = "5006241eb0d049a84d4e792560c9977369f7ddce5ee5bb3fd0e870f0b47244b2"
 metafile = true
 
 [[files]]
@@ -202,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7bfd3f90f0f45c957ba2f7a695726cad48ab0c36eae9ac1a4feace483087f232"
+hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
 metafile = true
 
 [[files]]
@@ -307,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "6c8c93e74e46a0cac65179d027e9aac4eaebc44847604b0ff86644f3030116e8"
+hash = "15af904cfeb2ee20ba0c865bae42dcc7eaea31b18bde9e9f5fb4e4192185566f"
 metafile = true
 
 [[files]]
