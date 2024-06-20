@@ -6,7 +6,7 @@ hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "34ba1d327ecbfee577de406d7a761c30b1f84195d9ca72149842d18cb590c15a"
+hash = "3e5208d662fce90ff8d6d48efffa4343e2a1461a3e9f244811c512f284508324"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3374fd0790ec7c1a3f2119764830988f9194732b19e27a416c0f5dc7919b8a1c"
+hash = "b488580fb9fc59ad54b8ebd7b742aa98d2063ed12b75b624a6b6f36b40b02005"
 metafile = true
 
 [[files]]
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "973a62af968ef19b110a6623f33ea4ee32411d6f350efc7cf807f51072a61262"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "b50942a1bec0085be9e0e8902f43623593c38e66dab0117c5a28cbe90dcd80dd"
 metafile = true
 
 [[files]]
@@ -261,6 +266,11 @@ hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "edebf3f514e6ae422c890a47f30340d21fbf51b4362f5d902047bd4263d9a9ee"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0232ec9d048fafef4d30897343834e6958580863be3ba53ce85abe80ba799878"
 metafile = true
@@ -333,6 +343,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "bea01f76d30359b4013aee8df6863fda0be45e03cbc2e0a4c80f4bc88db3b27a"
+metafile = true
+
+[[files]]
+file = "mods/viafabricplus.pw.toml"
+hash = "7bd49099f287d961ab3a6f1de1ad9e08052f4aadf65536946119aadd6c11acff"
 metafile = true
 
 [[files]]
