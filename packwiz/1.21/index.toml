@@ -9,6 +9,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "3e5208d662fce90ff8d6d48efffa4343e2a1461a3e9f244811c512f284508324"
 
 [[files]]
+file = "config/yosbr/config/bettergrass.json5"
+hash = "1ff937e60867e057976bd935c70d16af7bf85930c446567f87195fb760a17e8d"
+
+[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "9800c7bdaf41d5327adec383181b88e29c4a64d64cc5c573cb824e1a6a9188e6"
 
@@ -98,7 +102,7 @@ hash = "9ca314e3267de0f8899fad8064823e4adb0f09711da5291f9bcff6df61fab6e9"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "aaa0c4f8cbfda75cd85d2aa61b827d1c054f42a43ba18dfb04725f4a243331cb"
+hash = "6ca224b26681e8ef5d1fd720079f5a0b6eb65d319cd32a83c549f50c9633c79c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -198,6 +202,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fabricbettergrass.pw.toml"
+hash = "2bbb707f231c2225374e1c93d0d07e6cd1621e76ded5ad030af5916f4d2b5b0e"
 metafile = true
 
 [[files]]
