@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b4ca030148c5e02ee1ce5039ac6f17fd6d727639a082f59934968abceaa1586c"
+hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
 
 [[files]]
@@ -303,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "5b59ab60d978542c01eab57a3d54ccd7ec9e45befc34bbdd63706030dc391df9"
 metafile = true
 
 [[files]]
