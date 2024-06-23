@@ -6,7 +6,7 @@ hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3e5208d662fce90ff8d6d48efffa4343e2a1461a3e9f244811c512f284508324"
+hash = "c5e4b1edb35e955e29c750a703b0af13e0ee7257ee237d1395a736e706d4f3a7"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "368617983a769fb6819bc68d25a4d0f875977d63e9d2d3ff10389de7adfe2fe1"
+hash = "4491bc724154747145c79dd157d9c38571cc6c17b08c007d207981ff2d82926f"
 metafile = true
 
 [[files]]
@@ -230,6 +230,11 @@ hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
 
 [[files]]
+file = "mods/imblocker-original.pw.toml"
+hash = "dfb711f3c7c8a07eb794cb7b9025d81289ac02d9c227f9e26760091dd7573725"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "29b7078e678c6b90f607f9b09eaedc927fb274382963f39138b72243f2714224"
 metafile = true
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "1b02ffc524987017adbc0a9413f2b53285f4c55247a0943d7de121c68d714a1f"
+hash = "4ee72fa3b6d91ccec6ec3420396db368dc5097350ee2bb909af3a65f0446c9d5"
 metafile = true
 
 [[files]]
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
@@ -341,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "abebd075929215403e1c44945c80516156b2fe32ff4c2025db9873b241ac42aa"
+hash = "ccecdff9c70fe29522d4a960512a548c567b3b540af0ca70bd3dc473a9b6409f"
 metafile = true
 
 [[files]]
@@ -366,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "7bd49099f287d961ab3a6f1de1ad9e08052f4aadf65536946119aadd6c11acff"
+hash = "a11cd41886bee491605d21689bfb8f806124625937095a8ec9d2b66037d07828"
 metafile = true
 
 [[files]]
@@ -391,5 +396,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "27a7607e3ed69c711f12f2c5d654639505b2bd91b520c513504970e31f77cbf7"
+hash = "c0b59faccea781d3fc3bfa92024defa39797de6ab00685a8449093dc154405b1"
 metafile = true
