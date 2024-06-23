@@ -1,0 +1,13 @@
+name = "FabricBetterGrass"
+filename = "FabricBetterGrass-1.0.14+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72ba4d1e3fd831624fe77dd985f4baaf288b0fce"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5453283
+project-id = 1026394
