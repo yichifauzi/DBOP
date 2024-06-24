@@ -49,7 +49,7 @@ jobs:
        - name: Export to packwiz
          run: |
            chmod +x ./packwiz
-           pushd Packwiz/${{ vars.MC_VERSION }}
+           pushd packwiz/${{ vars.MC_VERSION }}
            ../../packwiz modrinth export -o ../../DBOP-${{ github.ref_name }}.mrpack
            popd
        - name: Attest mrpack
