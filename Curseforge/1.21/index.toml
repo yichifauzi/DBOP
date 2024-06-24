@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "de2a90548b475713e454dad6853c72b90189419c6b1ea9d85f0f3fa89bca94c8"
+hash = "c92a7d751a6de52118de2cdd07b1bada3ee30b6a9eccec983883f6bafdb5967f"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "6dacc3b8857865bba914e802a1190c8dd24df811a19ba7ba5fe6e6e24ecea4e0"
+hash = "03a2134222930dd13d6879ef2c63ce979d1c5e59dfc29438bdc1ec7dd4116c02"
 metafile = true
 
 [[files]]
