@@ -6,7 +6,7 @@ hash = "d357ca9e46c51fdab8df8978c018087f525ae80c25c2ba47dadf97be00f1a10d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "8c369933a6eaa2088c339edc35ea5c8a2d570864a5029d02236070130ac22010"
+hash = "6ddfe26c8fee847f9ce66cb9e821b82c49190415566eaecf8c267d5e7b321c28"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "dc16da8c8360b4f7d869874d18188da7389d6beb143d7e077ef9ba70e7fd65d3"
+hash = "c83f8281da61d4db18b376793cd273972993aac6630f97d78733d2c184a56dac"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b1faf94fe7c21a590555784e9d715a33c4b07789c3e98cbfc0686d73c9605331"
+hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
 metafile = true
 
 [[files]]
@@ -366,12 +366,12 @@ metafile = true
 
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
-hash = "87234bffe4d4f4d309857a263537bf9614d48917b037798c9fc81781575805b8"
+hash = "be44827c9a934df219dcc023fcca432b8b6353a5ea8b74de6bbc7296fb36f02c"
 metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "726fa7814c0b34a0e86130485e5ba36b37ebd70947c48b8da2c62d039d43f7d8"
+hash = "311d285200e12ddec5b8f27431651ef88f015871eb4c7e77516f00c040c8b28b"
 metafile = true
 
 [[files]]
@@ -426,5 +426,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "27a7607e3ed69c711f12f2c5d654639505b2bd91b520c513504970e31f77cbf7"
+hash = "c0b59faccea781d3fc3bfa92024defa39797de6ab00685a8449093dc154405b1"
 metafile = true
