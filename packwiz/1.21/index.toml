@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b488580fb9fc59ad54b8ebd7b742aa98d2063ed12b75b624a6b6f36b40b02005"
+hash = "9e88e04c45ff4dfada16671a39400d7df13bb2d3e3def334fa5eed6862c689ab"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4491bc724154747145c79dd157d9c38571cc6c17b08c007d207981ff2d82926f"
+hash = "903cd184c2471739ade3477ac0e149002cdd4516133350a170dc33108f1748a7"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "363498eab749571f10e1f22528dc4e156a6df2cd1f80681c8bfa57cbf131dfc6"
+hash = "27ac8197dad6a1d489a153c86559915412b03e9101173694a5a22ad9a2b2ab43"
 metafile = true
 
 [[files]]
@@ -351,7 +351,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "726fa7814c0b34a0e86130485e5ba36b37ebd70947c48b8da2c62d039d43f7d8"
+hash = "3407ad34a6c1438f6525dae9eb53c69a940296111451902528ac482d0cdb2aa5"
 metafile = true
 
 [[files]]
