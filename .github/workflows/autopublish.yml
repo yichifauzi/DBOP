@@ -22,7 +22,7 @@ jobs:
          uses: Kir-Antipov/mc-publish@v3.3
          with:
            name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
-           curseforge-id: 396246
+           curseforge-id: 968954
            curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
            curseforge-files: '*.zip'
            loaders: fabric
@@ -65,7 +65,7 @@ jobs:
          uses: Kir-Antipov/mc-publish@v3.3
          with:
            name: ${{ github.ref_name }} for ${{ vars.MC_VERSION }}
-           modrinth-id: 1KVo5zza
+           modrinth-id: olssWAmw
            modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
            modrinth-unfeature-mode: subset
            files: |
