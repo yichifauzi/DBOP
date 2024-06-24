@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "955668278c1f362645ec331b74137d1cba4fef83e8ae5a0ba0f8bb8fbba00e0a"
+hash = "39aac6f976043dea667aea7e59641d9238d7092c9df3a88a42178e4eefbfc47d"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8faa0a95c30fd8ea84c489c0c8b3ec8ecedefe0c6da0a15a92c87b2517011818"
+hash = "312795115d44a1f34751912aadd48db9aa74adeab8699df30c9812bf6d53754f"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "96f72763b334ffc51297b8cbb2089365e599e63ede89ca9dceed219dff581ff6"
+hash = "62496e10e73c6037c18e800a8344cf578ebbf8b14ce0731ced2b9d0cca2d3dd8"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "556c253d826ce236491981b6cf2deba49364c7f0597ff1e6b9d5f59c5e6f53b1"
+hash = "f7c9c1bee75968286a4fb6a765f7cd0505fac90cac30a896f76215c1e6d4d8bd"
 metafile = true
 
 [[files]]
