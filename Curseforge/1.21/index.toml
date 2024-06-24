@@ -6,7 +6,7 @@ hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "71766a534980ed05e2153fd42d6847010a600270e4441405544fffbbfb0dcf79"
+hash = "1acb97f0e99d6d9cafd76582ddf01559ab95500c3cc5c6c72f04cd08098addcf"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -357,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/server-resourcepack-checker.pw.toml"
 hash = "202a2f2beb8479575f035072eab294401129cdd2e7cd8500917402493d46d36a"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "6742bad2d35a0f47b61f8e70bb5bfb70e3a0556cb5d7e4fafbce4f153be79deb"
 metafile = true
 
 [[files]]
