@@ -6,7 +6,7 @@ hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7d5a294b2281424c9b24d548ceed1250c017e4e3a65b32acc55271f2d3aa8459"
+hash = "d2e62169963cbeee583b57b8fb222012540f7c917f7c42eb9b8b67151ef921c7"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -152,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "ac0488d4cddabc0496cf1d08dda0423abe544f946df189afdeadf8de3d8eb4f5"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "55f0656b4bb9489a9f36700bf8ba069f8fe001c4baf2d4d0ff01e948560dda59"
 metafile = true
 
 [[files]]
