@@ -1,13 +1,13 @@
 name = "Cubes Without Borders"
-filename = "cubes-without-borders-1.1.0+1.20.jar"
+filename = "cubes-without-borders-2.0.0+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e54a2c4b4817efb93a2ce7cb78bf8a2d1136b6cd"
+hash = "7e3b77305a2e1f71bdcb966c17c160445c972ae5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5111927
+file-id = 5470022
 project-id = 975120

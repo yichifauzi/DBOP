@@ -1,12 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/dynamic_fps.json"
+hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
+
+[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a5be6e93d0a66da154a7af050c61367561939eb1fdf7432fffcb1bd483d6f431"
+hash = "23dfb87d90bba7e9948a1033d6b7497c1d82a76f5f0cf1b954d06c016c137085"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1acb97f0e99d6d9cafd76582ddf01559ab95500c3cc5c6c72f04cd08098addcf"
+hash = "40f361fa22f014f1efcfb49b045a0b8961b05382894c750401f567dc09e49c2d"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -25,8 +29,8 @@ file = "config/yosbr/config/debugify.json"
 hash = "fcbfeb692fc3955800b22a396e01f73aba608fcc0cfa87e97c9e95d5644bf4a3"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "2fcf11e6c3a1ff8240276bde9c534445860ca75e82e9b08da23d6f5d83fa29ac"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -62,7 +66,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "b3c80467a5320fad60c2fbc8fed0a0fde2d834bdcfdfb1f1782d9778e92e06fe"
+hash = "369099c1f96e9866369bbea1f40951186105364d6a03bdd17b5416ead84b97eb"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
@@ -111,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "aaa693d17956baea94df7771c4da9f1a4862b233619ead5a35fa2041ec06dcec"
+hash = "0b386fe884b7ea174ee8d4206da530091a855f78ec3f7d6a8b6eaba465217013"
 metafile = true
 
 [[files]]
@@ -151,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "476e9bde80baf662dedb9e0b494fa0e6a2140b3050f4242cabb59abb6dc188dc"
+hash = "b2adc6883a480d2738d2981c3c4268f86466017c0e40a1b7689de978449c66e3"
 metafile = true
 
 [[files]]
@@ -161,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "fe0c97e60d2ed8b93b16d08512a9cefdd267d82b160418c0f57ec510a98988d8"
+hash = "c02248bbf5244416c5cf0931dd97797c2ed1da98c16bfbb3667c274fc58999c7"
 metafile = true
 
 [[files]]
@@ -361,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "03a2134222930dd13d6879ef2c63ce979d1c5e59dfc29438bdc1ec7dd4116c02"
+hash = "86b8bbeeafec4cb62ca42f2074174e1f4f0b457445b2f1cd68aa7a9c5ad1bf7d"
 metafile = true
 
 [[files]]
