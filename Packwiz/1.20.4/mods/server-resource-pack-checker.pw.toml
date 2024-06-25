@@ -1,13 +1,13 @@
 name = "Server Resourcepack Checker"
-filename = "resourcepackchecker-fabric-1.20.4-1.2.1.jar"
+filename = "resourcepackchecker-fabric-1.20.4-1.2.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/zp84EW6J/resourcepackchecker-fabric-1.20.4-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/AD4u1IDb/resourcepackchecker-fabric-1.20.4-1.2.2.jar"
 hash-format = "sha1"
-hash = "906c49e6021417f2fc6cbd0906ab3a603aa5abc9"
+hash = "90aa3ddc6ad883ba52914efa019427d95536d4ee"
 
 [update]
 [update.modrinth]
 mod-id = "fCpuZIcM"
-version = "zp84EW6J"
+version = "AD4u1IDb"

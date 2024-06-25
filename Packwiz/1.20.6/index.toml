@@ -30,7 +30,7 @@ hash = "fcbfeb692fc3955800b22a396e01f73aba608fcc0cfa87e97c9e95d5644bf4a3"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
-hash = "ebe4b9ceccd48ae28614a8ccda38839eef96d51f7eb781ee0746ec84cbe1d127"
+hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -66,7 +66,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "b3c80467a5320fad60c2fbc8fed0a0fde2d834bdcfdfb1f1782d9778e92e06fe"
+hash = "369099c1f96e9866369bbea1f40951186105364d6a03bdd17b5416ead84b97eb"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
