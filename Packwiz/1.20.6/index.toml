@@ -10,7 +10,7 @@ hash = "34bddc86e004386645358dcae7e3b470c490d47c316dd6673bfeb4c9cb888de7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6ddfe26c8fee847f9ce66cb9e821b82c49190415566eaecf8c267d5e7b321c28"
+hash = "1c1d7df080d55326e581c60be50fdd985ff52164cfa557be3c98909111ee0a85"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "35987c496bb9606cbe066b5bf8d3b3823504cc6a3d04d858b8d6ae33fc8a50b8"
+hash = "fab499ae83c4bceb17b1d0c72142850185fc7c8a6cf6c487993c43aee2780561"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8c72d6fc7ec9aeb35b4c0e57627edfe719d5fb3f714e8f6ff7c50a4987c47f86"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
