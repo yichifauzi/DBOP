@@ -1,13 +1,13 @@
 name = "Cubes Without Borders"
-filename = "cubes-without-borders-2.0.0+1.21.jar"
+filename = "cubes-without-borders-2.0.1+1.21.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/njTYAfLE/cubes-without-borders-2.0.0%2B1.21.jar"
+url = "https://cdn.modrinth.com/data/ETlrkaYF/versions/zG2rMbPK/cubes-without-borders-2.0.1%2B1.21.jar"
 hash-format = "sha1"
-hash = "7e3b77305a2e1f71bdcb966c17c160445c972ae5"
+hash = "c944c4b677e86bda346f763deac0f57cd99af500"
 
 [update]
 [update.modrinth]
 mod-id = "ETlrkaYF"
-version = "njTYAfLE"
+version = "zG2rMbPK"

@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "23dfb87d90bba7e9948a1033d6b7497c1d82a76f5f0cf1b954d06c016c137085"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "53004a918492fa73a8d5c1464d376e8ad07d2738521ace35d80a5ae371e022a5"
+hash = "253858cf2b00e3f9f26d1b061673d6a7e8b6ed88ca8007ac72e5e039de30b2e1"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -160,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "55f0656b4bb9489a9f36700bf8ba069f8fe001c4baf2d4d0ff01e948560dda59"
+hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
 metafile = true
 
 [[files]]
@@ -205,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4f191559a172870b7823680a089727a4e081ca0f42b1437a8bea4ad528360092"
+hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
 metafile = true
 
 [[files]]
@@ -215,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "b6bff31ecd099d5879575fffb3bfd355a81beb1eebd8015d4b57ab356fe632b5"
+hash = "10f8e1b1c0b3072de6b4a54b73497737d7be4ba919c5a86a05dcee73ddb4950c"
 metafile = true
 
 [[files]]
@@ -335,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "67d4d5a370f115cf9b6d642920913d2102ded3bcffad8cd73475344bf1dd9d5f"
+hash = "f950389834093822cfa59d3e475fd53688308de20b276031fd6df062705a4568"
 metafile = true
 
 [[files]]
