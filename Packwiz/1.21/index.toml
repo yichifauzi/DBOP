@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "02d5a13f745ac0a0f107a071649fd44b3c6820a60e926f3bfc4907ac59194edf"
+hash = "93bcf3b2c06d84b695decb6ebf35f08cb3868ca2766fdb5f96d082bd274f33cf"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f950389834093822cfa59d3e475fd53688308de20b276031fd6df062705a4568"
+hash = "b4bfff726f0e2a2d9d4bc58e3a75ad3197c053264e8b0f474ac87e53fe9cfab7"
 metafile = true
 
 [[files]]
