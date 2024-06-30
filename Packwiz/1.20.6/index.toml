@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "34bddc86e004386645358dcae7e3b470c490d47c316dd6673bfeb4c9cb888de7"
 
