@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8f1708007e0a51ad0a405cdbef7117796a564d1c4e13764de5803f364d1d7cc0"
+hash = "da767ea6bc549f25a826ab2bfcba942ba620766c9155fbbf6a965e0f116cce63"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "dd9386162c7f2a06ca9ab372b140052bd039e8051125a619ad05f8b5c7369668"
+hash = "860b83d5fe7aadcefa928fe156d38e46cf171b6102d5691758eb75da3fcdb799"
 metafile = true
 
 [[files]]
@@ -390,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "03be3309191daeb87780d3d80e01345cd5cd1aca4fa188d0bcf594c7fb016a30"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]
@@ -430,5 +430,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "fe38fe4bf64c0a9ac8d021548769b4e0bbbdf4b635d6e54dc43d4552932bce9c"
+hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
 metafile = true
