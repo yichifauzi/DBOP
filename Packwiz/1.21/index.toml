@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "23dfb87d90bba7e9948a1033d6b7497c1d82a76f5f0cf1b954d06c016c137085"
+hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0f04e9419ee67dca92f48d2c1e8b7602e260763c52aebd13453e8449141cc5ff"
+hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "93bcf3b2c06d84b695decb6ebf35f08cb3868ca2766fdb5f96d082bd274f33cf"
+hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
 metafile = true
 
 [[files]]
@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "850556d97d0fa30f37bdb7e50a0c085778b409db8649f174005755142199e3a3"
+hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
