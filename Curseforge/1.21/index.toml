@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "23dfb87d90bba7e9948a1033d6b7497c1d82a76f5f0cf1b954d06c016c137085"
+hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "40f361fa22f014f1efcfb49b045a0b8961b05382894c750401f567dc09e49c2d"
+hash = "04378281510a41d8b9eec94f387ffb2d5ed6816a99b1f365adc7fe17fe60deec"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -115,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0b386fe884b7ea174ee8d4206da530091a855f78ec3f7d6a8b6eaba465217013"
+hash = "6517d3a809250697f776c7bd1bd30b4cbface19bb1745b022a74b926aa12dd7a"
 metafile = true
 
 [[files]]
@@ -155,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "b2adc6883a480d2738d2981c3c4268f86466017c0e40a1b7689de978449c66e3"
+hash = "2f7d5cee8332c1a9a84da200a86a7bdbb5f753d4cbe16f3057845a48e393ab97"
 metafile = true
 
 [[files]]
@@ -165,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "c02248bbf5244416c5cf0931dd97797c2ed1da98c16bfbb3667c274fc58999c7"
+hash = "7a3d4b459a7f5d516c7ff1aa0ca8d2b8d91cf4ebced3eeed3b85598a101ff309"
 metafile = true
 
 [[files]]
@@ -200,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "df9af9e2269f3ae3a73f32ad923eb6d2cec95314167cf05d3ec3e404824fa845"
+hash = "f0b2cde75c8f9e9a4293751ec4cd82eef65c6f5d0b2ea3f026b70c8aa11c19e2"
 metafile = true
 
 [[files]]
@@ -210,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e6747ddeeaf72622caade885db85c5d244a0b6375fd23aa3d05920d33a1bfa9b"
+hash = "f064e09ffc21f808c8fa2e577b1b7fbede86b170e922deafeaef36a57e559442"
 metafile = true
 
 [[files]]
@@ -260,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "0e2a96852c1aa3974bfd1d9bb2f429abdbf5c58a49e2ff3de5302afc188b6a09"
+hash = "010c30a70999d4ac6493b27323b546aefeca1f25fbfdc874c4428662412a9f0a"
 metafile = true
 
 [[files]]
@@ -340,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4eff16fa90e3da726eec336c96ac96ca0110635957336aa0d97d04f677fe2766"
+hash = "be88a581183ddba38e539b61ea75b247070534458245b2d2f5342b099ecfb32a"
 metafile = true
 
 [[files]]
@@ -380,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3c68a3806f001870800c2bf58ea939c7a8dfe6b63c124377a4961b15dc576bec"
+hash = "b4eee90e0731ffdcd82cda4467f8dbbaaa651c8cbfab9bfa3c8e3066b440f6ba"
 metafile = true
 
 [[files]]
@@ -415,5 +411,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "3f64fd9ec55eb1c08933d50336765ee0fb45766b8e903edf60a6e4cf380fb253"
+hash = "70b0108838f3001f4d91f32b40baa3086d98dc6105d89f40eec33d212b288a4d"
 metafile = true
