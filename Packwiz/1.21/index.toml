@@ -6,7 +6,7 @@ hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "253858cf2b00e3f9f26d1b061673d6a7e8b6ed88ca8007ac72e5e039de30b2e1"
+hash = "e48aeba2a0cfc4a07dfed4d5843f088d0ba54bb7b32c2eb11b416b36cbeb58c5"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e074b68ad81c1fc1c299273107ceff2f7517b7212e36114905f6446a99740cc0"
+hash = "6aca7163c1a95b1fd5ea1176b22751b183c72615ae46f0c69984dbee3bbc821a"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "56395f38e31f1f052cd47880848d7563c4ccd8dc75887a58110dc441a1351bbb"
+hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "e353c3b89d39a359d4574821b08cd4a8f0ae80759874591e40a46329768b49ec"
+hash = "03fdecfb95c2475b5c401fdddd1be41b6e656ff67cfb56381b4dc6c387a2d8e7"
 metafile = true
 
 [[files]]
