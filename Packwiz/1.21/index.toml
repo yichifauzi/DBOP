@@ -230,6 +230,11 @@ hash = "c45858094badcafa765bc563c599788788452ce40c5720de770b7d2a78376462"
 metafile = true
 
 [[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "0fc84d517bba8e458d268ef8472c97b83dde77e53b9f080444e4b728b3775faa"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "aaad4f1b2f56017174e616998d03895c79b457868dfcc7d308bb1137ca24f1c0"
 metafile = true
@@ -291,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "dfae614c6064cbd01c785d6d969cdfa02f8504ff99d109b4ec989be43ff90f6e"
+hash = "ec90fb633414afe6d46594aa8aa91cbbcb8efcac9fdcf2a1b36427d7d04051b7"
 metafile = true
 
 [[files]]
