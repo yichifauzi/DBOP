@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "6aca7163c1a95b1fd5ea1176b22751b183c72615ae46f0c69984dbee3bbc821a"
+hash = "b707a57cb3489c634ef443f40929b73f9c8c694a7f421b430f48042cbf5e0383"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
+hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7607393a3f2c3aa298d64249f03253b4f8140e17c964bb5fde8a8386ec99894d"
+hash = "1f68d5395758ab07440ceb28ba568cd9724085f853bc53cc9167669c2ef124d5"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "605e2bce11456dfe90288c1d74240e4d4b3abf28c1f28fc07cdb49d020ef6213"
+hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
 metafile = true
 
 [[files]]
