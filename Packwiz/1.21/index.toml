@@ -125,6 +125,11 @@ hash = "0106f8720aaac0ac5ac2431953760c22c237d068d6db5ba9792e6d0f87ff1a7f"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "eff006789cdd400f7a5fa60485270a0aee77c5947ac056fdb2ddcd43017612d0"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "2211fc2f62981a30d01ace530fe91b70803e2f7ace0e2a25907aacfd4c6cd310"
 metafile = true
@@ -196,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "7b4161e70b29427c9e538b92666a280e6768b570167fe865b66afb98ca3a181f"
+hash = "16a542057b12e1f7d250743f2dd6eaee38158e7ebfc1634cc71bfc72df3add61"
 metafile = true
 
 [[files]]
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "10f8e1b1c0b3072de6b4a54b73497737d7be4ba919c5a86a05dcee73ddb4950c"
+hash = "4ee243af8ec7d6e05182e52de2802830688e10418729a31d5ab0a77bce299dd3"
 metafile = true
 
 [[files]]
@@ -316,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "1124be6184b281427ed159f055ef64873afa53724df034c12799567d3ee49bef"
+hash = "82add8e18a42d76da107de06d8a7eccf852d66fba742eabe1f6ba84f994aaa2f"
 metafile = true
 
 [[files]]
