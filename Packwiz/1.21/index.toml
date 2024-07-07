@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "4ee243af8ec7d6e05182e52de2802830688e10418729a31d5ab0a77bce299dd3"
+hash = "5234599f5517534b2fe9e70adef8bc305f7da7943df69fb2818cc8f46691347e"
 metafile = true
 
 [[files]]
@@ -391,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/viafabricplus.pw.toml"
-hash = "e5ab148095c00dcfab7dfdde3a58c84e415675c97a8328b06fe1f5d11cf0879f"
+hash = "dee3d68d11657f4d43443853bc1eacb926062e24025b9c5b40ec8ea339ea8659"
 metafile = true
 
 [[files]]
@@ -416,5 +416,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
+hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
 metafile = true
