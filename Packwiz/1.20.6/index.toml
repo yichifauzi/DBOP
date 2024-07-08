@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "40751ae44fc661f123338d9b1bc1598a7083feb98a75274fbaea69cca2c9d402"
+hash = "96ee2e4ee9ace96decbfac9533ac224d9d19f00a8295c371e388ffd33683dc17"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "fab499ae83c4bceb17b1d0c72142850185fc7c8a6cf6c487993c43aee2780561"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "da767ea6bc549f25a826ab2bfcba942ba620766c9155fbbf6a965e0f116cce63"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "eb13735dd9152d9282a48ec90a5d5d4afb78eefd123e9606e313dfc20851ab7b"
+hash = "c18adfc63f0dc47528ac59a25e6242975915bb67b04e6d3b4db3f60b0c699b13"
 metafile = true
 
 [[files]]
@@ -196,12 +196,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "986ccd5451ca3af3f7d033c351eb36ceae78c88968742aa46e5ed7ec212a78f6"
+hash = "2ba105756455a92c5f029784edf888f17528b405bd5cba0eb833b031448829d9"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "b5721e3ae65c9fdcf0c72513764194f8fd85927d002ed2ed00f225e6278a67e0"
+hash = "afed87478a022d5e0443a24b41e75e731060fdfc3aaa10e1acb404cc13ea5c85"
 metafile = true
 
 [[files]]
@@ -245,6 +245,11 @@ hash = "187bba826212d113209cb31b52413b5e7e67b3a922fd13cfda4c79d8a16fe6e5"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "06cfcb7c02db05aa028c34844ddf211c1d9babddaa56862eadb362db87c27f17"
+metafile = true
+
+[[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "9a5d96539e0cb9fc0291ce1f9b515ee4d13b490da98bdc2d00585a082c30ac73"
 metafile = true
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "aa0f333e26c7207db3a6e0c3869d9ee51a3a5d2eb405830f86f814641dd3a4dd"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
@@ -340,6 +345,11 @@ hash = "947c93ef046b30fc9240745a9ddd4d6fbaffe3cb7761bac2d8479db4f05e309d"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7d484e82f645d3721f74f0d59e6859c0611bf7920c73544acf51c091f2256f9d"
+metafile = true
+
+[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
@@ -371,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "7d8c195ef514bac77e9f6e823013c9a6aa5bb9bc8f8744bbabb3c3e78d69f6c1"
+hash = "75ef0e9af567f18839c03779b74e3ad2fefa954c4ff6ebe36c64a272263ae4ec"
 metafile = true
 
 [[files]]
@@ -426,5 +436,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
+hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
 metafile = true
