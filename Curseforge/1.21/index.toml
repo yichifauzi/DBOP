@@ -250,6 +250,11 @@ hash = "9a873c1d98fc0c4cccad5c77c01c33d03ca240bcbe313a3b379ac94ffe8f33d6"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "862d5fbb22137e359d0040f1d517d9e480d9acecb592a033e10cc605cba6021e"
+metafile = true
+
+[[files]]
 file = "mods/imblocker.pw.toml"
 hash = "32f07648dcc0de56175ec769e7a5cc91d0dca09cd7773d251b157e310faa555a"
 metafile = true
@@ -337,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "95ce06c3a6823851bd8b39f259864c41d3eee713ee04cb59d4bdceaf4030efcd"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "8a1343fde9f72eb7bda0f4a987b0999b91310b7834007ccc9a8b54dea4d85042"
 metafile = true
 
 [[files]]
