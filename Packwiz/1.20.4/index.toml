@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "42394225ea70305fbc30fd29ae7cd48ce2a4c295b387a3c34cebfe464089e237"
+hash = "f7ec1bd62077e12a91acb49b09f3a9af78ee51c7d6e62109ba627ecd9d10a9f0"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "fab499ae83c4bceb17b1d0c72142850185fc7c8a6cf6c487993c43aee2780561"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "877acc5e4524e8eb6e1afe4bcdb78586ab705526c90c6b90936f5a5480034a04"
+hash = "d66ea8c1b07884fd9de62cfbd344a74760388b9d19b0d82c32557e3edb4daad9"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c7925dda9ded6ad423fe654e98078ca5adad621d5d59b49a0687fa266095f54d"
+hash = "7609db7b10ab94c8f9e1e0899667768f7bad26013be5dc2bd86b2ff86fe9886b"
 metafile = true
 
 [[files]]
@@ -201,12 +201,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "5d559796686318c6386f68b673dbfabb8d8929f256b9b658341514d384c93637"
+hash = "cf1070e84af9b1bfd67f09d1bd3ca8153b7020789116e1bbbce3408284faf523"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "daa9ae153b6c36348870d70440a1d8175bc41bd5e475a06f3c33a5906c49045d"
+hash = "441fcd25205743f5a35ca42e9397d93ee7a81b3f8ed008d2e1f48041643f03c4"
 metafile = true
 
 [[files]]
@@ -350,6 +350,11 @@ hash = "2ec8ecdcfb977e11c3c140cc2369f3ae17e19928a327e4212d812f27979c3090"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "a14a9d2c780c25e86d23a923504c8a1d6265fc31b949053dfa8f0c2dc4c5acbe"
+metafile = true
+
+[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
@@ -436,5 +441,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "77c1351b5ea98c043b7c9b9214a07f8ad4c7a3593a8c525c75a883df38b0edb0"
+hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
 metafile = true
