@@ -341,11 +341,6 @@ hash = "b67abea74ec9d9135ee0864c53f81a1b74ab7c2e16288eb133297fac55a9a69b"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "5b14e27c49afae3796b106a408c5d6b1e5d6628226a7f95c1902ef1ece9c6444"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1b6e4b33346a3be374491fc09c1137562c49d3b4283fd1467aedf9a465e2019f"
 metafile = true
@@ -397,7 +392,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-shulker-preview.pw.toml"
-hash = "5b5db106680ec022336164e07dddc126c5de0f3ac9cb44f5e59b42f5915f5960"
+hash = "bf0e0888368a829a95d4742056253e81f8fd73de3e0d5716e43da3a28416ee9e"
 metafile = true
 
 [[files]]

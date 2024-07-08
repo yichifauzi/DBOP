@@ -1,16 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "904f649068d150556bdc1d4477610a3f9234d663ac8af69bf2366b70cbcc8bec"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "604402520295a60330875ae1afd23ddc783959af3832fb6067d3420cf6da61fe"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0b3a5199df3e8e4fa2ff27716f9602da18afb8d200c3c1306a04766e987566e1"
+hash = "2f389cfeb7b984d12046ad00ca65c225cf16efe9acc3fcb7836446b23c1f20d4"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
