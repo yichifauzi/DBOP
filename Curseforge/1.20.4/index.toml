@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "be19b5463c8e5b10f0f140896eeb6908c5a509f7d2710d4b3bab592fbb134d71"
+hash = "77c9d6375669572f4a631445209fc2d744653830c5a874ff59b52e88e1cd8378"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "58460555098122d870cc36990d63f906348796b5f06e094ada06dc09b6fd94e4"
+hash = "ceced8474e663d94016218d13cccaaf33d021b63008d9d168b7af9e5bc4c405a"
 metafile = true
 
 [[files]]
@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "2e9d4617a698f9958e39beca7e8ed224678a9044814eb8bf100cf599a7b34bd0"
+hash = "a36cbc9a8d06cb33ee159e7a551b1c84ff4d0944f2942034cce60ff98419919f"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "2bf5f24cea4b59f96e64461d319dd8c0eb423297d03e57bf964459d09cf8ae61"
+hash = "0ab154d77d6e32c1ea85cca0fbb8f5042438a86d850c90572423f783fd2db690"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "6ca02e40b017f9535b0c2b9b6b8cf27a7c370af2b09c5db72e59a0382e3e300f"
+hash = "38d1c2717829da7dc95d59509de74901f8213e9fdf92520a9f83900bf43109b5"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "730cd303eb8af12ac941d792b8681db541569dfcb70ee7c0991084a15c0b5f70"
+hash = "03f2642a35c8929ece7e4e3d8407a5900c1095c8e7c8b88f1b23ce60fef9d808"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "7734f19649a77ef51547f05058550ea8e6b517f426acc735371181be55318e50"
+hash = "9b38b604a7475e8cf3f099c1117598ede3e9dc3588f3c02dce902c783847d090"
 metafile = true
 
 [[files]]
@@ -347,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
 hash = "0986c409d1e8b7ed3b50f38c0e6f3aeb4b96ca0a0f4255429a9a5fd3f20f2c33"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "224454b1522703fd15a197b2d3b681e23fff1c8510c17dd2800ff6be78e51e29"
 metafile = true
 
 [[files]]
@@ -436,5 +441,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b5818468b7582d25f4981c106916c9919886b55b7c7a4431513ba115142d6c52"
+hash = "d761a2087b9534544b440765ed221d21e345d65bbd3dc54d9a95f5f775fca4b4"
 metafile = true
