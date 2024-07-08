@@ -1,13 +1,13 @@
 name = "FabricBetterGrass"
-filename = "FabricBetterGrass-1.0.15+1.21.jar"
+filename = "FabricBetterGrass-1.0.17+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a9ff5c1cd0dc244f5f53ac545dff26c892ebf249"
+hash = "c90827221ae1df728c11ad4bfb1fdaec5f946e88"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5478760
+file-id = 5506992
 project-id = 1026394
