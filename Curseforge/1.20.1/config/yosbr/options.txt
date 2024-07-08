@@ -6,8 +6,8 @@ darkMojangStudiosBackground:true
 simulationDistance:6
 guiScale:3
 maxFps:260
-enableVsync:false
 resourcePacks:["vanilla","fabric","file/SodiumTranslations.zip","continuity:glass_pane_culling_fix","continuity:default","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:[]
 advancedItemTooltips:true
 tutorialStep:none
 skipMultiplayerWarning:true

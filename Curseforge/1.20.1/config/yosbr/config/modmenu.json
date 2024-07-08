@@ -30,7 +30,7 @@
     "puzzle-models",
     "puzzle-splashscreen"
   ],
-  "hidden_configs": [],
+  "hidden_configs": ["borderlessmining"],
   "disable_update_checker": [],
   "update_checker": false,
   "button_update_badge": false,

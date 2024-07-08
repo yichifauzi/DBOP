@@ -1,13 +1,13 @@
 name = "Controlify"
-filename = "Controlify-2.0.0-beta.5+1.20.1.jar"
+filename = "Controlify-2.0.0-beta.13+1.20.1-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3492f1617a564173ab9c51e80c61df86013d79b2"
+hash = "0d5b3fdc37fd3787e8ade9b556e5bcf2ee337694"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5280896
+file-id = 5440651
 project-id = 835847
