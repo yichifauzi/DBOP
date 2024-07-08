@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/dynamic_fps.json"
-hash = "cc1b12c8c8e0bad19cb982838cc88340ecd076c4e1127d4a49591ece02423615"
-
-[[files]]
 file = "config/fabric_loader_dependencies.json"
 hash = "4fb6c39c0250fedbbad4163cb9f72697b1f358f7e376f9c16399b92553d29414"
 
@@ -140,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "fc31e35a9dfe60713b3dd3da764ad6957f097fe1ec448872b85c921208ad40b2"
+hash = "1a35e187ecc5744f467161a5697ed4ec29dd56c12bd711df1e1bb911199801ef"
 metafile = true
 
 [[files]]
@@ -160,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "58460555098122d870cc36990d63f906348796b5f06e094ada06dc09b6fd94e4"
+hash = "ceced8474e663d94016218d13cccaaf33d021b63008d9d168b7af9e5bc4c405a"
 metafile = true
 
 [[files]]
@@ -170,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "eb60ff58a3cea3a7402e0b773e9b283ad01f694dc14fc1e684732163dc612fe3"
+hash = "52fcb1388058870b71dcc0ea340aaa53e7ef11db046396b88778f31cb6f9a4d7"
 metafile = true
 
 [[files]]
@@ -185,12 +181,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "209c9e96f6e9c3d9157875247b0541700ef6aea376baa351f96253544430ab02"
+hash = "48bd3576e080767a3283451bbb9c2b2d7d79cce2e15e31340e97c19e93aa37dd"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "76b2663a0fc575c3ce60831d12edf828a595697c40ad2c2010211cf530ce5a90"
+hash = "6d1acab7ff70e4c69b4da0c7d8966940e2c7994637299a24ce53a2f0556103e9"
 metafile = true
 
 [[files]]
@@ -200,12 +196,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "892d8271845224e95148042c482d27a58304798ee647048cefdfcfff22cae8bb"
+hash = "9c0e94e4695b90ed33a96fbe8c3553a768c3184b24a6034a232c93c5fdf8f46e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "32cac19c4eb1751d3372e067772449961153c3d34576e264dbbeb7325429a9f4"
+hash = "5c98a46ee8ea0a7f14d1cc63f60aafc226e233da4138104fc512b16e2205be19"
 metafile = true
 
 [[files]]
@@ -244,6 +240,11 @@ hash = "02d3cc2d838585a45f15dcda4c2f0c7cb839ebe724889751fcef0517c8a173c8"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "4a91c03ecab3cc1154064202998212430c7e056dad867b309b42639ee6869f8a"
+metafile = true
+
+[[files]]
 file = "mods/imblockerfabric.pw.toml"
 hash = "d897726635e96fbd39600dda4a3dca032b57deb21abb82eabbf8157fd89ed6c2"
 metafile = true
@@ -255,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "783837acfbfa35bf645abadf97012bf76f041d3fc186feba99323aa93e1082eb"
+hash = "7e0aa0482e5ffef1c3a1d533813cd734db0b6d4ace1f83dfbaab63372236d823"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "628d8b51343c40a4a257953e60059ccb4065d19d7a545053eebfd81a74a1db0a"
+hash = "cc76ea317829089fce2d7a064e4274f8a5cafc814528dfbedaffbf54fd1621c0"
 metafile = true
 
 [[files]]
@@ -339,6 +340,11 @@ hash = "3880689ee5048807e56e919e2efd7ba8fb36cbbb17dd324a6008ee96c35e16c9"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "480127534b612b497a85b158761aa8b264f214247831db1a38e0bb593496d341"
+metafile = true
+
+[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "7311fef5aec30057018f7668f760e4fa2f4a65709a058444d0c888234f25d084"
 metafile = true
@@ -370,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "c597b95c4fa14fd22ed5b038f222413ef4f4480ab808ed0c520d430603926b52"
+hash = "cacb51f630fe4ae18f6fe68c53a15023cf72f3b4ab71c8a96f9f37db3bb1f83f"
 metafile = true
 
 [[files]]
@@ -385,7 +391,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0ddf8426098f6a15b39f9e3a4d04cb43afc0aceff2a159ddc0ed252e52e8c3b1"
+hash = "4fb5e2ab1165f834fc93442cc161795aa7e68cab579cbc4f16a24aac76406e4a"
 metafile = true
 
 [[files]]
@@ -425,5 +431,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "b5818468b7582d25f4981c106916c9919886b55b7c7a4431513ba115142d6c52"
+hash = "d761a2087b9534544b440765ed221d21e345d65bbd3dc54d9a95f5f775fca4b4"
 metafile = true
