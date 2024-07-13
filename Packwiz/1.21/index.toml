@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "11db7dff7557691276a92a874a86534706147cf8723f4281c9762a56e13a4e2d"
+hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "ac0488d4cddabc0496cf1d08dda0423abe544f946df189afdeadf8de3d8eb4f5"
+hash = "0471deb74fc83b613d4ace91275a0a7210fea6a3ce19c5dc72e7f5c80105b555"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "5fbbac1c793dc2c4d1068111f6677125c1c8429657d65427da75720ec22942b5"
+hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
 metafile = true
 
 [[files]]
@@ -386,7 +386,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-shulker-preview.pw.toml"
-hash = "b184768e2b3ac7887ce66dbf0525b66355fde6711c75fdeccfb2db40023483d6"
+hash = "22db05a21811671167b84f774272dff21d21de066eb96968ea88467dc2f238ef"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "8122cbd563fcc359b3d7af97775d885a777f94cf9cc7659fec7a2b3b2432492d"
+hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
 metafile = true
 
 [[files]]
@@ -431,5 +431,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true

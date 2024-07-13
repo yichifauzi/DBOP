@@ -1,12 +1,12 @@
 name = "DBOP MC 1.21"
 author = "dirtTW"
-version = "0.2.2-beta.3"
+version = "0.2.2-beta.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6619d5343420c15d0d0b1596b11a569338bfea98d6b813c33eff4a452d0f3549"
+hash = "ff949fbf44fc6d95de608049f2d14727b2ccb487ba172348c9d567127ddbdb43"
 
 [versions]
 fabric = "0.15.11"
