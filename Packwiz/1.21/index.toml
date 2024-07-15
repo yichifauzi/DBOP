@@ -405,11 +405,6 @@ hash = "58066e08d15a1906de42322c64089a709e01e625296baae0e872cc0f997d062c"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "dee3d68d11657f4d43443853bc1eacb926062e24025b9c5b40ec8ea339ea8659"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
 metafile = true
