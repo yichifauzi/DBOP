@@ -6,7 +6,7 @@ hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e48aeba2a0cfc4a07dfed4d5843f088d0ba54bb7b32c2eb11b416b36cbeb58c5"
+hash = "35bc420381db7342736661cc099a0d69a2296fd435eb6a015db90f2fa7b079e8"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "6cd2d021b71d8172819a6a793ea7a6276822da398c3c74a63b022991414024e5"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "5234599f5517534b2fe9e70adef8bc305f7da7943df69fb2818cc8f46691347e"
+hash = "abbfd33c4a2e67f479ac38eafd36e0f6841b47ae7955e52351a03bcaae889d33"
 metafile = true
 
 [[files]]
