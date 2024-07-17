@@ -6,7 +6,7 @@ hash = "34bddc86e004386645358dcae7e3b470c490d47c316dd6673bfeb4c9cb888de7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1c1d7df080d55326e581c60be50fdd985ff52164cfa557be3c98909111ee0a85"
+hash = "1909e548cdd4e51b77afdfd75da0c477c28a26ce38ef62b5e900d4b42c51758b"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -102,7 +102,7 @@ hash = "9ca314e3267de0f8899fad8064823e4adb0f09711da5291f9bcff6df61fab6e9"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "d2c61c4a138237cc5bcfab4650fdb22956acc7c47b125c9b5077ba6db0b392d0"
+hash = "5b4a967795412c75d2c9ccebb59e9b98522eebdf2387c094605175a4562948d0"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "e60c47dc398bb178b6e60dae464020c538bf933fe275eac30e93a52c9107da57"
+hash = "2469be4141fd1f548b638af02dfa7bd1607bb2bf20cfefb3d0fed6f0958c2995"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "7c5678f5c9f84fe9283d59581b3ba7f7228306884824f24e5e960efe2e5926c3"
+hash = "4ee672430cb4b83082e6f500ebb22693cf18fc872f6d78a6ad580a95c293274b"
 metafile = true
 
 [[files]]
@@ -410,11 +410,6 @@ hash = "f9dd860064234b2294d453edb11a845241a06221b17370ff7e9b222cfc40b361"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "56d8934d0ff0fb24cf245c4e162fee6ca639ad3ea29522630516ad48db320db3"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "27862b042d4116cadd3f3729039b581f481efe02c5e0cdd3ee6f6845a42c1316"
 metafile = true
@@ -436,5 +431,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
