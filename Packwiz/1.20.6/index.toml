@@ -155,11 +155,6 @@ hash = "d718fb6dcca091620f83b2d5f9906e3e93e54c0c59e6c0e65d5ab2dddeda21ef"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
-hash = "2469be4141fd1f548b638af02dfa7bd1607bb2bf20cfefb3d0fed6f0958c2995"
-metafile = true
-
-[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
