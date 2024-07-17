@@ -6,7 +6,7 @@ hash = "a47ed3cc538c96d8bdcd31e5c4093f17023bad8fc514f68dfaa94b6a5be8b9ab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3e917b54d8e8747dd21ae9012eb85ed63bde88a935827b06665cbab7f30013b8"
+hash = "62654e6b05ad281e9e74c52d92e24fcf7c3a0a37ece14a1b281ec0c37ff1d095"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -153,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "8c979d90e2c569fc1109933accac23f056469e3b467d10a9ae174f08c5956f96"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "d61a86bffdad314f620e67bd87ef97fc81c56f0303bbb33973ddb95415e53363"
 metafile = true
 
 [[files]]
@@ -317,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "074ddc3663b2f791afa62997e0093aae7c2359edfd94ef99e61120da4fe54b7e"
+hash = "851e8565fb7e91904abf53bff3cfc73bb1544883625e0f952d42e6c107983123"
 metafile = true
 
 [[files]]
@@ -426,11 +421,6 @@ hash = "b432c725e7f2b9071317a3e876b36bb1ae8f1e98e3024c616a9bfc36eeb2d388"
 metafile = true
 
 [[files]]
-file = "mods/viafabricplus.pw.toml"
-hash = "f76f6f4cb0b10526e8dcf145f5aea66b431fc42a49c8254c22bef33e635c6b30"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "c11df7482582d88d118ceedb5c7d2a90718f169bf276acaa4dcfcb60e7526d0b"
 metafile = true
@@ -452,5 +442,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "ddfe93d4e27096a8c797a7216ce592bc5e0e068626e9e4054b79cf52cb1157e9"
+hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
 metafile = true
