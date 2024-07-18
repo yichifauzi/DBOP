@@ -230,11 +230,6 @@ hash = "b36b65edf111b888db481834ef2e70b16949d7f2d80af021aae4ecf52724eea6"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
-hash = "cad10af9fb6313054b42784bdf654ce780ec8da0134d0de45316e75f29690f43"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "9a53d0956a5f25c6c5de1d34a6497c2d323486bf340935db6b364815aae596be"
 metafile = true
