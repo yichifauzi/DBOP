@@ -1,67 +1,64 @@
-<img src="https://github.com/yichifauzi/DBOP/blob/main/banner.png?raw=true" alt="DBOP Banner" width="900">
+## DirtTW's Basement Optimize Pack (DBOP)
 
-# DirtTW's Basement Optimize Pack
+**Boost your Minecraft performance without sacrificing the vanilla experience!**
 
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
-![Modrinth Version](https://img.shields.io/modrinth/v/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
-![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)
-![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
-![CurseForge Version](https://img.shields.io/curseforge/v/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)
-![CurseForge Game Versions](https://img.shields.io/curseforge/game-versions/968954?style=flat&logo=curseforge)
-![Discord](https://img.shields.io/discord/966225033968111647?style=flat&logo=discord&label=%E5%9C%9F%E9%9D%88%E6%B3%A5%E5%9C%9F%E5%B9%AB&link=https%3A%2F%2Fdiscord.gg%2F7upZWA82Zk)
+<img src="https://github.com/yichifauzi/DBOP/blob/main/banner.png?raw=true" alt="DBOP Banner" width="700">
 
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)](https://modrinth.com/modpack/dbop)
+[![Modrinth Version](https://img.shields.io/modrinth/v/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)](https://modrinth.com/modpack/dbop)
+[![Modrinth Game Versions](https://img.shields.io/modrinth/game-versions/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)](https://modrinth.com/modpack/dbop)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)](https://www.curseforge.com/minecraft/modpacks/dbop)
+[![CurseForge Version](https://img.shields.io/curseforge/v/968954?style=flat&logo=curseforge&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmodpacks%2Fdbop)](https://www.curseforge.com/minecraft/modpacks/dbop)
 
- <details>
-    <summary>中文</summary>
+**DBOP** is a Fabric modpack carefully curated to maximize your Minecraft performance while preserving the core vanilla gameplay you know and love. 
 
- ## DBOP (DirtTW's Basement Optimize Pack) (土靈的地下室優化包)
+**Key Features:**
 
- ### DBOP是一個基於 fabric模組平台的一個優化包 大部分模組都是客戶端的 並且能夠優化Minecraft麥塊
+* **Supercharged Performance:** Experience significant FPS boosts with the power of [Sodium](https://modrinth.com/mod/sodium).
+* **Beautiful Visuals:** Immerse yourself with stunning shader support provided by [Iris](https://modrinth.com/mod/iris).
+* **Vanilla Gameplay:** Enjoy the classic Minecraft experience without any gameplay altering modifications.
+* **Lightning-Fast Loading:** Get into the game quicker with the enhanced loading speeds of [ModernFix](https://modrinth.com/mod/modernfix).
+* **Optifine Parity:** Enjoy familiar features from Optifine seamlessly integrated.
+* **Performance Profiling:** Easily identify and address performance bottlenecks with the help of [Spark](https://modrinth.com/mod/spark).
+* **Enhanced Multiplayer:** Connect with friends seamlessly and show off cool cosmetics using [Essential](https://essential.gg/).  *(Cosmetics visible only to other Essential users)*
 
- ### 特點
-  - 基於 [Sodium]([https://modrinth.com/mod/sodium](https://modrinth.com/mod/sodium)) 模組 能夠帶來麥塊巨大優化
-  - 包含 [Iris](https://modrinth.com/mod/iris) 光影模組
-  - 原汁原味 無任何修改原版機制
-  - 使用 ModernFIx 來讓Minecraft麥塊載入速度更快
-  - 一些Optifine 小特性同步
-  - Spark 模組 方便檢查什麼東西造成卡頓
-  - [Controlify](https://modrinth.com/mod/controlify) 增加手把支持!
-  - [Essential](https://essential.gg/) 模組 增加許多好用的功能以及跟好友連線的多人體驗 跟許多不錯的時裝
-(只有相同 Essential模組的好友能看到時裝)
+<details>
+  <summary>中文</summary>
 
- ### 回報問題
-  - 在github上回報問題 : [DBOP
-    ](https://github.com/yichifauzi/DBOP)
-  - 我的github個人頁面 : [yichifauzi](https://github.com/yichifauzi)
-  - 我的網站 : [link](https://yichifauzi.github.io/modpackinstalltutorial/)
-  - 在Discord 上聯繫我 : dirtTW#0445
-  - 或者加入我的Disocord群 : [土靈泥土幫](https://discord.gg/eS6ZgXcfAV)
+## DirtTW's Basement Optimize Pack (DBOP)  (土靈的地下室優化包)
+
+**提升你的Minecraft效能，同時保留原版遊戲體驗！**
+
+DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客戶端的，能夠顯著提升 Minecraft 的遊戲效能。
+
+**主要特色：**
+
+* **極致效能：** 借助 [Sodium](https://modrinth.com/mod/sodium) 的強大功能，體驗顯著的 FPS 提升。
+* **精美畫面：** 使用 [Iris](https://modrinth.com/mod/iris)  提供的驚艷光影效果，讓遊戲世界更加身臨其境。
+* **原版體驗：** 享受經典的 Minecraft 遊戲體驗，不含任何會改變遊戲玩法的模組。
+* **快速載入：** [ModernFix](https://modrinth.com/mod/modernfix)  讓 Minecraft 的載入速度更快，讓你更快進入遊戲。
+* **Optifine 功能：**  無縫整合 Optifine 的常用功能，讓你倍感熟悉。
+* **效能分析：** 使用 [Spark](https://modrinth.com/mod/spark) 輕鬆識別和解決效能瓶頸。
+* **強化多人遊戲體驗：** 使用 [Essential](https://essential.gg/) 與朋友無縫連線，並展示酷炫的裝飾物品。（只有其他使用 Essential 的朋友才能看到）
+
+**需要幫助或想回報問題？**
+
+* **GitHub：** [https://github.com/yichifauzi/DBOP](https://github.com/yichifauzi/DBOP) 
+* **開發者 GitHub：** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
+* **安裝教學：** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
+* **Discord：** dirttw
+* **Discord 伺服器：** [土靈泥土幫](https://discord.gg/eS6ZgXcfAV) 
+
 </details>
 
+<img src="https://cdn-raw.modrinth.com/data/olssWAmw/images/408d1217daeece3d7e85cc3bb4c38764d179a247.png" width="700">
 
-### DBOP (DirtTW's Basement Optimize Pack)
-DBOP is based on fabric modloader that optimize minecraft performance with mostly Client-side mods
+**(Tested on Intel i5-11400H, NVIDIA GeForce RTX 3050, 32GB RAM - utilizing 4GB for the game)**
 
-### Feature
- - Based on [Sodium](https://modrinth.com/mod/sodium) that give minecraft huge performance improvement
- - Include [Iris](https://modrinth.com/mod/iris) mod shader support 
- - Vanilla experience
- - Faster minecraft loading using ModernFix
- - Some Optifine parity
- - [Spark](https://modrinth.com/mod/spark) performance profiler that will eazy maintain what causing lag
- - [Controlify](https://modrinth.com/mod/controlify) add support for controller!
- - [Essential](https://essential.gg/) mod that add many quality of life feature and easy friend multiplayer experience with very cool cosmetic items
-(only Friend with Essential mods can see)
+**Need Help or Want to Report an Issue?**
 
-<img src="https://cdn-raw.modrinth.com/data/olssWAmw/images/408d1217daeece3d7e85cc3bb4c38764d179a247.png" width="800">
-
-tested with Intel i5-11400H NVIDIA GeForce RTX 3050 Laptop GPU 32GB RAM (4GB use on game)
-
-### Report Issues
- - Report an Issues on Github : [DBOP
-](https://github.com/yichifauzi/DBOP)
- - My Github profiles : [yichifauzi](https://github.com/yichifauzi)
- - my website : [link](https://yichifauzi.github.io/modpackinstalltutorial/)
- - Contact me on Discord : dirtTW#0445
- - or join my Discord server : [土靈泥土幫](https://discord.gg/eS6ZgXcfAV)
-
+* **GitHub:** [https://github.com/yichifauzi/DBOP](https://github.com/yichifauzi/DBOP) 
+* **Developer's GitHub:** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
+* **Installation Tutorial:** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
+* **Discord:** dirttw
+* **Discord Server:** [土靈泥土幫](https://discord.gg/eS6ZgXcfAV) 
