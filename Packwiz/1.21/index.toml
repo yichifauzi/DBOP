@@ -6,7 +6,7 @@ hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "35bc420381db7342736661cc099a0d69a2296fd435eb6a015db90f2fa7b079e8"
+hash = "ad3daed30c08387cd4f82befe8a63a14aafa378a3a37e269d0dc3cb9bfdf20c8"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "305dd87bec3aa80cf6859b69b2dd597da65baa58f08721b639886969c1742e09"
+hash = "5d731f0eb042aa96371b5af117c3cfe191bd94f8bd125b46c51818611fd3425f"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "73859024777be54a809c3b9a2fd8ba99fa8ba3b6194302f15eb725efc95dcf39"
+hash = "f68ab46b810db59f3bdee69e0da0e0253fe1a712f86cb1f7a801b3666ce7471e"
 metafile = true
 
 [[files]]
