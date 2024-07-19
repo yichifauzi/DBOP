@@ -1,7 +1,5 @@
 name: Automatically publish to Modrinth and CurseForge
 on: [workflow_dispatch]
-permissions:
-  contents: write
 jobs:
   publish-to-curseforge:
     if: github.repository_owner == 'yichifauzi'
@@ -9,7 +7,7 @@ jobs:
     environment: github-actions
     steps:
       - name: Download pack files
-        uses: robinraju/release-downloader@v1.10
+        uses: robinraju/release-downloader@v1.11
         id: download-files
         with:
           fileName: "*.zip"
@@ -40,7 +38,7 @@ jobs:
       - name: Clone Repo
         uses: actions/checkout@v4
       - name: Download packwiz
-        uses: actions/download-artifact@v4.1.7
+        uses: actions/download-artifact@v4
         with:
           name: "Linux 64-bit x86"
           github-token: ${{ secrets.GH_PAT }}
@@ -48,9 +46,9 @@ jobs:
           run-id: 9259662367
       - name: Export to packwiz
         run: |
-          chmod +x ./Packwiz
+          chmod +x ./packwiz
           pushd Packwiz/${{ vars.MC_VERSION }}
-          ../../Packwiz modrinth export -o ../../DBOP-${{ github.ref_name }}.mrpack
+          ../../packwiz modrinth export -o ../../DBOP-${{ github.ref_name }}.mrpack
           popd
       - name: Attest mrpack
         id: attest-mrpack
