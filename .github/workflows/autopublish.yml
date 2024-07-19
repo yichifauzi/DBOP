@@ -48,9 +48,9 @@ jobs:
           run-id: 9259662367
       - name: Export to packwiz
         run: |
-          chmod +x ./packwiz
+          chmod +x ./Packwiz
           pushd Packwiz/${{ vars.MC_VERSION }}
-          ../../packwiz modrinth export -o ../../DBOP-${{ github.ref_name }}.mrpack
+          ../../Packwiz modrinth export -o ../../DBOP-${{ github.ref_name }}.mrpack
           popd
       - name: Attest mrpack
         id: attest-mrpack
