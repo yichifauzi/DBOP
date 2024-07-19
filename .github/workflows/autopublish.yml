@@ -64,7 +64,7 @@ jobs:
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          name: ${{ github.ref_name }} MC ${{ vars.MC_VERSION }}
+          name: DBOP MC ${{ vars.MC_VERSION }} v${{ github.ref_name }}
           modrinth-id: olssWAmw
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
