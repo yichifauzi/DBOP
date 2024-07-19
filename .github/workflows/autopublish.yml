@@ -1,5 +1,7 @@
 name: Automatically publish to Modrinth and CurseForge
-on: [workflow_dispatch]
+on: 
+  release:
+    types: [published]
 jobs:
 #  publish-to-curseforge:
 #    if: github.repository_owner == 'yichifauzi'
