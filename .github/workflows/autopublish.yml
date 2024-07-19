@@ -66,9 +66,7 @@ jobs:
           modrinth-id: olssWAmw
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
-          files: |
-            DBOP-${{ github.ref_name }}.mrpack
-            cosign-bundle.zip
+          files: DBOP-${{ github.ref_name }}.mrpack
           loaders: fabric
           game-versions: ${{ vars.MC_VERSION }}
       - name: Upload to Github
