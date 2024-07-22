@@ -21,7 +21,7 @@ jobs:
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          name: ${{ steps.download-files.outputs.tag_name }} for ${{ vars.MC_VERSION }}
+          name: DBOP MC ${{ vars.MC_VERSION }} v${{ steps.download-files.outputs.tag_name }}
           curseforge-id: 968954
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           curseforge-files: "*.zip"
