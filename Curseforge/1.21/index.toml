@@ -6,7 +6,7 @@ hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "77b619a70d5dd20106c8fa20bab84e38859ba287a9c979f35b24b5864bcc147f"
+hash = "b9f891275c1976f527c5492ff75602914b60f31ef26393500f9e88666bf3574c"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d2489ef8a9417d6f703ebbbc7a1c142e134df0f1d87f51076f4989cd20614292"
+hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "c296c0dab6c26595cebd948d4bd15618964d77e5ff0264502661540368891dce"
+hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "6e199991605993b3373a9cda8548e190a5b91530796b4b2c06a9e5bbbc606e4a"
+hash = "00108f68a2b1862ec8ba5d02750d240511422e1a9870f7762aa0bddacb394f07"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "6038cdb8fa16e06221c62c0e6139a3443bf2466a5bec697ea93f45c6ab499649"
+hash = "471779189f993d7c5e5982fcab056fd16b3f88000b557a4139e66011c0a54e21"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "63e860959c25c207d0c7b1c260e7100c8f66844352c29b6eed5e3b6b132726a6"
+hash = "4e1446d16266a8205de8188920be87970dcaa07afffa42ce98c40b81d6a85e4f"
 metafile = true
 
 [[files]]
@@ -421,5 +421,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "7a23b6ce30349ec6aa80294109882232f85f05fd28d88c1de38b858216b31c67"
+hash = "82200f7c4f76913bfacd79cd4ee4b968c148fb99e63b2bafbf2f202722bc63dc"
 metafile = true
