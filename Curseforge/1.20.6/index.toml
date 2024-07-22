@@ -6,7 +6,7 @@ hash = "4fb6c39c0250fedbbad4163cb9f72697b1f358f7e376f9c16399b92553d29414"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5e6e52382d590c50f765e164d502d78fa4133883f24738de89f7cdef35795f5f"
+hash = "235adf15f56a1cccc1bcf34246a9a7458a0c7ac372aaca198b46543f1749eae0"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5d9b39c22b0adb104109df2ea47dc37656b8d6e1965f547c9f40430c9837813a"
+hash = "7011024a147dd5b9bd29dc131bcf942b5dec68907792bb7ddb00c0d82d6ff64a"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "ceced8474e663d94016218d13cccaaf33d021b63008d9d168b7af9e5bc4c405a"
+hash = "e398bdaf07bb8fe3ba2b9697cb7a7171447dba31faf405fc362dea22967f9d95"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "6038cdb8fa16e06221c62c0e6139a3443bf2466a5bec697ea93f45c6ab499649"
+hash = "471779189f993d7c5e5982fcab056fd16b3f88000b557a4139e66011c0a54e21"
 metafile = true
 
 [[files]]
@@ -325,6 +325,11 @@ hash = "dbc2cc6caa0574fd65b4424c9d90f83bbad9aee97bdb2c9538e92a5dd993c653"
 metafile = true
 
 [[files]]
+file = "mods/noxesium.pw.toml"
+hash = "ba10781b35b2674e9a50e7fd6758dbbda3d8d83f7008827dfa670fe1b03bf0d1"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "e03e74968352cdb04580b3ce9631023608ed54cbfc092adeb274becaa456c2d8"
 metafile = true
@@ -421,5 +426,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "7a23b6ce30349ec6aa80294109882232f85f05fd28d88c1de38b858216b31c67"
+hash = "82200f7c4f76913bfacd79cd4ee4b968c148fb99e63b2bafbf2f202722bc63dc"
 metafile = true
