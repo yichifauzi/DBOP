@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b8783b269d87c2cc341d64133dbf14e0aa330f3dc7f067630dc71437a4b01879"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "ac86c74df8b51d296de395c72fa56b6315c8d7efb6930834cb9b9043be11af7f"
+hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "7494ae8e888e32baf72312266fdf53419c5f3b52908fde66dc0a160cdbed4e2c"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "bcbf0c533fb520c66f84507d8b172a5936d929d4ce4db0a43a5422e09fbf0783"
+hash = "758b0d1e711f3eb1d4dcadb318513ab4f4bbdeef991736ca4acee12a49055745"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "53de57d49ea932ad29d39bdcd09f322f6cbee2a3f44a35691c68bc4cc75f9f9d"
+hash = "9fd2ee5ecaa232fc5b037103bfc97a30a722791ddd8d1260b4a73fc609a47b88"
 metafile = true
 
 [[files]]
@@ -426,5 +426,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a8d21fdf3561fd014d0606c71966a8aa304529b2b12a46e5f27e136141ac7588"
+hash = "8512a8da6c3f08d233b3af1a4c94a1338828b0735c4b4fd8541acb7f589505b3"
 metafile = true
