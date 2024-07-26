@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "831f2f93b139e4c225ae25fa378375135512687f90142dd8c991ae1731254717"
+hash = "9d189da4477843fb1e81f5c80902eb4d1be29bd47085e0bd8a4f5817979295f7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ad3daed30c08387cd4f82befe8a63a14aafa378a3a37e269d0dc3cb9bfdf20c8"
+hash = "bbf10d769630ee3de44f6d41b536f789bada038cd6e8efd6103f9c7864783997"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -39,10 +39,6 @@ hash = "9c82c3893ec010f70199ecd293346528043c631d0ed4d9b71355064f426e2fa7"
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "5515d995f5e79eb47d0dd557ff81e3a8c61dbd3dbc76489b2c7074a073e815c0"
-
-[[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "c401bf38b612d99cef67a2db11ad71a7ff0cd1341996a27658b01d977be42cb0"
 
 [[files]]
 file = "config/yosbr/config/indium-renderer.properties"
@@ -166,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a89158810657bf4a9cae0d45183a2ef5e7e327fb7e4aadb6743a6892370316a8"
+hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
 metafile = true
 
 [[files]]
@@ -336,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "ccca5227145e7ea3ca87c4b8af94ca5f73574af4315dd76b10f4d212da05df03"
+hash = "a026db230f816e25fed08d63f0ba7c55d849dfdcda3c76c71bf42f956172f3bb"
 metafile = true
 
 [[files]]
@@ -361,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b4bfff726f0e2a2d9d4bc58e3a75ad3197c053264e8b0f474ac87e53fe9cfab7"
+hash = "e49e4a253e23c9203443c7e615ef744353963523dd4659aa80f4733142282ebe"
 metafile = true
 
 [[files]]
