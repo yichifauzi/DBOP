@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "4ad2419ef6412acdcf012f7299d7f92496b67442be20c0a30a8474ec2fdd2043"
+hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e49e4a253e23c9203443c7e615ef744353963523dd4659aa80f4733142282ebe"
+hash = "d0fcec0b330a6a803fd106fe2671af31a253288691c95aea242992417d0595a6"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "9fd2ee5ecaa232fc5b037103bfc97a30a722791ddd8d1260b4a73fc609a47b88"
+hash = "beaa0a896abfe36420a315bc42a072d4f899d4e7cdf3d1d23d8585c7c781f559"
 metafile = true
 
 [[files]]
@@ -427,5 +427,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "8512a8da6c3f08d233b3af1a4c94a1338828b0735c4b4fd8541acb7f589505b3"
+hash = "585963a78adbd28f86e62de2151abc442b9a003450cd7959068c1482008feee6"
 metafile = true
