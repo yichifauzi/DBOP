@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "471ae9c39007497d4c1d3f3f1a85334593ca9fdfb6521093e6faa2c01b74f624"
+hash = "03233a7e383409b517598e0c9d10c8a45c6035a35f163d15337a7bae044c4319"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "758b0d1e711f3eb1d4dcadb318513ab4f4bbdeef991736ca4acee12a49055745"
+hash = "e318a87c9f52e76bc01ee1b903742221b975e7ce05d76fba7e2abe469903cfef"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d0fcec0b330a6a803fd106fe2671af31a253288691c95aea242992417d0595a6"
+hash = "3366eab716aa6704e80af5ccef736961f094f54bdb2f9e768671f66a62ca850b"
 metafile = true
 
 [[files]]
