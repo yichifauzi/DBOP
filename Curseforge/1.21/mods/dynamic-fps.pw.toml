@@ -1,13 +1,13 @@
 name = "Dynamic FPS"
-filename = "dynamic-fps-3.6.0+minecraft-1.21.0-fabric.jar"
+filename = "dynamic-fps-3.6.3+minecraft-1.21.0-fabric.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7a42dab5fe78a4e89d541d3eca2d7513afff23f9"
+hash = "9dd799962775d1349ba6af241862ec9963b17a10"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5489909
+file-id = 5574136
 project-id = 335493
