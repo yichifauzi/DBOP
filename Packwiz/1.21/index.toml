@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9d189da4477843fb1e81f5c80902eb4d1be29bd47085e0bd8a4f5817979295f7"
+hash = "b1d350a563f33735b3f5fb0d47b2475c5fb7c3bc2fc666b6fb329edcd5608ad8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bbf10d769630ee3de44f6d41b536f789bada038cd6e8efd6103f9c7864783997"
+hash = "2c57944e21dbb29b731dc99a623808a83b108ca49df829e31e2c016170b041a3"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -403,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "58066e08d15a1906de42322c64089a709e01e625296baae0e872cc0f997d062c"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "537ce9a516eaadc60b7498677f30ab1e2fe857a25a36e247f9cd11c565cd895a"
 metafile = true
 
 [[files]]
