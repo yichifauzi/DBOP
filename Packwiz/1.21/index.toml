@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e5d13ac5dd882ae1fc805f9ace675ed260f1c311adb0a961148c9feece5cd6c6"
+hash = "860f349f22b4ae5c8765b78a961702aeaf70f5630110422f122666b3bead2437"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7515c5a276f23fb085dc285ca2bec14f9d8c691701e46b1863f48e6d338d17c5"
+hash = "c8215a5e6f35175c0c3d764284026b94a8159207319299081459f6aeb05b4191"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2f18a3a8ce14da4bda03e29a38f3cb9e5d3592ffaff5bee005e7944d4dc5bbfb"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bd7da340514012cef1570514e012d7c9daec1090e7b6dbc09cde9e0a4a95b4b8"
+hash = "af12f3515d42a5eb423b00da8e5eab34df65141a572defa165097f7778f4ce84"
 metafile = true
 
 [[files]]

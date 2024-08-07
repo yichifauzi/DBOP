@@ -1,13 +1,13 @@
 name = "Polytone"
-filename = "polytone-1.21-2.2.10-fabric.jar"
+filename = "polytone-1.21-2.2.13-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/eUFeTK55/polytone-1.21-2.2.10-fabric.jar"
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/s8aqG0A6/polytone-1.21-2.2.13-fabric.jar"
 hash-format = "sha1"
-hash = "ac07175fbe1ca5f79f9a704c95c1eb60f53d3e28"
+hash = "fb3fbe120be0573b3b8c1890ad1e785f5190c1e2"
 
 [update]
 [update.modrinth]
 mod-id = "3qAYkBMB"
-version = "eUFeTK55"
+version = "s8aqG0A6"
