@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b1d350a563f33735b3f5fb0d47b2475c5fb7c3bc2fc666b6fb329edcd5608ad8"
+hash = "4410e4e2d36fbb0088dcba865d2ca3983c4841004bb005ceaf6dfd3800a3b652"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2c57944e21dbb29b731dc99a623808a83b108ca49df829e31e2c016170b041a3"
+hash = "fac231cd9190917ec4e000d6efd21245e5009fc449c12875a3fe5730cf067fc0"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
