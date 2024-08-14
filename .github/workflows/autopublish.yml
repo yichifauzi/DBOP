@@ -21,7 +21,7 @@ jobs:
       - name: Publish to CurseForge
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          name: DBOP MC ${{ vars.MC_VERSION }} v${{ steps.download-files.outputs.tag_name }}
+          name: MC ${{ vars.MC_VERSION }} DBOP v${{ steps.download-files.outputs.tag_name }}
           curseforge-id: 968954
           curseforge-token: ${{ secrets.CURSEFORGE_TOKEN }}
           curseforge-files: "*.zip"
@@ -64,7 +64,7 @@ jobs:
       - name: Publish to Modrinth
         uses: Kir-Antipov/mc-publish@v3.3
         with:
-          name: DBOP MC ${{ vars.MC_VERSION }} v${{ github.ref_name }}
+          name: MC ${{ vars.MC_VERSION }} DBOP v${{ github.ref_name }}
           modrinth-id: olssWAmw
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
