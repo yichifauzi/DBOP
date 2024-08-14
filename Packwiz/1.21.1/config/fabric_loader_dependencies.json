@@ -3,8 +3,13 @@
   "overrides": {
     "fabricloader": { "+depends": { "fabricloader": ">=0.15.11" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.21.1": ">0.2.3" }
+      "+recommends": { "DBOP MC 1.21.1": ">0.2.3-alpha.1" }
     },
-    "indium": { "-depends": { "sodium": "" } }
+    "lambdynlights": { "recommends": {} },
+    "polytone": { "conflicts": {} },
+    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
+    "entityculling": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
+    "fabrishot": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
+    "rrls": { "depends": { "fabricloader": ">=0.15.11 <=0.16.0" } }
   }
 }
