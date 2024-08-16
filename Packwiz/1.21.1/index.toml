@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "38ccf36be7f7c2ad537fdda89969d5dd896600cec303502f0014602e505ac850"
+hash = "7905ef24887180d8c6b1d74fe5e7c9f03508be7f02dfb6483adc0019754a136a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -323,6 +323,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "818bccff58d1a7e0e6b89512201a3861186c7cc45b66f5a2e7facbdc4503fa71"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "82add8e18a42d76da107de06d8a7eccf852d66fba742eabe1f6ba84f994aaa2f"
 metafile = true
 
 [[files]]
