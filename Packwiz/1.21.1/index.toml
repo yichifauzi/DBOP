@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e5f3342d2735cfd9fb0ba03a0b0846f6a608db515902114147b640691d19e6e3"
+hash = "38ccf36be7f7c2ad537fdda89969d5dd896600cec303502f0014602e505ac850"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "aa9eaba774eecbdffb642a359ce93f23880fd9ff4e7c09ea3bc54c779aaa4266"
+hash = "eedd805f08d3f3ff5dc7bca1c44f4b886f5823ee0ce0d301cb745e63b034b695"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "64e55d575ba6f5c9c7c5dddf9705368446de451483a25b93d95e68206b844e4d"
+hash = "e48211792aaa69116958ff7d2e33ca8b4159942c782f36c2561cc1f90add4372"
 metafile = true
 
 [[files]]
@@ -142,7 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "d345d14d9672063419184ece254b77a51386160916058bb24a4af7faabc88d99"
+hash = "98f5b3f3a7f8955be1888cafff86619bbb1fa66fe23a5b280878040e30cb7e77"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "0299db43ddee7db2d2af8cbe654790b0334a08634f88e420f7a3bbdaaf31400c"
 metafile = true
 
 [[files]]
@@ -251,6 +256,11 @@ hash = "3f8f7b594419ea4fefa330c82fee1be6d904390b3a6bb40e52aeb8e7b9009c82"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "a36870bfbbd57ea241255c6573a4d129509f5e50dbdcaf12d3a78c57f864bbde"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
@@ -342,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d228891568da37addad20510273813c48985d0c6ea8d7cd89a6d0b4a41556f01"
+hash = "c819a9e822059da6fecbeaf4c05f13c8e9c2f4e6bc33dc445dce6b67a1ef0ea8"
 metafile = true
 
 [[files]]
