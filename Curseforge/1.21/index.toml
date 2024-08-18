@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "60e66a2602e12f53e4bf42fdf0baa488226306e5b1f433f941b21016d2343a50"
+hash = "9726ab3932bf08d9466a91544a3ec1c1a487c1a8ed4c51317c50a8c7e9e91b67"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b191ca8ecfc3cc59cb46511fa8100eedcbb426e50ea80ef0bfde000ffd0abccb"
+hash = "e9f66dc43d7a2093201ee54e9dfefb10ac98263c3af832d4290a67542990ca69"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -131,17 +131,17 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0c1a4dad1e32167f5fced80c4a4d3e89a3367512d7fa74c118c02132ea05554c"
+hash = "e76523cc61258726afb081fcb069bdc3604cae6c3082cf3ee1c85158dbd5e04f"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a42f906470f41cedf934247fe102e581a3bdaa23c170b48f67a85a1b07739034"
+hash = "4dea6e09f99b3ca24e31292a8e9eccc05495f53cc45e5a3a2c0543ee73e52df7"
 metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "5d914bdd83e4b9baa0aa2ce058087061859b94d920dff8a60ceb8060d03e4cb0"
+hash = "1372bdc57bf7762f17232d00b79dd69d5fa4b34b9317b5ac71a0e1ad82d131d4"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ef1bf68288db712279bb1fe7f8630786e25e8ba7a9bf297a7f2981d1ba7e5e68"
+hash = "8405864febccfb3af46c53983eeb8f69a985aaa1123f46b199fbe75fe908472c"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "630eb61574d3411b0d9a55d2150e15f002193d8b8eb7de673dffe342902c1130"
+hash = "d8f65d096e21ea063dc19bd75c27722736cebd4237833686a3258054556b985a"
 metafile = true
 
 [[files]]
@@ -251,12 +251,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2d4d8b48c7b8c11c9c8e1e028489596cbc72a575a6908940ebff19872e461633"
+hash = "b239b5373bf50300f2c0db36b3c5a78548764572e09086f516f4c22c6ba604bc"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "c49ca0ce2affad49f5c191713b3ca294f302fa0bdd9bce0187a9bdea0a18e6e5"
+hash = "9e4c53fb1fda9be64935604adcdd3434a78ca27fefc71111f6dc37e4787ef2a6"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "db546e302624288efc72a9402b20e2decf8288dda5d9e1a811188a7729428537"
+hash = "379d23f25b567c3f212761c11eb850e5093936f8a85784be164c3da4cc13a34e"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9e90cb263fc7e19f7ff9191e9658c7877422d3d0352f8f3ffbae43f35e86ae37"
+hash = "fe1a401064c420092adeab6884707993df758e57508cb66c6878f241d8755511"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "8b4e3c549417524990a063c462c32c7df9b51f5aaa23f7f36dfd11a9b4de2e8c"
+hash = "c6280ca0212549d3807016aca47ac3ca0d0e99b36ab0d339e9e3cda3ab949c99"
 metafile = true
 
 [[files]]
@@ -376,7 +376,7 @@ metafile = true
 
 [[files]]
 file = "mods/server-resourcepack-checker.pw.toml"
-hash = "f377a0c5db883e722d54903003731b6866423f854e2156f344766e1c10219535"
+hash = "eaf60f6aa088318f262fca6dd5ee862cb1b95afa4158394a041ae7d54edd17bd"
 metafile = true
 
 [[files]]
@@ -401,12 +401,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "2031f68aefa1c722e4aa921f762e249219f512fc89d2adc7c82f85af5d937aca"
+hash = "66808761991bad1449dd073e5c488a1612731e2b6810c894506313b33e8ae417"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "35aa24f67e91fcd77e79ccd99b3ee304dbd53275a53bb269785e0f309a081f18"
+hash = "581dd987de3c22e7f2d6baebdf301a7fb6635b9201df9920f220a4dcf31c5dd6"
 metafile = true
 
 [[files]]
@@ -426,5 +426,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "95d4c02bd63b33a27f457a735ba94958fd4f68e9fbefc2f301283ab38c204aab"
+hash = "1842b7408df56b2f666296b8f4bfb47bbc067f6cffd38eacf3eccc37775b5b75"
 metafile = true
