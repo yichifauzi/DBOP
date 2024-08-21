@@ -1,17 +1,13 @@
 {
   "version": 1,
   "overrides": {
-    "fabricloader": { "+depends": { "fabricloader": ">=0.15.11" } },
+    "fabricloader": { "+depends": { "fabricloader": ">=0.16.2" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.21": ">0.2.3-alpha.2" }
+      "+recommends": { "DBOP MC 1.21.1": ">0.2.3-beta.1" }
     },
-    "indium": { "-depends": { "sodium": "" } },
     "lambdynlights": { "recommends": {} },
     "polytone": { "conflicts": {} },
     "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
-    "entityculling": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
-    "fabrishot": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
-    "noisium": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
-    "rrls": { "depends": { "fabricloader": ">=0.15.11 <=0.16.0" } }
+    "noisium": { "depends": { "minecraft": ">=1.21 <=1.21.1" } }
   }
 }

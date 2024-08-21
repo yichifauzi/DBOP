@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "272067b617111354879f072e6884c17ea6c19b1913b365be32cca7dc3f01709c"
+hash = "740efb1f741593c5de326f845dcbf3259c80cd6ad0810a6ecc61567154327011"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2a4c21fb24d3f11c7852f39f2b99e229fff11e0f72ae4d4d601f0da660a9352c"
+hash = "786c12694c0c9459651ca9a622d8fff6ba5cd7f6696d46532da1b622171ac420"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3e2e1160e394d60b6e79812b9293890dbfa8c15375f170aebf8941ea01ffd294"
+hash = "0ebcba0b694127bf8b297ff5186813bd75b2268cf02ce963bb24536237f1f7ec"
 metafile = true
 
 [[files]]
@@ -176,22 +176,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8ffab46eb1c703ee40a53d03cf7e006cd3404f39206a57d839db1c78f1053a8a"
+hash = "8639d08d7580fc6c2e06e469e60f609270688b1ed0ac1700448903dd9144d003"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "44d97a8a3dc5a177705ce61e35b77ae7346cd80d686be3cc16929402925d2645"
+hash = "136e36a8a1c4cd617b0c5b21cf8a8b7b72aa53939a7e333977b07737bfdc8918"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "7fe166de608f151a5adb9f3ef06e54a04879cb412db544e648e0ab424d1d786e"
+hash = "2570ae5f5cb58113be2e6914ebb9a8cd606abfe1e00305cedc563d27892a8ac1"
 metafile = true
 
 [[files]]
 file = "mods/essential-mod.pw.toml"
-hash = "1372bdc57bf7762f17232d00b79dd69d5fa4b34b9317b5ac71a0e1ad82d131d4"
+hash = "7dba3c730ed934bc065efe81907cf9778c1160f55cad1b9a22db60df68cc264b"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "630eb61574d3411b0d9a55d2150e15f002193d8b8eb7de673dffe342902c1130"
+hash = "d8f65d096e21ea063dc19bd75c27722736cebd4237833686a3258054556b985a"
 metafile = true
 
 [[files]]
@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "07be7a52dd5af947e09c19eb73a89288533980742ce65dab975a87eb640d753f"
+hash = "2f7af5a78203cdef9cff4d980091afbf5ded95a9ccf24dc9cfc2989c482cfe81"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "9e90cb263fc7e19f7ff9191e9658c7877422d3d0352f8f3ffbae43f35e86ae37"
+hash = "5c6b5cb9b3a037ed00b47ce0408158bddaa20d576d3d7becb92ddaa03240162c"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a026db230f816e25fed08d63f0ba7c55d849dfdcda3c76c71bf42f956172f3bb"
+hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "bb8b2d8dea714773f8297629987be2fffed7258e434c04e77bbca4f0fea6517c"
+hash = "21749bbf969d4afced2486976f7615313fa33ef6e244ceaf410063dc5ccce1f1"
 metafile = true
 
 [[files]]
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "bd911229f3364eab5733c822bd3288542c9f150628e956d52e8baa193f436955"
+hash = "c2feebe5c593b047aad6c994636ac1b9975cfd6ee6cd5f95f880a8c6d3de6544"
 metafile = true
 
 [[files]]
@@ -426,5 +426,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5312fe024a425265871ec1da795f7dcf5b9716a7e154ba7944efa201392c2187"
+hash = "1842b7408df56b2f666296b8f4bfb47bbc067f6cffd38eacf3eccc37775b5b75"
 metafile = true
