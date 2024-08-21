@@ -1,8 +1,6 @@
+![Banner](https://github.com/yichifauzi/DBOP/blob/main/banner.png?raw=true)
 ## DirtTW's Basement Optimize Pack (DBOP)
-
 **Boost your Minecraft performance without sacrificing the vanilla experience!**
-
-<img src="https://github.com/yichifauzi/DBOP/blob/main/banner.png?raw=true" alt="DBOP Banner" width="700">
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)](https://modrinth.com/modpack/dbop)
 [![Modrinth Version](https://img.shields.io/modrinth/v/olssWAmw?style=flat&logo=modrinth&link=https%3A%2F%2Fmodrinth.com%2Fmodpack%2Fdbop)](https://modrinth.com/modpack/dbop)
@@ -51,7 +49,7 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 </details>
 
-<img src="https://cdn-raw.modrinth.com/data/olssWAmw/images/408d1217daeece3d7e85cc3bb4c38764d179a247.png" width="700">
+<img src="https://cdn-raw.modrinth.com/data/olssWAmw/images/408d1217daeece3d7e85cc3bb4c38764d179a247.png" width="450">
 
 **(Tested on Intel i5-11400H, NVIDIA GeForce RTX 3050, 32GB RAM - utilizing 4GB for the game)**
 
