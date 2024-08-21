@@ -1,13 +1,13 @@
 name = "Noxesium"
-filename = "noxesium-2.1.4.jar"
+filename = "noxesium-2.2.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/LQEZtIPA/noxesium-2.1.4.jar"
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/Lawzyi4R/noxesium-2.2.0.jar"
 hash-format = "sha1"
-hash = "1fd09d1acb58580a265450926a758938e112261b"
+hash = "a3919a6b3f3d6c3eeb38c4019656c85bd3a48f3c"
 
 [update]
 [update.modrinth]
 mod-id = "Kw7Sm3Xf"
-version = "LQEZtIPA"
+version = "Lawzyi4R"

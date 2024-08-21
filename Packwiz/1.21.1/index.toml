@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1220a8c8c6f3afab0d641d7670ec9f7d895b2d62378ee873f294ba9047db55cd"
+hash = "740efb1f741593c5de326f845dcbf3259c80cd6ad0810a6ecc61567154327011"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1a05fb267fabd5a1fdf44f1bddf355f5d4482e9c86f35761028a5ceb1c0e36ce"
+hash = "af1c2f068f92c390e0e0c23a3adb4cf2d7f566c8d5ddff4596d18d577139a488"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0615711a9b2e898d3139e7f0bfe187478ea226b30207cf09fee9572d7c376425"
+hash = "3a113af959f2b2938a42eff992a59fe09ad9f95cf379dc399ba609c149273cce"
 metafile = true
 
 [[files]]
@@ -177,22 +177,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
+hash = "e8cf1bd4eb13233ca3d3bcef35a78976552c89b52d56ece96c5179b1c0188473"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "399d6a6a8a68d16a2216ef430bc6b63605301236623b55d10c8a55fb8dc2bc28"
+hash = "8078e4d71da6ead36a6134ba3f5f0b90b53ba6466a176986a644bee3f6c2da5c"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
+hash = "3508403607f441ed70fe3eff44c5095a74df189887fd1a67f6fbcbc2cbe7c458"
 metafile = true
 
 [[files]]
 file = "mods/essential.pw.toml"
-hash = "323ddd3511c5cb5a327d377cf571fae7644fede064024b7cca977bdbf5bbe080"
+hash = "46001d73e3e62245d35d0119c02b4f76d9bb701da3cf3ff36ab21cacff3fbab3"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "c45858094badcafa765bc563c599788788452ce40c5720de770b7d2a78376462"
+hash = "9ee3f572f67b4387198f29409c29df8f2b4cc76b3c09645ce84fa06ac88dc3e6"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca5ec031a590d0ad2e4feaf61853ce2ed0f0a78f8b7a8627cf183250f0e63d88"
+hash = "f01e3bf3ac19d148390509cc99c2df982439a619701a2a392101a6f4d3c250db"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a026db230f816e25fed08d63f0ba7c55d849dfdcda3c76c71bf42f956172f3bb"
+hash = "e722e83ce843f9fc841f896de747e3590dcd1faa81aba8a73c8b0df7914a48b3"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "c29a03a3dcb8588cba64da4f436557f39ede724a0ff7b6fd1b8edc1341ee4293"
+hash = "6448dd2b187041bb7b1da3998c10b43c103e47a125b06230d302d9909be3701c"
 metafile = true
 
 [[files]]
