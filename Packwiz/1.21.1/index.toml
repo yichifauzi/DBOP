@@ -176,12 +176,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "cbac71183dc6d42a001914d744201f6407aaa0fb83f091f22b2bb99dcc6c5e17"
+hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "7e1408215f6a62a27f77b407f4857a8065087c6c42e5ade56810c95343416eb6"
+hash = "3b57709f76f8ce622869e4a4e15d396db75d4f2e12ef5d0c99b179558c521320"
 metafile = true
 
 [[files]]
