@@ -1,6 +1,7 @@
 name = "Sodium Extra"
 filename = "sodium-extra-0.5.7+mc1.21.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
