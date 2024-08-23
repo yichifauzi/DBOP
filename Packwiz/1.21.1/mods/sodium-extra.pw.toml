@@ -1,6 +1,7 @@
 name = "Sodium Extra"
 filename = "sodium-extra-0.5.7+mc1.21.jar"
 side = "client"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21.jar"
