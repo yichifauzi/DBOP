@@ -176,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "cbac71183dc6d42a001914d744201f6407aaa0fb83f091f22b2bb99dcc6c5e17"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f89c24f9eeecb1c77cb823f362b7bc39710c601fec85c1274772b75357031704"
+hash = "7c852d07e57dc5a240ed0506f1dbcd08fb6c529ce69f30a1d893e063b5dc2452"
 metafile = true
 
 [[files]]
@@ -321,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "6e90ff8eb584db6a95ab4bfe0aca99c4a53e38aa4aad1dc270d450b41b50095b"
+hash = "5a14985b7f03202be2985d90b3b1bf762a45f6c898955a51cbbedd2c9f11471f"
 metafile = true
 
 [[files]]
@@ -351,12 +351,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "93adcb467c286a44f6b96255adf7fd7f35627216c4f66b2806e982b981315619"
+hash = "a9432cf8c91d2d6b516d0c869f3ec5c2f0811a54262b58c036214e6ab50b3109"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9189d0b71c62626e1a103147d18168ec36dcdbbb5acf593625d840a7ffaa835e"
+hash = "c7218b31f159e0ca2703c59f8c3a3e5cb597d36957096cbae3b638dbd8832ee9"
 metafile = true
 
 [[files]]
@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/threadtweak.pw.toml"
-hash = "3fe9e0506a70265b6743a27a0189cea5f27a92bef1735abdd736315d8b205365"
+hash = "aa9b0a592e0c8cd791e1194455a8569667d5a3f1e8b52a60bef79052474a0db8"
 metafile = true
 
 [[files]]
@@ -401,5 +401,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "dc901c21f3256dc9e6c24b2d2dc294adf0c85e2968096d00af35817223c6bf18"
+hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
 metafile = true
