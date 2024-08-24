@@ -110,6 +110,11 @@ hash = "78705f8adefc6639a1a6988bab21bb77a3889222c73e843948eb3f3914175ddd"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "5711358de644e8fbbb3fd0ccde6ea736abc0a2fe2a681a91ceee2ee759c546d8"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "50c44dd0966593bab849313abcc9159f893cd8dd90cc82204655422a58fac459"
 metafile = true
@@ -295,6 +300,11 @@ hash = "4e2833cf50c045a3277a72ffee8c085c76ad1acc6eeb0b9266567684aed8f675"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "b5021296b7bc6144090ba64900e92d30597236978e98867da46981933af99a02"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6a5227510b443d4aa03884da25cad55a6756c47504e386c83976d65e4561829e"
 metafile = true
@@ -327,6 +337,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "50f7833a51163d6790f85573c6f6ed643952d66776dd325f04a5f7a8198e8a74"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "3a09f15c4b59643fa46d8f46747839ee57d84f7d8cd2541f5735abcee347924b"
 metafile = true
 
 [[files]]
@@ -365,6 +380,11 @@ hash = "a351f6d12b6e07c1a6bba793749b63a4d2d12742d514dcd5897b9d1b447a3512"
 metafile = true
 
 [[files]]
+file = "mods/world-host.pw.toml"
+hash = "7a4b6216b054a4c9e58cb035db963975a167b976f781edf724a62b8f6368b770"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "6dbfcd380c40525fffd33295a7f85158fed929c1438026d37901fc0ee1f1f1c9"
 metafile = true
@@ -372,6 +392,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "544a4e56b8574c53eb209f150df36ed80cec01a2253d7583dd0f7b7058bdf2ec"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "00aada31d29b57433979f846962106b64d5cfd0b0fe9e7a4789814f8d234de4a"
 metafile = true
 
 [[files]]
