@@ -1,13 +1,13 @@
 name = "BetterF3"
-filename = "BetterF3-11.0.1-Fabric-1.21.jar"
+filename = "BetterF3-11.0.2-Fabric-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "eb48ba676e4c0779576b0f49c28ffd47f0eae561"
+hash = "e3161477b47e927fc2678d8ea018c10563fa7f37"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5439909
+file-id = 5663429
 project-id = 401648
