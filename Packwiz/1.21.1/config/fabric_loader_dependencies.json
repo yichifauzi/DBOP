@@ -3,9 +3,10 @@
   "overrides": {
     "fabricloader": { "+depends": { "fabricloader": ">=0.16.2" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.21.1": ">0.3.0-alpha.1" }
+      "+recommends": { "DBOP MC 1.21.1": ">0.3.0-alpha.2" }
     },
     "polytone": { "conflicts": {} },
-    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } }
+    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
+    "moreculling": { "breaks": { "sodium": "<=0.5.11" } }
   }
 }
