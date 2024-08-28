@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "72ccc617670fb9b2cb7c27541710b8cc54a7153b1e306acc9901e530308da4cc"
+hash = "74a96b788fb68059d777676bbbdb23d6a6c3fd83f1b659430fcf1dd2b7b70d37"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
-hash = "10f8db93f0f593a88ba31c2ac7b83b057e6123d0c8d49a52fc3529aa1cb87871"
+hash = "86e220453b567711ebb1e09eaed18826bd870baa3ee48eaf7e8f5b733c1b97bf"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "1b449be45ab630ffd016669bd42529466e64daf7b9825fbbb7e0c4fa136f772d"
+hash = "66355e86ba72666320e21b3f4b51d7a59cf174518630b1ab5e43dad5922eb497"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "31f35c76310ded3dfea98bfe08f39c71e1d5ecfc800ed497d06ae35495cbb2a8"
+hash = "c3cd8d3d45d09290e3d5f8ae34af5dca49744729573dd4796b7174a3a0cd41a8"
 metafile = true
 
 [[files]]
