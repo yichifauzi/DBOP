@@ -6,7 +6,6 @@
       "+recommends": { "DBOP MC 1.21.1": ">0.3.0-alpha.3" }
     },
     "polytone": { "conflicts": {} },
-    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } },
-    "moreculling": { "breaks": { "sodium": "<=0.5.11" } }
+    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } }
   }
 }

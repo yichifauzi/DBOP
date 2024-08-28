@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5495eae88e3f6fd4407b0e38b2313600c527109179eb9f078d0af373b21f30eb"
+hash = "45d0a8b7001df893498f668919a3da8656201d56ddab1f43bb85b9fd778270bc"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
