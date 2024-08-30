@@ -53,6 +53,10 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 **(Tested on Intel i5-11400H, NVIDIA GeForce RTX 3050, 32GB RAM - utilizing 4GB for the game)**
 
+## **Credits:** 
+  - Autopublish github workflow from [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized/)
+
+
 **Need Help or Want to Report an Issue?**
 
 * **GitHub:** [https://github.com/yichifauzi/DBOP](https://github.com/yichifauzi/DBOP) 
