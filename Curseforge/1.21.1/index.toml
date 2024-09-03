@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "da30c6fa9bd987b6d1383b3e13583cde994c334e4643c287e77834f156a71fe6"
+hash = "e6f1b9f3f2ac55fc0a7740fb43fc897928a786ba033e107552c050bf456751f7"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "d5f67d50bea78b8eca0370ec8e7e99291faabde5d90bb0259f283fcb62cef342"
+hash = "34fedf460b484a3b0dbfa234cdb4b677a4358292b86e254b3f25659af65075cd"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "758738b7612c42fd5ffb7428907a2f01f117575f61ce0e33ad1c9806d9529eb9"
+hash = "7a64a44f332cb097f94c85eddc5a47e33011d88c7e7ef2d03f02f9e407af38d7"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6cf0c370d5870004c05184b7f00ff46cbc72b1f2a5e0ac9a7d9ad6a2132402f3"
+hash = "9650682c954756143a803a83da566ea43fd395dd63ec203a2cb4653a5be4ca69"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c3cd8d3d45d09290e3d5f8ae34af5dca49744729573dd4796b7174a3a0cd41a8"
+hash = "07f79a56950ef12d8f22b6131e9dde68ea312458afab5ada97c03f5dd50dd23e"
 metafile = true
 
 [[files]]
@@ -402,5 +402,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "247486d430208caf5b8552c59531dec6b49bd7a880ece4925c656e5da4b7ae3d"
+hash = "f60d2dfdd33da7e697d8db2571c24c5afd92b43c4d3c4d51987d49d61de2e146"
 metafile = true
