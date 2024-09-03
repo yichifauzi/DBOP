@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1bb060422a1d7cba377d9fafdc77c58ba8a1cd7c54672651b3b00cc8e69e88eb"
+hash = "279d855919ce53cfe4630c85a779bae550da3e19451ebbafdcae3167c6a1adc3"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "75d54cfa3d322caf6748be4a7bd40f24c26f0818f2b7f4243af61ae42cde2694"
+hash = "8a38d5bd7a9d5fa6f82e938287825e20f67c824496b9af3c0981051e9cf80389"
 metafile = true
 
 [[files]]
@@ -402,5 +402,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1d9401360096b6bd308a7b7b5ee969e5bf773ab7b02e0990e0d5592e458b7f08"
+hash = "549b9e178b00ca768b00b6b3cbb337442a47af6e7a80a1c11be50353a6bef76e"
 metafile = true
