@@ -1,11 +1,10 @@
 {
   "version": 1,
   "overrides": {
-    "fabricloader": { "+depends": { "fabricloader": ">=0.16.2" } },
+    "fabricloader": { "+depends": { "fabricloader": ">=0.16.4" } },
     "minecraft": {
       "+recommends": { "DBOP MC 1.21.1": ">0.3.0-alpha.4" }
     },
-    "polytone": { "conflicts": {} },
-    "debugify": { "depends": { "minecraft": ">=1.21 <=1.21.1" } }
+    "polytone": { "conflicts": {} }
   }
 }
