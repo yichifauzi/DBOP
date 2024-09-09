@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "66355e86ba72666320e21b3f4b51d7a59cf174518630b1ab5e43dad5922eb497"
+hash = "c3306c4e384712db2cfa6dac5ba5f3109693116c0a8c6f0e80b095364b117059"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginated-advancements.pw.toml"
-hash = "95ce06c3a6823851bd8b39f259864c41d3eee713ee04cb59d4bdceaf4030efcd"
+hash = "b5b40e88faaa593751d4dd7d2979b89f4e8d572135c072106a82ae5757c46070"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4f0edce3c75ab2b9fed5dee7b7726e5a9153ee35c6d0776b84da4ba67a34dc7c"
+hash = "dcb5e527c56ee83d5a43140d29bf9e1d9258fa1acf81f35875d5d3d75977dda5"
 metafile = true
 
 [[files]]
