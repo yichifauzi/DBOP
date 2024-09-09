@@ -126,13 +126,13 @@ hash = "9bc4dd81af6488b24aa067ff3502e07a04d4ec5530eb003b388b0e9102eb08c7"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "cb42687eaa3a3e852a4f78a387eaa7e84c78aa242ad6341ea89e11c1c33de405"
+file = "mods/concentration.pw.toml"
+hash = "cebce6bf952c0b982a21d50639b914d8a71e486eaefe255e9d0e014dbfd8a719"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a80b195f3f35bbf81a92178648f75a4bf759772b8a4a9413c6c9afa3645ab0f7"
+file = "mods/continuity.pw.toml"
+hash = "cb42687eaa3a3e852a4f78a387eaa7e84c78aa242ad6341ea89e11c1c33de405"
 metafile = true
 
 [[files]]
