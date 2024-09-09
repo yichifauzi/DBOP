@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "46547a346273eac117db2db4240b97c43cb3f49b83c744e9231c0076fdab4d45"
+hash = "808ece85d16639585c701df3a263e57827d9a64e37e1f819811e8aced92bc9af"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "bbdf44748909d37528221823d30af1447d4ecb4a4e6bbede2f1422d9b80ae02b"
+hash = "df77a7bc19d39e75885bb0beeeb3ce3ea190bf60cb6c41900153aed25365f859"
 metafile = true
 
 [[files]]
@@ -407,5 +407,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "23f512527a8b53a4146cd025558f9f6d36b7f1142bfe639b57ee0ccad2216d51"
+hash = "9faf1036a72fb3a578e7f49c8f3b61c298cd7b7c9ad7863aea69ab67c25f4de1"
 metafile = true
