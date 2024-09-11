@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "808ece85d16639585c701df3a263e57827d9a64e37e1f819811e8aced92bc9af"
+hash = "c1e285be810b601e8df954cd66f50d77dd4673aa7abece41d9b99875af97a846"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7198fc0d2e8ec96f881a6b33ebdd5d3959862c6ecab9e9bbfc78626b63a41200"
+hash = "3d8565c9332fc58336586585c029599bfde51ff79c3f59c39c87d59529bceef3"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "279d855919ce53cfe4630c85a779bae550da3e19451ebbafdcae3167c6a1adc3"
+hash = "2cfdf33ceab39976c93b9ca0063e5f9f849b35928ddcf003a846c6d6fce99667"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "779ae64ef9d25274f330dbbf37436977b57211d3fee894577b677b5595f8110f"
+hash = "87d9258bfab38ed6aa8352ef7d5fd02e1e867c451e612aa1536f1fbefd5db7aa"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7476360599cf6166f078298cae4efa8688077b0de62276ce8fd3767b9ad0b51c"
+hash = "2308b7c5ac6afb6a0bcd9f3c3fe306e371e2825776e1e7e0806935488e52a507"
 metafile = true
 
 [[files]]

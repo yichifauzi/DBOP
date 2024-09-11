@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "808ece85d16639585c701df3a263e57827d9a64e37e1f819811e8aced92bc9af"
+hash = "c1e285be810b601e8df954cd66f50d77dd4673aa7abece41d9b99875af97a846"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7192480430276c96f9f0e622e393d1cd57286ae2fae06275fc19511ea6377794"
+hash = "fba43cbde0abf1563b080789b882a5373d99c891cc844d646c051d639e6e0f14"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e6f1b9f3f2ac55fc0a7740fb43fc897928a786ba033e107552c050bf456751f7"
+hash = "6ad02832a9c43e2f8fcecb18b8b191481e5441774d01c9e2b96ac14d619e10bc"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "50c44dd0966593bab849313abcc9159f893cd8dd90cc82204655422a58fac459"
+hash = "4dea6e09f99b3ca24e31292a8e9eccc05495f53cc45e5a3a2c0543ee73e52df7"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2806c6f2a690dbcb2fa55838391266384ee01da9a194a385a03e0e6383f1e60e"
+hash = "b20e8661162c4568ad733af79a714b9304067fd4a8c1e7af6824d13d548b8355"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "c3306c4e384712db2cfa6dac5ba5f3109693116c0a8c6f0e80b095364b117059"
+hash = "fc536a046dca483835774de3a4f61f744e75e8cbf088f95ad4402b7394912d47"
 metafile = true
 
 [[files]]
