@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "a45c1dc67faa877ac707fc6332178024e14a373eaa3b7a32aa274accee26507b"
+hash = "2a25f8f8df18c2416c03a3655ae918cecb427d389ea7f81fc188e5778ec3f0aa"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "dea9dae3b47881286cdc85e107d9c9798c54f1a7c0e749f68d9b34351686fc2b"
+hash = "9591a0c8db485afc5d2fb9ac091c46e0a95387af80b15e39892276283a210f38"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1ca0cdb68b7c4a3e7805792da48d3029e6da8c4245c2cc43b5049e48ef17feaa"
+hash = "60c41c12194921098ad378d6d3c41d027a7691b008f314642f6a262d3a4bb040"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2b35b5f8baa80052c753b8969d5d59a117df7de3bf3036d12e636915665e5190"
+hash = "4ce604f5e72f0882ba1e2d50d5a302f89e9e48da2dfe5600edf7bd4192e8d0b1"
 metafile = true
 
 [[files]]
