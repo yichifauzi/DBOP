@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9591a0c8db485afc5d2fb9ac091c46e0a95387af80b15e39892276283a210f38"
+hash = "14e62b9300da0d8a8cf5a39bb2ceb9960e8522be3cd6e9f5851550ed3345473d"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "2308b7c5ac6afb6a0bcd9f3c3fe306e371e2825776e1e7e0806935488e52a507"
+hash = "3ced7114753c4648a6bfdda5d569817c7f0497c6748148d08a797f28eae713f8"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "5162db13d4dcbb517a04c1b2cdacd66f8fc66916de36518f8329eff4cd18c7cc"
+hash = "e930d09ced72f4e67fae56994bcf16528a65fecd06f886ff3edaf82c9e89f252"
 metafile = true
 
 [[files]]
@@ -407,5 +407,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "383c94f707642f512d2cc6b5d7e5d5cb43d3c221b6b051eba41ab0b2593675f8"
+hash = "c79db5b1bf80fbe510b33ea2b6b009df52953547cb2920d67191e54d5b89127d"
 metafile = true

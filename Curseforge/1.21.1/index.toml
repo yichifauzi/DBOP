@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "348b68a0b6fae9ada5ceb21f600544aec81917ec38ae62580a93af09c3126f12"
+hash = "8a114ea0fda082e82adb39d5a684c0f24eda5c91dd6f09ba0ca6fd83106676eb"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "8b130fa82182d3d58387de4ec6dcdfff55fead2152ef9523e950bb47a19556eb"
+hash = "9b1d03642679a00a0ac5a89c6fdb5a5662adfd8698b6124d16fda6ed6b82d6df"
 metafile = true
 
 [[files]]
@@ -407,5 +407,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "9faf1036a72fb3a578e7f49c8f3b61c298cd7b7c9ad7863aea69ab67c25f4de1"
+hash = "9daf8ce95a9033fa64f0e1e5b1427f7b8b86c66a92a08c6dea3c25e7564eba4d"
 metafile = true
