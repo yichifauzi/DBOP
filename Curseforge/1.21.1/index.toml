@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fc536a046dca483835774de3a4f61f744e75e8cbf088f95ad4402b7394912d47"
+hash = "efa796e7831e8416fd147faf05044e472cfedd86f3c5b3632d975ff1e7cb8a27"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "3e72be0e54b4c240c8ac5260101fe25aa86ccaed96de4e0354085a9fdb968987"
+hash = "068ea721b8a2c0e64b7558a8018825ddb858c03703f0b05941f671eb6ff7e788"
 metafile = true
 
 [[files]]
@@ -332,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "635185484a90f8859e3beef3ceede6735b526d0b500957112a87ec338cd63fad"
+hash = "4166c9430ccdff27b472b08514733f5acbf913e82e46f4b60b15a29f44ccefec"
 metafile = true
 
 [[files]]
@@ -362,12 +362,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "f16fbf9ea93c07b30874fa01304496c27198bafd4246171ff1023960462effbf"
+hash = "9878bf8fafb95c99415ef7f2012ba29d11373c0165aac32c62d7755991461160"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "3cdc57b4cb93ed17df07adb308e0d77dcdd35c78dce6a93202f83b3c934e2ae9"
+hash = "393f78713f0b820a866c8bd0eb6edf2009e56ffc72766c2dbab4fe3dfc0ed2d4"
 metafile = true
 
 [[files]]
