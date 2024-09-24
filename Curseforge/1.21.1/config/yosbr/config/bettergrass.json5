@@ -4,6 +4,9 @@
 	betterGrassMode: "OFF",
 	// (default: true)
 	snowy: true,
+	// General
+	// OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	betterSnowMode: "OFF",
 	// 
 	// Connected Blocks
 	// (default: true)
