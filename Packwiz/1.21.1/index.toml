@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c37c1a98b6b2f7457768d0113f9dd29d139fb822f2098b5722333e2136580802"
+hash = "34d39796ae3dbb41308bde45cfa2c7b7b0b707b62459fb76b3b20a019dc34a70"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3ced7114753c4648a6bfdda5d569817c7f0497c6748148d08a797f28eae713f8"
+hash = "c691bc0b356a1eaa63b21373e204656ddf730be091b9dcbe1874df2e0d8a34cb"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "fbbf1a7832ec0e8f1d80262e7dac8e95a82e83d121f4a4720caebdf4aa9866ad"
+hash = "23c2cbcb37b4a26c10d16d21f1947204ea20d508f92904e3df35d68367e9f538"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4ce604f5e72f0882ba1e2d50d5a302f89e9e48da2dfe5600edf7bd4192e8d0b1"
+hash = "8586570a639fa3f31b562a6b08b567e1dc0c7985184289dfa9c753294e73e4aa"
 metafile = true
 
 [[files]]
@@ -372,7 +372,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "03865d14176416d13d1c9f55f42154fc2d7176fb56f4c641a6f78c158366820c"
+hash = "9bdd041fb29ab003ef5bb1f0ba53516847e32e3010a3fce247f743fc98e08a6b"
 metafile = true
 
 [[files]]
