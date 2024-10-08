@@ -1,4 +1,5 @@
 version:3953
+gamma:1.0
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
 enableVsync:false
