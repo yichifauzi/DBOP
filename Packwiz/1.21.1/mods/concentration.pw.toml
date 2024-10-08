@@ -1,13 +1,13 @@
 name = "Concentration"
-filename = "concentration-fabric-1.21-2.0.1.jar"
+filename = "concentration-fabric-1.21-2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QyvWSZ5S/versions/MXVGS9Kc/concentration-fabric-1.21-2.0.1.jar"
+url = "https://cdn.modrinth.com/data/QyvWSZ5S/versions/4Zxlcb5t/concentration-fabric-1.21-2.1.1.jar"
 hash-format = "sha512"
-hash = "52986f8ad69723b9962408232dfed53fae0a0424a0e175457da83b0d2e1c2f137b1118915cbf01a9b32c8a2080230683800ada1f10437df5a3a0fbce76603789"
+hash = "89f0f57f37046f953743bf4427ffa82b3803f0e428d7c6da4785b58dfd26393a9f1dd1ef9fe40e85dd6e0d34406d9f27f58cc39b5acfde00f2e542c48ff1e5a4"
 
 [update]
 [update.modrinth]
 mod-id = "QyvWSZ5S"
-version = "MXVGS9Kc"
+version = "4Zxlcb5t"
