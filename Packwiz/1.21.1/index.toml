@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/concentration.pw.toml"
-hash = "c745d8e6c4ca533c19fb999064339ca72fd6a796a263f6c7be52f73c97897681"
+hash = "5a1d07e6b3497b1d8ef293a2ce7686f1723b5abfbe751c9f768e769c4eeaf83c"
 metafile = true
 
 [[files]]
@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2c12c941a04bbdcc4430bae31b8c24c616ed8a57d9184f5d741b7dc3db2e9c97"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -241,6 +241,11 @@ hash = "757249dc1c0a84a89c5739511bed1654fa158dfee514c17ce748a82113a776ab"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "38d15aa7d6c9c41f437ba00f5fe89b899fff4892ac6fe39c09e89677d8f3b075"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "618022c22c8b17b2e73ca0c73a0d0a8066afcb7e8b7245283d05cd5864affb13"
 metafile = true
@@ -301,13 +306,8 @@ hash = "4b480e7d489775b16b71f45c8478e31828bc3f907f97164f06beb3643c6236bc"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "9a1fc2305941e8d220b1b36dfb69074a98559fecf723c0d1ffee2872983b4796"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
-hash = "be4ef7af2cee4136a097edeb02ebe0a65a97ed5a909515f1afdf9c0a6a556214"
+hash = "ca77b2f891e554b3ba0db25f14403f7fbe9dceb7c0958e8077684b9a2d34529b"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a5f32dc09e9c29e34a5f274e05009d29871aa85d1834dbf3c4e7bfc2c1197d5a"
+hash = "e8f78a6d8786e286d6798f488ed46cdc1e93771728b166d7b5185261240640f9"
 metafile = true
 
 [[files]]
@@ -338,11 +338,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "bd18d3b8e40404a376a32f6b74e0383b6e1b42683fe96a1615e1c59cf52a08c9"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "93098e6aa5b730ed2d609e38bc79f15d6688198d2cf1f61197352725b2d0636a"
 metafile = true
 
 [[files]]
@@ -407,5 +402,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "bf29243a8e6ca0f600c061afa5bfb7789b92d376392c278bac2085968e327858"
+hash = "cde3b7c220bc64f5577463053f48a09ef3f82ca79320214953734755563e4f54"
 metafile = true
