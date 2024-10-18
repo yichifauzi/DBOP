@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4b55e8720da882164a8a1c0ffefca26940dc2bafc990936514847903aed79ed5"
+hash = "1335b1dbecc9ae08c2cc483d8ffa554a93ae0608bfe471fb31fe2be1874a10a0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c0e675a2a609cd718d295f7fbca383d4601b8f6a3405ba30b747ccbd018439fb"
+hash = "1914b2fd260ad928104b614999758d7446f6d7980b24cb8e8cff711610ec477d"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "463d0affc036cf47500c1740487316e0aa4a0c5210c73d27487d7db7e7d38315"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0f1fcbb6f9309fce2bdf362b28f13ee4326534652e00bfb9beff3ceca6125f9d"
+hash = "b0664d65ddd932bf1cade2c28c8e9a68eddbc64de3e97613d7cd5fdab118243e"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7b8c48f281b3b6e65d1ad9ee6e6ea13e83c26fa687377fa39d11eeafd45ac625"
+hash = "e371e2a99c4958e0cd64914932a69562ef33748de04c1729999761423c4e330a"
 metafile = true
 
 [[files]]
