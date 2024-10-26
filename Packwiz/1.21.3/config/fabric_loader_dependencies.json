@@ -3,7 +3,7 @@
   "overrides": {
     "fabricloader": { "+depends": { "fabricloader": ">=0.16.7" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.21.3": ">0.3.1-alpha.1" }
+      "+recommends": { "DBOP MC 1.21.3": ">0.3.1-alpha.2" }
     },
     "polytone": { "conflicts": {} }
   }

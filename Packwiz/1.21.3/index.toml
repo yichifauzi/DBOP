@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8ee542334959971a7801f6d1d449c151b1256fc299b7e69ddcc88ba319554555"
+hash = "d076217443bfdbcf504a7fe25beb1a0cccfa9dc50833fdb446fb453dd6053267"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "97934340da2f966b252be10150339e66b12f72fd629465fae7b0d21506266a6e"
+hash = "adba8d6f75705c50a94e656fdedce364a16e23e89a4c01f26bc326a521e7cb55"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -86,6 +86,11 @@ hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "f2df96ae0a1bb2c04058adea0acf61f1fd05737a668d38bb370a7d72bc45463e"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "1d80239aadd26f2d5b7b4c482dcd8d0ed3ab7127b0ab1246af58b196d9e85fff"
 metafile = true
@@ -118,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "febc2016ef228d816d7a19f5c02357674c664e565a338a42a08c80cd4ca00cc0"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "bab4a9a4177f633e2a9d5c4d4bbd00f5bfa056324e7351a863ffb41d360f2baa"
 metafile = true
 
 [[files]]
@@ -158,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/imblocker-original.pw.toml"
 hash = "7bad16e7ce51b3bd207fc53ad920718afd38bb3b091964392a5189d0370d82e1"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "7ed4b1f815d4c6121591cbad1d0b41fea818c4cb377b0f8f39655392f8cf63df"
 metafile = true
 
 [[files]]

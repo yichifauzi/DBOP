@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8ee542334959971a7801f6d1d449c151b1256fc299b7e69ddcc88ba319554555"
+hash = "d076217443bfdbcf504a7fe25beb1a0cccfa9dc50833fdb446fb453dd6053267"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "795749f935a8bfe9185dee773ae1ca13f6cfdf41478941582c8667623089a411"
+hash = "e89f2ab4144965efd28bdc14d99b89261eb3d7461afdcb47c14ae2abbea45aa0"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/imblocker.pw.toml"
 hash = "32f07648dcc0de56175ec769e7a5cc91d0dca09cd7773d251b157e310faa555a"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e7ea95706fe2deea8b35e6bd2e9a1907bbf980d820318c22f2704a02812f08a1"
 metafile = true
 
 [[files]]
