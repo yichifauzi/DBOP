@@ -1,0 +1,13 @@
+name = "OptiGUI"
+filename = "optigui-2.3.0-beta.6+1.21.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6c7c177cc53b260fc3e5ec2275ad3863c3d51542"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5846046
+project-id = 619986
