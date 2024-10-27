@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "3be5d9bedacdf273c7318aa2d58a996dbfcf39a1e6d7efaac894e1b8da4b1339"
+hash = "f6e396c268246ee9ab293de9a15ac8f9257d65d381b6d4211a4007cdfc45d462"
 metafile = true
 
 [[files]]
@@ -158,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "e4e53e9e618dcf5fcb972278296adb6114baeb6c3d22a1cb85146625fd50b257"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "e355f5d23c8b7c0ece9f3097c589888f26219b29ddacd00212e750ee381497de"
 metafile = true
 
 [[files]]
