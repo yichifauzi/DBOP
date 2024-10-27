@@ -1,0 +1,13 @@
+name = "Mouse Tweaks"
+filename = "MouseTweaks-fabric-mc1.21.3-2.26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aC3cM3Vq/versions/DVOFYTew/MouseTweaks-fabric-mc1.21.3-2.26.1.jar"
+hash-format = "sha512"
+hash = "48b2bf8ca36af9b392ea8f15bc9fbd876e2bf449d270ae84672ca0ae9561cc9f00202f592389cdffdcfe2e715df98490148f6f87cee067553b782383b49e32bd"
+
+[update]
+[update.modrinth]
+mod-id = "aC3cM3Vq"
+version = "DVOFYTew"

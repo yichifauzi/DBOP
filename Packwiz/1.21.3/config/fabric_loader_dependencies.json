@@ -1,9 +1,9 @@
 {
   "version": 1,
   "overrides": {
-    "fabricloader": { "+depends": { "fabricloader": ">=0.16.7" } },
+    "fabricloader": { "+depends": { "fabricloader": ">=0.16.8" } },
     "minecraft": {
-      "+recommends": { "DBOP MC 1.21.3": ">0.3.1-alpha.2" }
+      "+recommends": { "DBOP MC 1.21.3": ">0.3.1-alpha.3" }
     },
     "polytone": { "conflicts": {} }
   }

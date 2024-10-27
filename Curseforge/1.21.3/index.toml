@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d076217443bfdbcf504a7fe25beb1a0cccfa9dc50833fdb446fb453dd6053267"
+hash = "58336678d9d9eeb854ed9cc7792e9c73331fa2f989216ec35d4a54061162d567"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e89f2ab4144965efd28bdc14d99b89261eb3d7461afdcb47c14ae2abbea45aa0"
+hash = "d71de27331489493b41167a452f42fa0f56ae85dbad7b12e8e572400281b8f81"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ba446f38a5efbb8b8fd37dd6814e437bd83543dfa9e250907cfd280ad51507c6"
+hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
 metafile = true
 
 [[files]]
@@ -221,6 +221,11 @@ hash = "362f79b22e4bfae8700a27556bd20a4718ade700e16424c367089b241b8c9f80"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "c5131fd535a6f5251878ba5af7febc0c15187d129761cc19234e5297abeee71c"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
 metafile = true
@@ -228,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "7311fef5aec30057018f7668f760e4fa2f4a65709a058444d0c888234f25d084"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "89d038617883ecfaee0ad5c1ce3a0f7f38f9ed7674b32e0b42dd51acca0d8711"
 metafile = true
 
 [[files]]
@@ -241,18 +251,23 @@ hash = "590ba0b4e8d1cae06ff36d7bb0594c4f5a0bd074ed2b3ddbd56af6b065b5205f"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "31604345d6bca6a93fff44a4342f92e76163a0fb308245fe4f826f3dea206796"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "4053c5ad6b0301a586106b15139ede4e92472036434119fd4e42d6fa665311b2"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d4244b215d4f53efbc02d456a0b0cd7f1091cfe15647ec66e40c58aefe873d2e"
+hash = "5dc159eae8427dd009c066aefb00ed9e3ce6386c496de14a1c1ea9f8d57eda68"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "2cf1feecdeee883566cab8e3a95cc72adcadc383d6c7e29a16952bd10de3d6ba"
+hash = "7a48f952986469e230c8ffafa1a16c35390f51272406ef5cae8f142a99e79c96"
 metafile = true
 
 [[files]]

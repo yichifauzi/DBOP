@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "d076217443bfdbcf504a7fe25beb1a0cccfa9dc50833fdb446fb453dd6053267"
+hash = "58336678d9d9eeb854ed9cc7792e9c73331fa2f989216ec35d4a54061162d567"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "adba8d6f75705c50a94e656fdedce364a16e23e89a4c01f26bc326a521e7cb55"
+hash = "f859b0177f4fa194f65a90226348eb26fcf7ac5eee86c2eb9dd871f84f28ab58"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -86,13 +86,8 @@ hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f2df96ae0a1bb2c04058adea0acf61f1fd05737a668d38bb370a7d72bc45463e"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "1d80239aadd26f2d5b7b4c482dcd8d0ed3ab7127b0ab1246af58b196d9e85fff"
+hash = "fe4deef7f756f9dd2caa7440f6335851001fa049ccfa6889b390f26da9004576"
 metafile = true
 
 [[files]]
@@ -137,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "91794dc15db23a2adc3f5992bbba41231d06f970c22f8fa3bca0ce2492cba9ef"
+hash = "74a3dc06ef31f258f4eb6e3b053775bfe466f6b9a1bc9ae1ae333dd2a863279a"
 metafile = true
 
 [[files]]
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "96457cce311d245c2e15381bf98ab7d8bb962bc9919d769a49a35ae63e6835fd"
+hash = "06ddd8c864842300bce18aee050a9ec6c018cdb0a06508ca2e5c60d76357f814"
 metafile = true
 
 [[files]]
@@ -226,6 +221,11 @@ hash = "9d8287876e77f35fd00cee4a5f11b58447f8f3c6dcb317d189e1c35dfb3143d8"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d101c0fab1f62e9e2361e0e4b5dc586e90f872611c49aece29be2e28883ee086"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "1aa9d9b8c8af21f542883197014337a3746a5eaee3345639c5ab1c50781ddbe6"
 metafile = true
@@ -233,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "00029b4f6debd8b7d171878f9b10bc2152ae33b97556e2d4a2e1c2c55089c88d"
 metafile = true
 
 [[files]]
@@ -246,18 +251,23 @@ hash = "a821fda9254e8c37dbee3976bbe258c8e3e00b83b05bf596ca2877faa63c858c"
 metafile = true
 
 [[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "bdb16cce136637226fa69baa67809dabff8a9ae950e29bf093915795da52f720"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "cca92e4627588a252a72fa2510bf2b41506835a01f1eeb883b90452bdecf20f7"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "fec67aa964d71cdab5179ec4422eebea2c436700f67b700d6e067c59141545d0"
+hash = "ad52604c47cb3dca7bcc73ab94b8173b19b8f0859a885d634dd52f152aa9f3bb"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0e9d5660a15ec1b1420818694412e45c7d1ba2d36e7b14eb0731a88c058743b9"
+hash = "988629bfe9b67370e90910ff0702da2def90c8fb8048aac72a7234f27871176c"
 metafile = true
 
 [[files]]
