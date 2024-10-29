@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f6e396c268246ee9ab293de9a15ac8f9257d65d381b6d4211a4007cdfc45d462"
+hash = "a6c1204a340f0b4a3e9830d45e471d5d13825698b7551139cec35b1d14e0ea9d"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "d37340ff083efef6f99b2497465c283b13be1f4a8e14b875afbc98241e4c88a5"
+hash = "22979c43b54ac09deea03235f5b90caaaafd1b0b664e2c08089686ea3458f5ff"
 metafile = true
 
 [[files]]
@@ -192,7 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3c2b6953e55e7539525cfe8e4dcaee03e5d653497a73c47f42e67de211e4c9b"
+hash = "985e9a933de8459ea7593d5387d5c18ff4409543663adf7dac4eec3fddfd3945"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "12b76023b57ca9795dd439c6984128c497406acd2ef7058ca133b40440d56ecd"
 metafile = true
 
 [[files]]
@@ -222,12 +227,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "362f79b22e4bfae8700a27556bd20a4718ade700e16424c367089b241b8c9f80"
+hash = "dda99d245c7db7215c307ff0a4e88bf4d77e64e028566d5dccb8229577f40d90"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
-hash = "c5131fd535a6f5251878ba5af7febc0c15187d129761cc19234e5297abeee71c"
+hash = "9a2cf1b5b5f996fdecc1c2b099fc715b20996bb0bd3b22b2af2588ec2abed567"
 metafile = true
 
 [[files]]
@@ -262,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "4053c5ad6b0301a586106b15139ede4e92472036434119fd4e42d6fa665311b2"
+hash = "57397a19fe635e96f583b3af905d4f3aca16e75feab52fc65501636438eff1fe"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7a48f952986469e230c8ffafa1a16c35390f51272406ef5cae8f142a99e79c96"
+hash = "a8b60f17aab596d7282cfb96b5bc5795a88fde91daa8e069152d552c2590291b"
 metafile = true
 
 [[files]]
