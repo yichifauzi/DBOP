@@ -251,6 +251,11 @@ hash = "7311fef5aec30057018f7668f760e4fa2f4a65709a058444d0c888234f25d084"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "a729aee8014bd5522c8fc06213dd0b080b47241925d849d149b54b8eeb921d20"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "89d038617883ecfaee0ad5c1ce3a0f7f38f9ed7674b32e0b42dd51acca0d8711"
 metafile = true
