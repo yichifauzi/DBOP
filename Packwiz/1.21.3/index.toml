@@ -87,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "559ca4a9df9b5bba623f0bd371063435ebc312aa97bdf1cfb4193625f2d4c872"
+hash = "e8561c2711bbb2e7b551d03c89c41a257774af6107bdb727484056d582679e47"
 metafile = true
 
 [[files]]
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "c2210a58773af364184cb114d27c53412c9f1d2df31d39d38a80a3883252ad54"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "fe4a894703704d94bdf7b5cfed82137b5a11f9953852a033d77e57b09614ce5b"
 metafile = true
 
 [[files]]
@@ -261,6 +266,11 @@ hash = "a821fda9254e8c37dbee3976bbe258c8e3e00b83b05bf596ca2877faa63c858c"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "d247e7ec1ed35a5484fc0d9006ee0e4f406645a8cccebccedda4dd521408848b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bdb16cce136637226fa69baa67809dabff8a9ae950e29bf093915795da52f720"
 metafile = true
@@ -297,5 +307,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "094f9dd6fb72537d63b10f6f6d51b73ee55595c7f0abf36ba665081f121492e6"
+hash = "1c2428e1b0493f044f4fcd6528e9f432725fa8dfb18894703152d6f81586fb32"
 metafile = true

@@ -131,6 +131,11 @@ hash = "2cbf5f2a1247a6677b181aac3f41c9db07c425b7a9807c8b1ff0430bd0c5036b"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "520fe1174b2b1ee225bf1cba2bbcacb1ef00d131c250d8ef57290e62f51f49ea"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
 metafile = true
@@ -261,6 +266,11 @@ hash = "590ba0b4e8d1cae06ff36d7bb0594c4f5a0bd074ed2b3ddbd56af6b065b5205f"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "e7f948db2fbdab443745c1f239aad2eec34a7fb7e7f7510da45bc7fe10268508"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "31604345d6bca6a93fff44a4342f92e76163a0fb308245fe4f826f3dea206796"
 metafile = true
@@ -302,5 +312,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "23b69a24e264b4fd18870f3bd4caa839bbcc650b83d805fe9c98c656cf398ef7"
+hash = "0f2cb89beba1ec81b19567c013fb8c295d47adffe0ceeadee161a94e2ca2b76c"
 metafile = true
