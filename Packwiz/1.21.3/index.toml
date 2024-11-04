@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "8715b6be1a8e32dd0453ff97a5fb0cf4f627fd15a8058f3dfa4cafc3d91004a2"
+hash = "5bf19b889291e37b429ba87c152c7b8a9d63c46e45f8890e27e0b95156d741e8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0199bf9437db683d3c1b8f0d47c4b8dd961af34d8dd001a2a02d9f7a9f22b60e"
+hash = "cc31e5fbc658f3e587d9432ecdbe7cdf64495b467a8bddf7d29a44a91e8c3e78"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -86,6 +86,11 @@ hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
 metafile = true
 
 [[files]]
+file = "mods/betterf3.pw.toml"
+hash = "f1abbc18408577afdca37f201e5fcca3ec702ed39131d9cffab3a6e3747917d8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "fc12b271a4cf1d77e5b078bf2ad329948f231b8b351e549bde78ed10dce09b32"
 metafile = true
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "bab4a9a4177f633e2a9d5c4d4bbd00f5bfa056324e7351a863ffb41d360f2baa"
+hash = "1954c04611da9977b602a9be0af6646e0b57309d507b85c63c67799db2e22b2d"
 metafile = true
 
 [[files]]
@@ -187,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
+hash = "e42830c54c1c892fdd0ee731c158b20930546d02a7d306768d57f0e8fb422a00"
 metafile = true
 
 [[files]]

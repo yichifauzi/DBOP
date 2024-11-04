@@ -1,12 +1,12 @@
 name = "DBOP 1.21.3"
 author = "dirtTW"
-version = "0.3.1-alpha.4"
+version = "0.3.1-alpha.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a9364c8b11555bb7aa18f295c4ec718a1204e83105378043f0383e55bba062ad"
+hash = "03b285a01b6ba8c1a8012b22da28e8470b356e2d83d2ea06c969def22bb2a8ea"
 
 [versions]
 fabric = "0.16.9"
