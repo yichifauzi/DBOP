@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b1d7833fadca0dbbab9c492367b564acd2f12142f1eb8d6e02ccab1216a3b3a9"
+hash = "7594584c834079329daebe33d2e65eb284c81d0a82711c32013a30f297686b84"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2597d26c8f622fbdc2628a686258c39edd7fea0368282a6f6dcd4667ab39f03c"
+hash = "0bf4348dd3eb62415a50151c61720ab5ef4f5336a9877c76d995f7b9995a1172"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "8f284914a501a968e4c0843836dca4584f3d1ffc95b973075f4b3df3880c30e1"
+hash = "3bb59a9526d9b2f1e60002bff737cb83e3a05afea22bb6b2f2eeee2abc99a2b4"
 metafile = true
 
 [[files]]
