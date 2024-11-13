@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5bf19b889291e37b429ba87c152c7b8a9d63c46e45f8890e27e0b95156d741e8"
+hash = "37ec77833d18cfec9aecbe950b043d8bee9107ead8ca68c0c30d98b1bc2c6cce"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "88e7f41e3b9f9249b24a4d01b65f1bb1315d1cc4a5e3a1a37703dbe3b2c702ea"
+hash = "5f0a46cb326a306ec2e9b0d9566ee1f60f8d77f3228eb58c9e3d81decbe2dfb2"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7594584c834079329daebe33d2e65eb284c81d0a82711c32013a30f297686b84"
+hash = "e3ee807a7e6b1184acb8622fcfc46da3281da5877255aa1dd4957841b667ec63"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0bf4348dd3eb62415a50151c61720ab5ef4f5336a9877c76d995f7b9995a1172"
+hash = "806a665836814185f6fa00910c95b44bf49443c9ed39e4771da5489194f7cc3e"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "56d4cb8545571d91f43e6b7c6c60b4db10d6344c6ae3aa3669e1e6552bcc8e8d"
+hash = "5763eb2c8fb21b478400ef185b6c0ae7799fba2f015f35ac3b4a7c03a97222a4"
 metafile = true
 
 [[files]]
@@ -208,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/language-reload.pw.toml"
 hash = "12b76023b57ca9795dd439c6984128c497406acd2ef7058ca133b40440d56ecd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "386576cf5f09fb169b3fb7f4b973ed4c06aa31be149afdcfcd99eb38cc834e30"
 metafile = true
 
 [[files]]
@@ -237,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "dda99d245c7db7215c307ff0a4e88bf4d77e64e028566d5dccb8229577f40d90"
+hash = "97aaea9e10c9ae6221476f28f56fd38c8cf9b4133e9d761ce18b48ec354f6df2"
 metafile = true
 
 [[files]]
@@ -272,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "75b9d5b933490a2b7008065621c600bb720dccfb8f705201cfaa50fb94733980"
+hash = "8c0eb7220eb278661a3c4b361a4f1c757ef2c6716ebcb5f585f0319ae5cf0cd9"
 metafile = true
 
 [[files]]
@@ -292,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "57397a19fe635e96f583b3af905d4f3aca16e75feab52fc65501636438eff1fe"
+hash = "2ec75f4615acd032c1889df94b3a3e166b3905926082d73c514e5ac6dc725a7a"
 metafile = true
 
 [[files]]
@@ -303,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "a8b60f17aab596d7282cfb96b5bc5795a88fde91daa8e069152d552c2590291b"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "2c79ebb35bf57daf220b176744f7a43fa85964e18a7d6fa216bb8edc79428cd4"
 metafile = true
 
 [[files]]
@@ -327,5 +337,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0f2cb89beba1ec81b19567c013fb8c295d47adffe0ceeadee161a94e2ca2b76c"
+hash = "9fee140aacd55d7385805498739e422eb5439c305536667ee25b16f81f9be15b"
 metafile = true
