@@ -291,6 +291,11 @@ hash = "d247e7ec1ed35a5484fc0d9006ee0e4f406645a8cccebccedda4dd521408848b"
 metafile = true
 
 [[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "02e57dbab24e962ef6d5b0311ba208e99aaf48d9fe23503312405cf86630ed3e"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "bdb16cce136637226fa69baa67809dabff8a9ae950e29bf093915795da52f720"
 metafile = true
