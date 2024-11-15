@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c105e0cc947060ba738fc37eaf6d7099f886b0d7bfe0c28498b454bd71c58271"
+hash = "f6135ea20e3a714a43969ed394fab0291e4e3b8a4bee1f8db5c0d74e6f65d0d3"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "c2210a58773af364184cb114d27c53412c9f1d2df31d39d38a80a3883252ad54"
+hash = "8c30705e816f74aac2899e6ee7ac5e7eb096915e2572f158b1396d99fa40517b"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "bfd0e9e0e3ba950e458caf9687e2ebbf0a3c4e1f2f97259a25242f5649e808a9"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "46582f8bfe8dbf7859c65f21849c587e6ce77049a5427f87f5c9c8a4d5bc9fd8"
 metafile = true
 
 [[files]]
@@ -277,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "7161b663ce9e37f51c84c6d63893fa2643f8ecd5572c3b3d68238cfaa7690f2a"
+hash = "90cfe4486ff6940fe58906be66f18348928e407ce3b82cd7fec9421feb18529a"
 metafile = true
 
 [[files]]
