@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "757376f2fdff85a171a586e7758b2fb580fe219d9e081075a9cab60771c6d9a6"
+hash = "ff8a2a26ed3e0c2ab5526866becfde76265302d565f15dad4477deceb5a35472"
 metafile = true
 
 [[files]]
