@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "6884f79eaa40efe7fa622826549dc35568bc6dcaf8d3be8994b81445a59a6536"
+hash = "370fc3a0facd20a0fe4374c6d56fa219b6db6bf2a8795d1fa487ea0a24cd8d64"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "bdb16cce136637226fa69baa67809dabff8a9ae950e29bf093915795da52f720"
+hash = "a18faac8593412b5ef8ee28bf49ebf7fcb16197aa4d2396dd0684b7defeb0b59"
 metafile = true
 
 [[files]]
