@@ -116,6 +116,11 @@ hash = "9ad73507b8cbb7444805a6f0e06f3d1adae75dd3169dc47b1e541c7de2742f12"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "186b978c2527fa3b349e97b67b9a3192304e5ded6a1267859a4e6d3266e73127"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3a70039ca9aab299619c38c5275518d345a6ed3a4325b956d6dec62c737b9f5d"
 metafile = true
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "af5323b8d59c5d93bacf7c0ea46b9a6bc1b8b51ecb2ca5973538d5d87049675d"
+hash = "a4a05fa3299d1057c4c7f81db8fb22d16b3aaf3e7f3a0e0dfdb5b01187f92e2c"
 metafile = true
 
 [[files]]
@@ -142,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "806a665836814185f6fa00910c95b44bf49443c9ed39e4771da5489194f7cc3e"
+hash = "4e2e4003bbeddc4e7c55ccb973f3e03adef5c38659026ca4d3d72e418472c391"
 metafile = true
 
 [[files]]
@@ -152,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "7a63cfcf9a62956616a86b25e2d2c2bacc447b130294a87303575dc4eb415b3a"
+hash = "441bfb006883e32192a1d823872f7e6448363cdd164264903bd932610fc2b18b"
 metafile = true
 
 [[files]]
@@ -247,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "97aaea9e10c9ae6221476f28f56fd38c8cf9b4133e9d761ce18b48ec354f6df2"
+hash = "75f7573ffb823ca81553f044a76473a2882e1ccc3336eb4692d8eb4cc87b2766"
 metafile = true
 
 [[files]]
