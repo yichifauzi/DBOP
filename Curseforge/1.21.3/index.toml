@@ -146,11 +146,6 @@ hash = "520fe1174b2b1ee225bf1cba2bbcacb1ef00d131c250d8ef57290e62f51f49ea"
 metafile = true
 
 [[files]]
-file = "mods/esf-entity-sound-features.pw.toml"
-hash = "852c52e5db9af6197b6d8fa4e2c78dc9c99908076e513aa48c0e3028366c08e7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4e2e4003bbeddc4e7c55ccb973f3e03adef5c38659026ca4d3d72e418472c391"
 metafile = true
@@ -162,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "441bfb006883e32192a1d823872f7e6448363cdd164264903bd932610fc2b18b"
+hash = "9469c184639bb29843047f3aa8914252e87416be590fd21187591b3cd5b9e525"
 metafile = true
 
 [[files]]
