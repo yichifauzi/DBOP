@@ -282,7 +282,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "a729aee8014bd5522c8fc06213dd0b080b47241925d849d149b54b8eeb921d20"
+hash = "e74c8c85809e38f48ae4a7b9b81e223d953c7cb02928a4647373be519bcdafc1"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "e7f948db2fbdab443745c1f239aad2eec34a7fb7e7f7510da45bc7fe10268508"
+hash = "c4001f072ff0f3fe42b97c3530dc9b646bdf2ad00bf778484afecbf00c7af54a"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "5dc159eae8427dd009c066aefb00ed9e3ce6386c496de14a1c1ea9f8d57eda68"
+hash = "3ac3ac7aa1c4d175a634b30d5897258daa9e6806a619fd10bb641c34686b0b5d"
 metafile = true
 
 [[files]]

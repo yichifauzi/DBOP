@@ -1,13 +1,13 @@
 name = "Shulker Box Tooltip [Fabric/Forge/NeoForge]"
-filename = "shulkerboxtooltip-fabric-5.2.0+1.21.3.jar"
+filename = "shulkerboxtooltip-fabric-5.2.1+1.21.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "468af2bf0187e97d7d8afa55eb8d421b254aa2e8"
+hash = "95c0d6c97454bbbd3232eb8cce29a3b4fdb4a2f0"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5866683
+file-id = 5924929
 project-id = 315811
