@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "59269128c4b8aa14cd93beba44a04062a0f6f698b700b50dbb5d36929e5e82b4"
+hash = "269d1f21df484f7dff9a7e07197375b5a65513b67d2a1a16a1588b6c6f7bf28f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "151d767da5d9ff10ff7c6ef9d078cb9fe39cdbc301e34ae172a420332476edac"
+hash = "7f491f8ff6c14b5cea38ff2c70ad82f1ccfe182ed78948c5ea6085ad05b5443f"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "9469c184639bb29843047f3aa8914252e87416be590fd21187591b3cd5b9e525"
+hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 metafile = true
 
 [[files]]
@@ -321,6 +321,11 @@ hash = "3ac3ac7aa1c4d175a634b30d5897258daa9e6806a619fd10bb641c34686b0b5d"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "a8b60f17aab596d7282cfb96b5bc5795a88fde91daa8e069152d552c2590291b"
 metafile = true
@@ -352,5 +357,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "d4245f5acd6974b0022dc5feb6a563755c52874179876583d5accb934b466709"
+hash = "47144afabfbe1a816f1bfc3f4fe6a8f005a0525c2ca744ed5704e8b88387a507"
 metafile = true
