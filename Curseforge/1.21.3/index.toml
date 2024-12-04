@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bf6403a0ae670aedb4d37a52f8e52496d589e941a25cc7321109b868267529fd"
+hash = "05ec4832e838a4aecc3d36259d9e4d6b9d626c42779e39691641f923925ff240"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4e2e4003bbeddc4e7c55ccb973f3e03adef5c38659026ca4d3d72e418472c391"
+hash = "24f20d20729fe24d3fc1cbd8903baf123448bfe80b55f1895a0a3f0511e89c51"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "dba151d7a576945981b8976f025756a5cd6c8707356b29e05b3939bb69078d4f"
+hash = "0dd3d68ed9c8501ff2803c3edefa8eb2c16b09fcfac45ab2456098c8caf8be1b"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "985e9a933de8459ea7593d5387d5c18ff4409543663adf7dac4eec3fddfd3945"
+hash = "e535a62704eb8beaf409ae1e56673069cb7e7bc587ef6ae64b648a4b29674cb1"
 metafile = true
 
 [[files]]
@@ -352,10 +352,10 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "626f0f5c462e8c338049e0883b7f0ca054487b493a4daa3e403ff52e55f6f810"
+hash = "10319c8d08e157ded40294e3ad1a90732b7bcb18f41d3ae604648a0e84a8d838"
 metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "47144afabfbe1a816f1bfc3f4fe6a8f005a0525c2ca744ed5704e8b88387a507"
+hash = "a88bc0d5f2da09c7b5c5e4b010c077fec0d38544bb561115080fef2be9c5150b"
 metafile = true
