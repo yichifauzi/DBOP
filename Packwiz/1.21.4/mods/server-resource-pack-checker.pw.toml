@@ -1,0 +1,13 @@
+name = "Server Resourcepack Checker"
+filename = "resourcepackchecker-fabric-1.21.4-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fCpuZIcM/versions/LGVGR1On/resourcepackchecker-fabric-1.21.4-1.2.2.jar"
+hash-format = "sha512"
+hash = "b9ae68bf6b9f1be9265e459597297683d7eaeccb863aa59d9a4c1ed96f9d05e1d48cc27165e5e6cb99bb39ca00c40563e26a684bc818bc1bc5fb24a15bfcddb3"
+
+[update]
+[update.modrinth]
+mod-id = "fCpuZIcM"
+version = "LGVGR1On"
