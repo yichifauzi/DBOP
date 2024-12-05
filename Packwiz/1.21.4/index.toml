@@ -196,6 +196,11 @@ hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
 metafile = true
@@ -248,6 +253,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d6455abd0deae481e3c40ec33fa388a11c23031971bcf5437330f9aea2f47e45"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "191bc56c6e1f4125bc47670320daaf51d10f18cc1c7011e2beb44fe56f4e582e"
 metafile = true
 
 [[files]]
