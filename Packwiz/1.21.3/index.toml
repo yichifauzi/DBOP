@@ -82,7 +82,7 @@ hash = "4d53f13dfe92c9a97d38c7ba09a82593c5323c400b1dd250e1f60e6e14db90d4"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "f504ba087ee77ecd5a111e372eab535cddea4a7362f59902ccad72a6cb40ada2"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "2c79ebb35bf57daf220b176744f7a43fa85964e18a7d6fa216bb8edc79428cd4"
+hash = "315714be5acef01e67eae71e664b3c2a693d82f551f38c2684a8c0197d2a59b4"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "31aba10dbda9ec7cd1d453231a1af33444ff88ed5b0d3ae536c4375cc127465f"
+hash = "712ba18d98e6e549968641e03cabc50604c362e1a9be9a574b7ab4025b13501c"
 metafile = true
 
 [[files]]
@@ -352,5 +352,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "48bab1371678e19e665b9d8de1c21fbfd4e4390cd00f60b4aadb8826bf45a05e"
+hash = "53f5a73bc34cb329a39b520b419d30aa8942e35ea65e232315bdeddc24b2b16e"
 metafile = true

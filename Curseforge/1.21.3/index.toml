@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "269d1f21df484f7dff9a7e07197375b5a65513b67d2a1a16a1588b6c6f7bf28f"
+hash = "324d5ebfc0c234b6b4cecda8f094c99191d2828e98c82665885b010d6d0ece35"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7f491f8ff6c14b5cea38ff2c70ad82f1ccfe182ed78948c5ea6085ad05b5443f"
+hash = "227d576e136bd00e34958daea951d2ab39305d9a45536557cf91902e33845593"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -82,7 +82,7 @@ hash = "4d53f13dfe92c9a97d38c7ba09a82593c5323c400b1dd250e1f60e6e14db90d4"
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6281ff47d97ea490ca9ec6dc3094dc4c3b3b74eb778c28270a513d4e8f7715e2"
+hash = "917579175d05c4f9f35133cb0cf53b9e17c7db533455df812a128a5e50b852d2"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "05ec4832e838a4aecc3d36259d9e4d6b9d626c42779e39691641f923925ff240"
+hash = "71b4fd29fa7c32acd515f4745e3de2c87c5ca2d47a725cee8039221ee6e9ccd4"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a70039ca9aab299619c38c5275518d345a6ed3a4325b956d6dec62c737b9f5d"
+hash = "f2248b549c0c499e0d29e1f1a822cf8639799c445adb85387cc40e57fc8f60e0"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "987c02c2f31875d512336cccc2f5a9d8bbbb60337a9256fd632f6de25a3c3d62"
+hash = "070f3b65efd84e7d28e84d819e94f1d886ebb9df0d2c8e2e5acc168966a34f67"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "01d60b375f8ab4cff056bd57e8ebda7f6fb3e4878ea3bec688cf78959868d979"
+hash = "440a8c60841d91069a1e7e73f2d59080156728bb4f149b3e40cbd0aa3cb768ec"
 metafile = true
 
 [[files]]
@@ -197,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5763eb2c8fb21b478400ef185b6c0ae7799fba2f015f35ac3b4a7c03a97222a4"
+hash = "e0fa15456389f7e06942d901c37c88294fdcdd981c2e13de5332db06711708fa"
 metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "274107f267c6932e0ab24fd1cc8bfbb20fb8f0b7af0f3685909e218a0e8b4c77"
+hash = "694a98ad8798893b9d1460a01464c1193e72d115c53ae5b8b9d1e3ef84939f14"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e1fc689ef8cb563174e75344f4057aa89da9beb09443720d0242e15884ad9443"
+hash = "e40386f5713560be3a7b06d37db3cbf2f1c7c13c733ec232f33b68d7546bfb78"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b48263b924cf65211ffa2021fb849e66405e51140eecbe44f51337a741d1d434"
+hash = "dca710c8d665fd10d2564a22f365c47a5df04f71836a69128bdf999621f7ae33"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e74c8c85809e38f48ae4a7b9b81e223d953c7cb02928a4647373be519bcdafc1"
+hash = "3264538a68f2e858c3f8279b387e384451e920c567bde3f32b6a444fad3cd293"
 metafile = true
 
 [[files]]
@@ -312,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "24b200d2915572bf782361e64846b6a2044f69cb84963d4d457623b03ba65a38"
+hash = "aeb914b8735cab5e29e2272973f33eca9b0c12dd96f1aabb92ac47d02ae565ff"
 metafile = true
 
 [[files]]
@@ -332,12 +332,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "2c79ebb35bf57daf220b176744f7a43fa85964e18a7d6fa216bb8edc79428cd4"
+hash = "315714be5acef01e67eae71e664b3c2a693d82f551f38c2684a8c0197d2a59b4"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b98677645f091f1dd10168a3191605937408e80b3ffa61e90ff22ae8599ae6c7"
+hash = "345b0f9c876bc180fa19d9ce2888ef4d957f23bc1c0b6a757e9fd6ab5a8efc15"
 metafile = true
 
 [[files]]
@@ -357,5 +357,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a88bc0d5f2da09c7b5c5e4b010c077fec0d38544bb561115080fef2be9c5150b"
+hash = "eff41eb45997a24adf98e6783fc0acf765bead35ad5c3a2f869dfb704f552803"
 metafile = true

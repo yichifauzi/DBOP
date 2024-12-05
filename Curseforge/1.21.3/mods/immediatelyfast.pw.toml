@@ -1,13 +1,13 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-Fabric-1.3.2+1.21.3.jar"
+filename = "ImmediatelyFast-Fabric-1.3.3+1.21.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dfe72706c321037a499034701e7ec2ec33f96037"
+hash = "8703804635fc11d4ab40689ac6492084364b0b3a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5894668
+file-id = 5959934
 project-id = 686911
