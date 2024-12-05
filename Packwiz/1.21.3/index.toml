@@ -116,6 +116,11 @@ hash = "75226fe31d286f478959036e3431292edacf7be2c51012a9dea5d74ff24ebec3"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "72e6b0ace0205854b277730895f0cccfa9c4f686278c472fe0a3f625c8c7a974"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "4d2c83341f911e62074b763440f5b8553096c66dadd599c61cb74493ec99d079"
 metafile = true

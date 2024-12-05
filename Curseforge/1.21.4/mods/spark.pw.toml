@@ -1,0 +1,13 @@
+name = "spark"
+filename = "spark-1.10.120-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "32e1e94c3a219e4ef062b630275c353eb40d26c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5961851
+project-id = 361579
