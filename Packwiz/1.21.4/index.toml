@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0adc76ee321c7103d90e74d36c50c28cc555f54eece4220a16f650214f4db973"
+hash = "175ab9d33ec5d9b9135ec30f1863a8e65435758e174569c9be8f75e8797544ab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "86833411d7c747f8b51937d2503b0fa806bfa4f98ef237c7abce537940e571ce"
+hash = "f0f17d11d9b9ee3bb08f658a6cf45f185f7924903aeddc6d5282cce17003d3af"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -91,8 +91,13 @@ hash = "f1abbc18408577afdca37f201e5fcca3ec702ed39131d9cffab3a6e3747917d8"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "c3dd5f3ca310d0db3d2c5b515190c388ab3c5f266f027d4f765dea4ed925538a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "62a0722e0f2c2bff2bbd8047eda17b9a74dbc35ae86ba307e54f73145d184500"
+hash = "6f87a5233ea7d0d12883f3bdc152d211942a5a5ca5dd7b76d6d915b4a90e7c37"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b560ec1ece536f7ad76fc7515798295683b41acf4392ccd1209397de48146496"
+hash = "b855cfb2d682b624943882eae3871a0981b622eeb249d4992a00516e8ff8156d"
 metafile = true
 
 [[files]]
@@ -226,6 +231,11 @@ hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "6cf5daa00ff062575ae08705c691ee1cefef4ad13591aa1f67474379a5f1d75d"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
 metafile = true
@@ -233,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/server-resource-pack-checker.pw.toml"
 hash = "9e12a0920ab763c8089fa77f8292d4b518e92994c9d7bd055cd7f1592006f62d"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "d3d02754cbff504c75331eceb39cf052fc008996d45dc6e41232e4b43a44f5f3"
 metafile = true
 
 [[files]]
