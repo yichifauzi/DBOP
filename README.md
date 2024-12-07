@@ -18,7 +18,7 @@
 * **Lightning-Fast Loading:** Get into the game quicker with the enhanced loading speeds of [ModernFix](https://modrinth.com/mod/modernfix).
 * **Optifine Parity:** Enjoy familiar features from Optifine seamlessly integrated.
 * **Performance Profiling:** Easily identify and address performance bottlenecks with the help of [Spark](https://modrinth.com/mod/spark).
-* **Enhanced Multiplayer:** Connect with friends seamlessly and show off cool cosmetics using [Essential](https://essential.gg/).  *(Cosmetics visible only to other Essential users)*
+* **Enhanced Multiplayer:** Connect with friends seamlessly using [WorldHost](https://modrinth.com/mod/world-host) and share your singleplayer worlds with [e4mc](https://modrinth.com/mod/e4mc).
 
 <details>
   <summary>中文</summary>
@@ -37,7 +37,7 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 * **快速載入：** [ModernFix](https://modrinth.com/mod/modernfix)  讓 Minecraft 的載入速度更快，讓你更快進入遊戲。
 * **Optifine 功能：**  無縫整合 Optifine 的常用功能，讓你倍感熟悉。
 * **效能分析：** 使用 [Spark](https://modrinth.com/mod/spark) 輕鬆識別和解決效能瓶頸。
-* **強化多人遊戲體驗：** 使用 [Essential](https://essential.gg/) 與朋友無縫連線，並展示酷炫的裝飾物品。（只有其他使用 Essential 的朋友才能看到）
+* **強化多人遊戲體驗：** 使用 [WorldHost](https://modrinth.com/mod/world-host) 與好友無縫連線，並透過 [e4mc](https://modrinth.com/mod/e4mc) 分享你的單人遊戲世界。
 
 **需要幫助或想回報問題？**
 
@@ -45,7 +45,7 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 * **開發者 GitHub：** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
 * **安裝教學：** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
 * **Discord：** dirttw
-* **Discord 伺服器：** [土靈泥土幫](https://discord.gg/eS6ZgXcfAV) 
+* **Discord 伺服器：** [土靈泥土幫](https://discord.gg/MjGznUaQg5) 
 
 </details>
 
@@ -55,6 +55,7 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 ## **Credits:** 
   - Autopublish github workflow from [Fabulously Optimized](https://github.com/Fabulously-Optimized/fabulously-optimized/)
+  - All mod authors 
 
 
 **Need Help or Want to Report an Issue?**
@@ -63,4 +64,11 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 * **Developer's GitHub:** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
 * **Installation Tutorial:** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
 * **Discord:** dirttw
-* **Discord Server:** [土靈泥土幫](https://discord.gg/eS6ZgXcfAV) 
+* **Discord Server:** [土靈泥土幫](https://discord.gg/MjGznUaQg5) 
+
+
+## [Kinetic Hosting: Get 25% Off Your First Month!](https://billing.kinetichosting.net/aff.php?aff=922)
+
+Get your Minecraft server hosted with Kinetic Hosting! They're affordable, reliable, and support a huge range of modpacks. Use code '**DBOP**' at checkout for 25% off your first month - it helps support the DBOP modpack too!
+
+[![Kinetichosting](https://github.com/yichifauzi/DBOP/blob/main/DBOP.png?raw=true)](https://tinyurl.com/3xbj8m3s)
