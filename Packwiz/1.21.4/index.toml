@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "caad51634d9804b362b8de3579cb9c60977efc77cf26b677f6886c7dfc7bc0a8"
+hash = "3297fc07c85850af0bb2ca18373750dfaed3ca61853d9f18e91a48d6631de49a"
 metafile = true
 
 [[files]]
@@ -166,6 +166,16 @@ hash = "74f982840637b38161c0e139773534d159b7f43c9855e7a73bbe17b9500d1a7e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "7572dbc2dd00191632f2884486791b72d245c0580fa550c44aaefe0e2ef55a89"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "58e0c0ca08c45003cdb1775d9ff5c35473f2113a0cfaea7e64eba91f8b5aab82"
 metafile = true
@@ -212,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "d12b136e07f6f83a1e199aabe430426d19702c9f69e55731092b5d5c2f3fb69f"
+hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
@@ -267,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "eb2537dfdeec84afd9d26028c79fc7a87cdcb3a7b0fcf4195808fe1a1aa7ca81"
+hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
 
 [[files]]
