@@ -96,7 +96,7 @@ hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0acb089a07f5a780e2626d83ed2f4201abe7dc3cc376cfab4d42d3699534373c"
+hash = "3c58ee434f55fa4a6926268fc9f60f10ba44ffc299ff78f8955476939567ec40"
 metafile = true
 
 [[files]]
@@ -205,6 +205,11 @@ hash = "a04bb6876591d4b876cee7e6d20bf220d3405c4f0c5ed2e9f46a6b29230c623f"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "5eb68ecd927d343898ae877370b2839cf9e6d599ca7aaee6973354bf06228cf0"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "74ae7de1529608e4144838f3e62c499d464b1d209ef54f1baa0b759a6d6db56b"
 metafile = true
@@ -236,12 +241,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c9ea0d7928a50469694919ba4c15a4f3fb7c5760ddf3c9f12a15b6594edb31a2"
+hash = "10e63f03c57e2bc480447f0eba345edd990a900ff3435e50f5b62816f574295f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9a2cf1b5b5f996fdecc1c2b099fc715b20996bb0bd3b22b2af2588ec2abed567"
 metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d4e1417fa602f63d09d9c0b28ca60bf38f9a5541e73d522a082a6c6f5b04c36b"
+hash = "1c34733124a0547e2262da006c2e907fc5a02af1098f67f8e975becc8e8ecb1d"
 metafile = true
 
 [[files]]
@@ -257,6 +267,11 @@ metafile = true
 [[files]]
 file = "mods/server-resourcepack-checker.pw.toml"
 hash = "702be48fbd5d6960afb3515ffc645220088b15bf7b51737fbdbf8f52d53425f4"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "ce5f7aa76ac627374122c2d0fde8522e932d98ffe1c3dae8bf5549a3670fdbae"
 metafile = true
 
 [[files]]
