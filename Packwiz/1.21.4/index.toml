@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "b745c9e3272f9d1ce042acfb952611e0f745cfbf723519e4e56593801d1495cb"
+hash = "e9a69cb76b4f699a040f2c4aa0ce8964a11fa26c263f3e8dd0ed755f96c4b42f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f056bcdd05722141fb12a75e49f23f210a047691711f6d6d2f4558a029573bf7"
+hash = "1355b56c2ec13e78860bca2bc83434174c7d5f4e387725a1fa48261d4d4e9e58"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "40523bbf1eafcc47703812111488ba3b981c0a355f086b68b7b6518bc4664404"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
+hash = "12e4a6fd87fb7b6e7fc5e4c298595a0b2514788b6bc8f9be30988a39dca25460"
 metafile = true
 
 [[files]]
@@ -281,6 +281,11 @@ hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "9e40c745e0892d61484ab451019bd87f8a90fc18b2f92e29e3a4a8d2e70e6384"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
 metafile = true
@@ -312,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d6455abd0deae481e3c40ec33fa388a11c23031971bcf5437330f9aea2f47e45"
+hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
 metafile = true
 
 [[files]]
