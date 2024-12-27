@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "44bd672c705d361134263fb05f6441a447cc04ab51f2ad804721abcb98ab7cf6"
+hash = "30f313c98d15205eb32ba400a53832155180c562bb29d72377c583c7859a36ab"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3f032ca0324e6d7cc2126a05e812487f14d7ebd911ff15f510386b94481630c9"
+hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
 
 [[files]]
@@ -238,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
 metafile = true
 
 [[files]]
@@ -282,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d3d7d5d08b8a7c6547eb9b73bfde0f82ab3b7fa66cd1ca647f16341582cccb7a"
+hash = "95fb2702c76c1dee3e37b534c196f9184f320e99260f9990689374a7f073214e"
 metafile = true
 
 [[files]]
