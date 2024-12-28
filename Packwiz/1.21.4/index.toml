@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e9a69cb76b4f699a040f2c4aa0ce8964a11fa26c263f3e8dd0ed755f96c4b42f"
+hash = "a138f8403ad4ffa57318bab72f3603443df46b764ebf921030dd8e34c3589e95"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1355b56c2ec13e78860bca2bc83434174c7d5f4e387725a1fa48261d4d4e9e58"
+hash = "64c5da31eaea1c6d60a17de4eaba00b65b175754acf1b429ae888eda39e358e6"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -123,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/concentration.pw.toml"
 hash = "75226fe31d286f478959036e3431292edacf7be2c51012a9dea5d74ff24ebec3"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
 metafile = true
 
 [[files]]
@@ -347,5 +352,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a73b4b7a889438f774e82d69a2f0f70cf70bb034d5f2640db5c5c66dc1a27801"
+hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
 metafile = true
