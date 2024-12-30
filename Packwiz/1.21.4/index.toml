@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
+hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
 metafile = true
 
 [[files]]
@@ -298,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "354ca35e2a2990c6990b3a2c6e00b6843f494bcf274db799e6a4c176a555b92d"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "49cac0ae82603687dac976b2f630c3d191a9775f8ef881300ac6ed5552c834d5"
 metafile = true
 
 [[files]]
