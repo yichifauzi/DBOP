@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "30f313c98d15205eb32ba400a53832155180c562bb29d72377c583c7859a36ab"
+hash = "496e8485242975c4581ec9d7935b28b0b9806b6916f9e396a6111162f830cebd"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "bcbd945ea5f8e825404ef9fc062feb64814c38a999c32e46942fce735c1573d5"
+hash = "2fe5e448a5e773c58e9cef866fbb082bf47d8177eeef751de0b35731fb24fa4a"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
+hash = "40aa9a34a6ae8d39fb3e8fb8d7ae2edfd17fee124300a1ea26c65f06cff89de9"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "95fb2702c76c1dee3e37b534c196f9184f320e99260f9990689374a7f073214e"
+hash = "08273f1d10e0dce2be336c9a31c40a5f10ec26af32bda6b7d3c8c49d04887635"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "49cac0ae82603687dac976b2f630c3d191a9775f8ef881300ac6ed5552c834d5"
+hash = "0c3b529ef42bed18d541942086fb8612afc03c1826b0d6532a66f12f3a9987eb"
 metafile = true
 
 [[files]]
@@ -357,5 +357,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "0dc4a9460a5f22cb0a2b60e8d9409de9d068833139996837662de378813410c4"
+hash = "f2ee5af84e4339e060a2d9ed661b0f6c3738686f9c3b6232fdddc82202e7f10a"
 metafile = true
