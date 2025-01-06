@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "a138f8403ad4ffa57318bab72f3603443df46b764ebf921030dd8e34c3589e95"
+hash = "34d11eb5488879c1dc45363c511283b517dbb63aa955b8be0836783228952e23"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "64c5da31eaea1c6d60a17de4eaba00b65b175754acf1b429ae888eda39e358e6"
+hash = "b5deaf9be5d25038b5ce6f1413a4b27a02c48856374530fcbd984f38703f897b"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "7bad16e7ce51b3bd207fc53ad920718afd38bb3b091964392a5189d0370d82e1"
+hash = "22084f9a8277c7abf8679e8b0e6e708a8fc7dc1387dda7dbb9428c544c286541"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "08273f1d10e0dce2be336c9a31c40a5f10ec26af32bda6b7d3c8c49d04887635"
+hash = "3d761931375d8a331c119af937cb11274b5fd5fb8da6bb7d997feac58ec88bdc"
 metafile = true
 
 [[files]]
