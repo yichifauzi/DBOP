@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "16e29f33c96073b1ab1a08973c963e6dca2c63b7b794c53dcb7c7c89fbf4d1ba"
+hash = "8a726d117cb9a5be74d1433732db2954dbee9d70fb4df2998e83a39ffc9931be"
 metafile = true
 
 [[files]]
@@ -191,12 +191,12 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "0dd3d68ed9c8501ff2803c3edefa8eb2c16b09fcfac45ab2456098c8caf8be1b"
+hash = "30a8ec12e5894f1e689e9450bf3f5885b2d601f67f37df802d00ec76a37bbe6e"
 metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "faba1cf0498d413341646b899d6b1fc0897b0dbdcdbd08eb83e09c213873d400"
+hash = "43c0839ad560b1bc8dbf64203b6e1a35f8e04df0db8eaebbf274c3e7b929766c"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1a10ceee4f3b085a110c34446ab903dd066b35d651927abd92063428d7a00c01"
+hash = "214b9209a68ced15e60554abeeb3c6d1394a2775a89519c99a4c6d93051f4b37"
 metafile = true
 
 [[files]]
