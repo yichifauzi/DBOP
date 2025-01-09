@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2fe5e448a5e773c58e9cef866fbb082bf47d8177eeef751de0b35731fb24fa4a"
+hash = "4f35232b9f4f95621b8aecfed3640e2694341bed31435c1a2307a6ec982f1bc7"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bf083b2f99fa3cc0230ec432e0b6e5f4a1eeda5563c8f22cec3474b78dc74121"
+hash = "010dbda409c0c2f96ae0b2ede06f1c3583b1c4ac634d145b45606238f89784a6"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "ee3e68cc2128d7416060c63b8ca1050f8ad8dca813ae7f4be5c9f63198e2d3d4"
+hash = "91a73d149ab0a877d9a0ab5c10b0938ca049f23e23632db31aea834cd002252c"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2d5d4b9665e426f6214e33f30d9c523921cffae80ec502a57e8650dd43906a09"
+hash = "90b2c0e8794bdb55fe220160c69248bf7ff68450f98d81d2436cbf2fb94df19b"
 metafile = true
 
 [[files]]

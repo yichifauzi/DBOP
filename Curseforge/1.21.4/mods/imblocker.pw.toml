@@ -1,13 +1,13 @@
 name = "IMBlocker"
-filename = "IMBlocker-5.0.1-1.20.6+.jar"
+filename = "IMBlocker-5.0.2-1.20.6+.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "79704c5f79dc7d1d8f9211c27b010d25680d86e1"
+hash = "0023646959d5b7ddf4c2892b5d469398f40e88cd"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6063525
+file-id = 6065356
 project-id = 483760
