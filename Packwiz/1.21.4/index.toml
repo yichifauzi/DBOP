@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "34d11eb5488879c1dc45363c511283b517dbb63aa955b8be0836783228952e23"
+hash = "4f996f081ee0ba627619e4c683ab8bfc83e96cb08d5f538b44b6f174028e24df"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7c924d6256d9ec1f9f077b6d4047a6b15fda6b3b529a8e60dfcceb7a954b20b2"
+hash = "b784e5f8696199a8ee5b67329c8118e996099eb9ee96269d9c46cac80f1b916d"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "010dbda409c0c2f96ae0b2ede06f1c3583b1c4ac634d145b45606238f89784a6"
+hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
 metafile = true
 
 [[files]]
@@ -316,6 +316,11 @@ hash = "d3d02754cbff504c75331eceb39cf052fc008996d45dc6e41232e4b43a44f5f3"
 metafile = true
 
 [[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "1892739fdc194e0f77059d8695b258a76dbc6c92c73eecd79ed73233ad52a1c9"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "56a0e243140dc1dbdb89c5a7a1cbcbe6e8d6da5499242bd1eabf548bbb8e3481"
 metafile = true
@@ -331,8 +336,13 @@ hash = "16e02f523c718baefd9dd42b24bd1aeb7c1142ff0e46a512e958284158bd8461"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "1c137d989a144a658c564d77658919ed50c6a09ea8624037976425f0b4c7128e"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "9906f7cbfd75ffd5ae8c1e19c874a1648647c2523fdcce50f64f2b8c08e29ae6"
+hash = "2f6deeaf10c0cd2fbd24532d8eebb99e43348d3849ef91a197283b06ff697e8a"
 metafile = true
 
 [[files]]
