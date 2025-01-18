@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "4f996f081ee0ba627619e4c683ab8bfc83e96cb08d5f538b44b6f174028e24df"
+hash = "0858c5471d40bcc0a4fadf59d673bcc2536d97cb5989fe4d45e80458dff35b8f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f9da36bda47df568a7bd73ef4f0578670b683887699fa7299449b85399e2efb7"
+hash = "83d87689862a15d729fee17dcf08702e3c0f0def1a2711a018b9ebcdcaaf42ef"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -101,7 +101,7 @@ hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ff4afcf9f09d250873c7139f322104e8f12a2a3e9097e56aadf31468ac971d4f"
+hash = "477fca68ff11f2d0c0b7f153a797de964d07b0b0c052f3444f0a121858f2e6a6"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "32d2351af2822fd81d28fc5f497bad14a65e13176dfa70a4a5f7f2c8b5769c11"
+hash = "dbdf07684c81762c884b2350e0b925acfa44c8b531392d2cc1b8d492d2c90db4"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "440a8c60841d91069a1e7e73f2d59080156728bb4f149b3e40cbd0aa3cb768ec"
+hash = "e817e0e4ae4b487d86bd80760df6ddcc351d29a9e3eae483de8ebdb6b4f3c2b8"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "30a8ec12e5894f1e689e9450bf3f5885b2d601f67f37df802d00ec76a37bbe6e"
+hash = "ff1bce4ce7a9ce6301e25de636f61e6cfa993c994ec2f44bb0f4c5bc5127f78b"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "74ae7de1529608e4144838f3e62c499d464b1d209ef54f1baa0b759a6d6db56b"
+hash = "4f96609590d57850e3cda17e5532b9ac54e6e2fc38da6b4fe44b5bd2b125644e"
 metafile = true
 
 [[files]]
@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c132b0db998dca7306563d091899b1ab66cf61af596ee5e399d0a77b19f4e4ec"
+hash = "0ea62435108179218ed0de225afce2cfc463795ec3d61be6c92cbef552d8945a"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "eb777bf5f444869814a2dd5aa9590ff3fcdbdd094a43de421d30896666a0fb96"
+hash = "2494505990ebe04a740fbae936efdf4d24a52071c04d3b73d215b9539e59817b"
 metafile = true
 
 [[files]]
@@ -371,5 +371,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "bde4533aed92d12e1a59d0742fb32e6f815bd08054a2f7329799f1dbd7c70da1"
+hash = "69a520bade3263d3132683c60efeb174c1b14e7b407f178923f70f62daaad4f4"
 metafile = true
