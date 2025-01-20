@@ -2,11 +2,15 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "0858c5471d40bcc0a4fadf59d673bcc2536d97cb5989fe4d45e80458dff35b8f"
+hash = "e384044c21cda031512091805f43526b301b14f7ca82a2703bf12eb0e6502ca3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d326d0b91c08e856d7d35063ef6c7211815831cae1818bec52590ec3ceaf3242"
+hash = "e2daa47a2deb6a22b9ad28c84ee32f2221a3b609470e3369bce83f73b64fe778"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -42,7 +46,7 @@ hash = "549798bcf6bb131ad6989f6a14cc1402550a4e5be1aaee40b069fc7f73efec7b"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
+hash = "ff2fb838e13e529a5939896a0775595c2e0c9d1288c7afca76ff1d3fd5646c97"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -143,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "febc2016ef228d816d7a19f5c02357674c664e565a338a42a08c80cd4ca00cc0"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
