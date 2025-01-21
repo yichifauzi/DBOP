@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "21f832cbe722173e7493cb64b4ceb148a6297435461ccbf07abd5021c61038e6"
+hash = "caea06486ed4916d942e861a7e6c1614c0f6e37622693c1b18150c67bff3afcc"
 metafile = true
 
 [[files]]
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "4f96609590d57850e3cda17e5532b9ac54e6e2fc38da6b4fe44b5bd2b125644e"
+hash = "58be53eb2e93b7be20fe98475e27ef97ba729c608578fe89682562c30787fcdc"
 metafile = true
 
 [[files]]
@@ -291,6 +291,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "1c34733124a0547e2262da006c2e907fc5a02af1098f67f8e975becc8e8ecb1d"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "ab47423db321ac0200e6601565c59c2ca67a480b8e3213d35426530ed0b541aa"
 metafile = true
 
 [[files]]
