@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e384044c21cda031512091805f43526b301b14f7ca82a2703bf12eb0e6502ca3"
+hash = "1db8392122be42b86b50b891c741c2d96b3416baf82f9fd70519ca023513cd72"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e2daa47a2deb6a22b9ad28c84ee32f2221a3b609470e3369bce83f73b64fe778"
+hash = "180bf0021aaf3ea5b7c30502a438be8bf371a83499666977075c4e369c87ad95"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f8f6a4d3c8d6eef51a7a4e4fb6cc5cc54edbb739694cc991daeda8e3ee98a553"
+hash = "d185d1808491330eba51328b2c822a823776ab7d4362255507d67a547025616f"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "e9b878a33e2dcc2bb2a347977d4d6e0f65be41924c8ccf02b1491fffc6ebbe05"
+hash = "1ea25a7af36e8fae96f05d9ebd50aa0aa5018064349cd86d4c4586fd1c65c2b8"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
+hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "fe4b38a0e9f95b5456597a405f644303fe17638e6d382031fb918683a9baffa3"
+hash = "de71db1e4ff087d579c4340efe7bba4eb5eb148b9521a1d4d526af66de74a7a1"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
+hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
 metafile = true
 
 [[files]]
@@ -256,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
+hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
 metafile = true
 
 [[files]]
@@ -317,6 +317,11 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "0c3b529ef42bed18d541942086fb8612afc03c1826b0d6532a66f12f3a9987eb"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "c2310a0880bfee05469c4185390e49ef69496ebda4a9508a322b16c39dd24a96"
 metafile = true
 
 [[files]]
