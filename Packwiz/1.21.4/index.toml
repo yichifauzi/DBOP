@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1db8392122be42b86b50b891c741c2d96b3416baf82f9fd70519ca023513cd72"
+hash = "08e56914065ed234c607b0423928aba969d6cb670b715985d2c6316ea283faa0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "180bf0021aaf3ea5b7c30502a438be8bf371a83499666977075c4e369c87ad95"
+hash = "aaa3beca4dfe1b85ddb70ce53aeaf59f6587cb84ee4466efa141c48db57e59b1"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d185d1808491330eba51328b2c822a823776ab7d4362255507d67a547025616f"
+hash = "e3550af2fdf8bcb734926839e20a0abd7de777340896ed023466cf743b22b106"
 metafile = true
 
 [[files]]
@@ -171,12 +171,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
+hash = "dd4c3c3ee97fa946926784db25da0b5a9984c9959681f412d6b402cc5bdfc83e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "504e426cee2a2c29c18c4824512025c2493f384659a903a61d872e9dbe4e5b1d"
+hash = "ba791b61aea6def351d0b7344f45342141a17c1d9016c4e949675f2fc7665b7c"
 metafile = true
 
 [[files]]
@@ -331,7 +331,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "d3d02754cbff504c75331eceb39cf052fc008996d45dc6e41232e4b43a44f5f3"
+hash = "03f640602a916bf4af3b916e0e0a51d2447b9e77a85845d7b1c1ac7ee7d1a867"
 metafile = true
 
 [[files]]
