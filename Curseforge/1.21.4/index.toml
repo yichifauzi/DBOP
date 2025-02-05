@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "ea05a72ff9223e9a892a0d85e45cca37c23bc44796a2bc9ee452c042816fe6a7"
+hash = "352175742665ac35da00f24add6e133843bd696d2cece43e667c865a28cadf45"
 metafile = true
 
 [[files]]
@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "3cb0fe14a2874a42004031d5c70260708fe5e9ab1446091b43c626ee3f21fa9f"
+hash = "e63eb83a3803ae02695c492ae1a61de24f2b46448276050dbb5e4fa70c9bb6f1"
 metafile = true
 
 [[files]]
@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "09ef6a5bb2fa25694e8830fda0feeb1519c39b444d18b8c91fe86e06cf0e88ea"
+hash = "9255b49c8f675ef70f1ed60eec25dd74193d66910a2201c4316b397c4052fa70"
 metafile = true
 
 [[files]]
@@ -390,5 +390,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "69a520bade3263d3132683c60efeb174c1b14e7b407f178923f70f62daaad4f4"
+hash = "c09dcce436d40e7997e03d4fec64afd58d38993a1b23b18fd655a3a3c6ae5a35"
 metafile = true
