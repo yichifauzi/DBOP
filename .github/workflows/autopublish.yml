@@ -5,7 +5,7 @@ on:
 jobs:
   publish-to-curseforge:
     if: github.repository_owner == 'yichifauzi'
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: github-actions
     steps:
       - name: Download pack files
@@ -45,7 +45,7 @@ jobs:
           name: "Linux 64-bit x86"
           github-token: ${{ secrets.GH_PAT }}
           repository: yichifauzi/packwiz
-          run-id: 12177843820
+          run-id: 13148261008
       - name: Export to packwiz
         run: |
           chmod +x ./packwiz
