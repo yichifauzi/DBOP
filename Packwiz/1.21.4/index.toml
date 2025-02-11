@@ -106,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e694821ca01775e2d5c3cb9fbf94f2f371b560f0a83dbaffcc607bf031c8035e"
+hash = "fd77c9acb7d638b7cde4bb46b8aac239d808155c51b3e40ebbdeb40a1b80e016"
 metafile = true
 
 [[files]]
@@ -187,6 +187,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "74f982840637b38161c0e139773534d159b7f43c9855e7a73bbe17b9500d1a7e"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
@@ -306,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "2284fa9696699730fcd34f36d6c728742da0dd31c30de1848b631b4eab6b701c"
+hash = "0350ebc0042d86eb03d1ef9c3615ded0a45e0e75a641fd6077b8d5e2fc3f6164"
 metafile = true
 
 [[files]]
