@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ef2f2f95ae4ad1d1546f6e8e40e306842d0116c9e644c93b13019c205c51a4ef"
+hash = "be077288eae29577dd6e76da6ac7709dae4c3e78dec6513cb80365773340dad5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "77576e4c31e06a16ba7d61d08d605d0a9895ee62e64beeb18b91a16b60775984"
+hash = "0e4bc9d82300111527582c997d7532df313b356732eefb7a978324efcf937ab6"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
@@ -105,7 +105,7 @@ hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "25e9d802d3201147f8d66404617175385c596d4ea6707d7f07d1d4954ec2e6dc"
+hash = "e004c6fdb8c468696c25994b779558d9c4e007182458315ff313d88b56baef38"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "f2248b549c0c499e0d29e1f1a822cf8639799c445adb85387cc40e57fc8f60e0"
+hash = "a896e7a22ead9d7ecdd5401be8e528279e57844632e4c1b125b2941f4a20c44a"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b8bd15eb165138ed3547988cb4d80ea9ecc4108ba64f255dc92135013fba1a1f"
+hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "4a4a5f685d480327c4279d3a28a13bc7385d4b50f104930f28a4b994c4abfcba"
+hash = "bccd1a225c530e77959f2a62e0108e444edce1edc2a4cb029824553a72b380e7"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "58be53eb2e93b7be20fe98475e27ef97ba729c608578fe89682562c30787fcdc"
+hash = "10d4823bf19a5674d0f43301bd46e2913abd3c5408990c83fe1874821dd413a4"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "0e50f1e2992c93549f52b2acd574e581b02aaca14e62cc193f850ca24b768092"
+hash = "9652ab3e3e46e2a472c2e3794939560effdb38ac8436c1dc7f318ad5485b37b1"
 metafile = true
 
 [[files]]
@@ -350,7 +350,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "02bca8340d9fe602351463736e3fc2897c4be56bdd6cd54c13a88f8f127fd559"
+hash = "043e6d0df38b98ab19fc8d04c1224c282c7b36c17e8847e72c594e4dfbf534d6"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d7c8760b77363eff68a826981da645ee717e01a723884c736a378da49e975361"
+hash = "8575149ae75d9a7541c3555ca8cf0fe66553ff950525dad3380ee7ec24d651c7"
 metafile = true
 
 [[files]]
