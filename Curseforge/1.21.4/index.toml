@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b4da7761a4858fdb3428700e76c3fe8f8ecb6d7126b842e34d4d00db8e1974f0"
+hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "bccd1a225c530e77959f2a62e0108e444edce1edc2a4cb029824553a72b380e7"
+hash = "4b18eb3f964a34971bb1e695f3c9440a943913db4b72dca51730e2754b2f1866"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "e2ebd106e025f64d670b7cdc9d64a9539f39984a505a0ab18a04dd001b142c73"
+hash = "631bee2b9cf4bdc733e6a35ea73b0dc83fe76734c48c10d169132af1c8029304"
 metafile = true
 
 [[files]]
