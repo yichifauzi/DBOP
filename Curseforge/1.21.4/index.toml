@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "578dfafe15b49d4039ae43ee2b627b03b2591a20718f191a3bf6b591335859a0"
+hash = "40a8b705566d8beb9ad3d0addbcaeab56156e985654e079d33812b41193c4161"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "149f6da38b0a3481f9eac04ef6057de97b6367b6fffe052250e0b2adcd6f8821"
+hash = "313b33ac6d70ad1f142376b2ab66f658e46cb4ff36361f32cfcbc25427079177"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d30a0aa27fb9e37436e0487e330162788b02439bbe3faa2e73ba5eb086011c9d"
+hash = "9aaca1495dc99be5f81c754a7c21a906d1bebc58e4c058045a0d3ae90f97947c"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "31b0a063c3052b68c11130ad864a2c24ea29261e43df0f69cc11f70ab75eff8a"
+hash = "645ffb5a991188297235b7db2d6b62ad9e6c9979c4e42d3d052128be2c53c6cc"
 metafile = true
 
 [[files]]
@@ -201,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "e63eb83a3803ae02695c492ae1a61de24f2b46448276050dbb5e4fa70c9bb6f1"
+hash = "bedae9a88adfadd5354fc20d78e4a81aa1fd116f9233c57a493d0448aa8aeffe"
 metafile = true
 
 [[files]]
@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9be3ccb28710d96c50adec480d853f292a42d96e93603bb46b6e0010a252e60d"
+hash = "3d7db29c959c6f79cd599eadaf8b35005b7d06ead070bd6eb87bed3c6b101350"
 metafile = true
 
 [[files]]
@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ad24298ed99cd5b68fa2b5adbc41ed21716bb3186a7284cb11ad79b73a2927d3"
+hash = "32305ac158c1cd10d9544a69371a9c541e5c05fa16c2f474365cb6dbaf3bb014"
 metafile = true
 
 [[files]]
@@ -391,5 +391,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "1fdceaeb727b1e2262b8f04920d8d83f50c5f83d7065052f617c1b5453c44de5"
+hash = "e729cd4b468066dd10f212689b99fd3759d6e6a084bbb6dbcae6a567f9a8df32"
 metafile = true
