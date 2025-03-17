@@ -1,13 +1,13 @@
 name = "Noxesium"
-filename = "noxesium-fabric-2.6.0.jar"
+filename = "noxesium-fabric-2.6.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/x8WXZz1b/noxesium-fabric-2.6.0.jar"
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/TKTiiwCx/noxesium-fabric-2.6.2.jar"
 hash-format = "sha512"
-hash = "9c66bfcbc5f9d251cc23c7508a2d663e5cde757bfb2655413313649d86cfc20477a697a5b287a472094afdbda32fecb01dd0b3ad66d7257041720918f4cb661f"
+hash = "acb9d5c1b5a1c5e01a4c0a41851037c17ddb28670ffccfed6d31e724c0831783e6751a7a4ddab23c7b018e9b14c083587f3278d44c7e35226fecbc6c1d6e0dee"
 
 [update]
 [update.modrinth]
 mod-id = "Kw7Sm3Xf"
-version = "x8WXZz1b"
+version = "TKTiiwCx"
