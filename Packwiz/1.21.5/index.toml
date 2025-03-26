@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f2b7336fd586617afe4819169960031515872e09e7377ba2f7fb8f882e882a22"
+hash = "35971c1f3c94b1633345b07f520809d0a97eb015cd5731b2e28e1d92739755fa"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "666c9caaf9df43aec763d2042629fc9b02661e894762e4f51badbfa3ed603513"
+hash = "8ae9397739d984ef18e1ea5e8af91de83825f0e59fc2004d1fea4a5b12ff4948"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -91,11 +91,6 @@ hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
 metafile = true
 
 [[files]]
-file = "mods/betterf3.pw.toml"
-hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e339de89e3b69a540ebee06c3b6d1a060f42f9306f0f618f1139d7a96c43d8ca"
 metafile = true
@@ -167,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
-hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+hash = "bb7f9b806b59200addb38bb67106a5e5ccebd44f350bf65e9d821b37719678a5"
 metafile = true
 
 [[files]]
