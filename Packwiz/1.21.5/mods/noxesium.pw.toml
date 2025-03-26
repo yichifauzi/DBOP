@@ -1,0 +1,13 @@
+name = "Noxesium"
+filename = "noxesium-fabric-2.7.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Kw7Sm3Xf/versions/TumPv5iF/noxesium-fabric-2.7.0.jar"
+hash-format = "sha512"
+hash = "50a912a59e47ac806e598064285eee3e3748481fe2869e2c805f90a022818090321098fba4bc6c44eecb7b5d55c7c981551602e6db2a8f86390dbb56ca6acbce"
+
+[update]
+[update.modrinth]
+mod-id = "Kw7Sm3Xf"
+version = "TumPv5iF"
