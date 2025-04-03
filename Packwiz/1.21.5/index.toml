@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "19f771baa9eedb0b2eac6ac6a65154468d999f51ade71b806a344e75b0da5dda"
+hash = "749b2053cd92c79fc210635b6fabebedabc1b4c467dd9af1f2fe85cd94bf1783"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "229060dbd7b4293da29f21992c49f4edb6f7693d720cb7a2179cbb36d86222fa"
+hash = "ed53a5e75a5917a2b2161b675b9800ef01f09af1be620443c967017c0a7cb38b"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
