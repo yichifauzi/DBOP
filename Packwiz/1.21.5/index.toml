@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
@@ -201,6 +201,11 @@ hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "e26dacab5ed497b7bf6500e389eba5e21cd4b9d7b38089045cd26818a4d2f589"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
 metafile = true
@@ -212,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
 metafile = true
 
 [[files]]
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "7dc0119dac2246a00a28a73c128bc2e5275fa8c61dfb6024ef75476691c95a00"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
@@ -247,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "a1414aaab2bbe4d4803b7df70cd8c76baf563d67bfbce44d9ef3d4a19a7445a2"
+hash = "6af91242ed5df0039c2b7a22fb954a212ca63307edcd0cb2b10cebefefdccde0"
 metafile = true
 
 [[files]]
@@ -281,13 +291,18 @@ hash = "6bcfe80b0a81aa497c99741c11ebd49a44bf09c1f41eefe9afe251f601ec2c8d"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "38558115d3fd1ebea2ea2c9ab25c729dc9058f63946923d09d78e7b21698950b"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
@@ -303,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "0af1ab53ce68a6850cdd1071d3291462ea816dede99cc34e92b8a430a359b900"
 metafile = true
 
 [[files]]
@@ -322,5 +342,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "53730f97f8aadfa02f11f438e31473c07c37e1ed299b0ba6a2267b958224f079"
+hash = "459c51e286e28ac5bcf7b3840e84f7985f480ca8a2304827f5eafe73a322edea"
 metafile = true
