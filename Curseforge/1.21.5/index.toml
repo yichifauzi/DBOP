@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "9857f543e1fed6e69dc0ea677fa9938e3b4d5b9f5dfb4e9153a3b9806988a789"
+hash = "f70b2f60e327f74e2ff5d942ec7736c6ee80060d1dff30534772a3384a2204ca"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6c232dab3c9d9fc699b6d318dc304cd2cba05c6ea1c830f76e982b38c60aadab"
+hash = "73d4f8bd71c210956bffba30ab22a513c34468021bdbd2ce38b4c981eabf9fb0"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -125,6 +125,11 @@ hash = "9ad73507b8cbb7444805a6f0e06f3d1adae75dd3169dc47b1e541c7de2742f12"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "a4f8c0dcad7e8b544b9da4e333880a4bae1701a3a06a7bdc8d85d12cae3276de"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "1709e90f9e061cbdfc40b2dd1e40d82cbd1718f0fcb4a679ef69b4ff5911856a"
 metafile = true
@@ -191,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7bd4a2bf985d29dfa72a08b0daca1ecf3e38b11ac806405e4819a31297cb2df6"
+hash = "5d0c90f497494bce16cb26f5010a744dd1152a5104bd5db603cddb6e7d09314e"
 metafile = true
 
 [[files]]

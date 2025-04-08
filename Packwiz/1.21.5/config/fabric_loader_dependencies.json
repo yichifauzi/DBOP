@@ -3,17 +3,12 @@
   "overrides": {
     "fabricloader": {
       "+depends": {
-        "fabricloader": ">=0.16.10"
+        "fabricloader": ">=0.16.12"
       }
     },
     "minecraft": {
       "+recommends": {
-        "DBOP MC 1.21.5": ">0.4.0-alpha.4"
-      }
-    },
-    "forgeconfigapiport": {
-      "-depends": {
-        "minecraft": ""
+        "DBOP MC 1.21.5": ">0.4.0-alpha.5"
       }
     }
   }
