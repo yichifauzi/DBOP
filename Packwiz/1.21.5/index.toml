@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7b6fa67d6a3b59c78f16599880d01166b02465bfd4e90735998201085603adc4"
+hash = "70174dc75e9407ef54ad21fd63da118dd4e6b985d0aab0f6baf546f7eac89951"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "93ae2c915af750e95dd137ba66a821f7e736f7d4b4dc705b8400be0efa161a8a"
+hash = "0900f7b1ec0016e7ac0179d9c70d2ee862ce5feac59fb143843a8e34663a8526"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "9b464a0f35326b4d2c7f3f39c46a2403058e1871869e2e43fa137420bf20511e"
+hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
 metafile = true
 
 [[files]]
@@ -197,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e6d4d558cb61b4aec327bc3dd5eb1f1166678b84478649086aa837f5b9bb22e9"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5c9683d8cfd28ef39e4153dfb560b79ed287baa2a5b7d9fadaeeedcaa566bb74"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7e779d2c04c75a90512781ade5c929102aae28c02bf0fcd78875111614b82005"
+hash = "dee7712131e72105b1a9dafe6e103308e33023a4a48ec3b3868298d8d6c4ed6c"
 metafile = true
 
 [[files]]
