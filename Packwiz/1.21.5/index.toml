@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "70174dc75e9407ef54ad21fd63da118dd4e6b985d0aab0f6baf546f7eac89951"
+hash = "8805acf6f7abd76adbc287c9ff112aa29b485d3d68636a520ce6a54bd8bff04d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0900f7b1ec0016e7ac0179d9c70d2ee862ce5feac59fb143843a8e34663a8526"
+hash = "4325b037c9b1ff7ec0bdf95fa09a64e8c9c70c08162720800efcbcde7d0395ea"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/noxesium.pw.toml"
-hash = "6af91242ed5df0039c2b7a22fb954a212ca63307edcd0cb2b10cebefefdccde0"
+hash = "82a1a8f6cbcc22ac954c45455e321f223f890f20e958382004b19d1b601dba50"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-core.pw.toml"
-hash = "26af8dd5c551fac4488fc9979cf8616ac71df8dae2a9547c80ef92c6e95d3d05"
+hash = "35806b3163ce2405e55abcda320300fa7a133f2f67ad453c7d3631d68a5ba0e2"
 metafile = true
 
 [[files]]
