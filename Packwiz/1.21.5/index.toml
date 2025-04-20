@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be371b92fe5c461c432775db53386c4b08616f835aac739fb93c2aaf290b31e6"
+hash = "5e260748e4ca7ff45ed6efb8e23a312c22929a25149a43b09c0c7da18a394dfe"
 metafile = true
 
 [[files]]
@@ -212,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+hash = "4847958325b3120f07c26395f42a2710154b73105a1d3dc89ad7553404f60014"
 metafile = true
 
 [[files]]
@@ -347,5 +347,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "c7fba5f4fcf669b23a37865cf687bce857f1f7295c8ec1fb7620583dee9625d3"
+hash = "6fed808df2d693d4e2b5e75e5080e3b1e3dbf0c644cacaf46b8ea3cc919a522b"
 metafile = true
