@@ -1,13 +1,13 @@
 name = "Noxesium"
-filename = "noxesium-fabric-2.7.4.jar"
+filename = "noxesium-fabric-2.7.6.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9be827bed8e879b4069e39c39906c3fa4af3d852"
+hash = "846be942a322da9f7b5c22886c03512352669499"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6428544
+file-id = 6474466
 project-id = 1166754
