@@ -1,0 +1,13 @@
+name = "Simple Shulker Preview"
+filename = "simpleshulkerpreview-2.4.7-1.21.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/MLwpdyw5/versions/crUu4ogc/simpleshulkerpreview-2.4.7-1.21.5.jar"
+hash-format = "sha512"
+hash = "ea9a8476b6ffd44bf37a867ff3a33dd705631375d233ea25d20014d2833b4576f9fa7fa11bf4b989036527877e00005265036d8d7133387b977cb12858dc38be"
+
+[update]
+[update.modrinth]
+mod-id = "MLwpdyw5"
+version = "crUu4ogc"
