@@ -137,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
+hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39e74c68e13599c9f8a5e00a07085988d34e3757e56be89503dd2259ebd12f5d"
+hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
 metafile = true
 
 [[files]]
@@ -263,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "cac16252f20ff8a629a434e3a9e6648b9ba154208034b87a32c6bbb75d1b03d7"
 metafile = true
 
 [[files]]

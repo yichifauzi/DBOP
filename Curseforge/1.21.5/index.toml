@@ -101,7 +101,7 @@ hash = "27f9820bd3c9e88f9a01c570d1e95c612a13939adf247c64aed040c0e2495996"
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7314b8f21bf452ce4ad16d907bf13bbfa049c4912315c8fa0ab269ba82ec0de6"
+hash = "e29ed9c9d990870b01efe387686abeae55c6bc77e89e22d40c4359f94487cb40"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6f156f97455284eefbc43e907ae46fef1cb6c5d8a470dd55f45dc5a88fc81113"
+hash = "765905047905274de2bfca37b2866e986a6820221f300b061822a96fca203730"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5a06dc1e2246053c553a2686a50dc4e51d6683053aee818e190a6779960a4f59"
+hash = "719d6bd4bb965ab38f9700a648d925010f1ff7c0a5e82b5e7f2e9da0b8c89ba7"
 metafile = true
 
 [[files]]
@@ -256,12 +256,17 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "645e655ae943482ee806313fe5ee4922890806f0472b233a57537389e0a1e935"
+hash = "229d1eabf82bea64acb5421ff045294b895340fd4e44b80817b143a54d76126a"
 metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9a2cf1b5b5f996fdecc1c2b099fc715b20996bb0bd3b22b2af2588ec2abed567"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "580db1cc3b78cbafc48cf9be4bd5d478fdddb454b12b519593240f68f896dd89"
 metafile = true
 
 [[files]]
