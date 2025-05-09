@@ -91,6 +91,11 @@ hash = "ca86c0a6572b7e37bad85e9484095c75096fa064d28fe03fa6f0e1e9a55b8f15"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "24760ba6ebb2662f152661f7dc8401f58c85b3818f8163be39e81d5e47440513"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "327de73ab5fdcc5f8d80485f2b25704a576e03df4f22007b847fc055c7f26eee"
 metafile = true
@@ -111,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c944fe128730ad022310c7f26e04247fb7a4df2232108cf734f26fabc92c1ddf"
+hash = "27fb1d3f00be58a53bb181b763d645a31b6edab8b6f9f92f9cd2df8007ff8573"
 metafile = true
 
 [[files]]
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "719d6bd4bb965ab38f9700a648d925010f1ff7c0a5e82b5e7f2e9da0b8c89ba7"
+hash = "e7bcb81d1207e22c68709807049200ba773bf832a871009889bb6f5a2f009433"
 metafile = true
 
 [[files]]
