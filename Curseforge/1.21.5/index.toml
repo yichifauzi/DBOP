@@ -161,12 +161,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e7bcb81d1207e22c68709807049200ba773bf832a871009889bb6f5a2f009433"
+hash = "7ec73c9e89a85dedc04937e43491d104efb73a98fd5aa4f0bdb5e47087f46309"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d603d3af57d7425dd7abf0edea73a792d7d6809e41b8989f4f4a35152bb84c71"
+hash = "92c362a4e1e0bd5addf47fa90a54591acd0cc314063225b193f5f03df35753c5"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker.pw.toml"
-hash = "d3cbac02167cb6db5043fbd97bddeec31a4e171960a03bf14f0bdb4e692aa3ac"
+hash = "2eb0144d274235499175b1b69a57bd03fe633fd288d7c7054083a9f83b6be42b"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "3d0f5697711d534b6883994cfc82c3fb199c3c69c95ff541ff3da47c3a1d6b2f"
+hash = "80b76c60b4db627674a5ee72927323fd7cff9977ec36f553e52f859b7afce5c0"
 metafile = true
 
 [[files]]
@@ -361,5 +361,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "fe23a520e47e1a8abc6aa1b7f5163c385a8f1277a0c22397464a85d9ac8f0830"
+hash = "e4a03c7b8e9b739af7567cab87e7745b1e474fea008dc92614f47256246a71f4"
 metafile = true
