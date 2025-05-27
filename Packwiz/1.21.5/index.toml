@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ca46e4ea12f25aba42a1a88b1a5697052f7a49aec31d865f1110c1aeb4d2dccf"
+hash = "f827bbcc4aa1c75309465a44d63a52d4046a88ea5235e46854d8bc981cd02a46"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a320df248627a8ce9d16bedb19957701d8ce21fa697e659872e522e0349f0aa1"
+hash = "b6c28f0bcd2e5dc922ba63f2413f213b732391ab9265a4868703319e7f4ffc8f"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -97,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+hash = "42e205b3e26dcc7778b5d2d75522422ab55b77ea8acfb6cabaed3e8291e1319a"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "19a7e79a2992d580491aa110433df935a6d6addf280f87442843135e334715ca"
+hash = "2049b19e9e60ae9e341754c2ef3fb15a918737c6d937eac643900bf5580b1f43"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "27a03591c0d4c9f630c23828a3b3506e3d67635e2c7dbed2fe67aa1b03e52351"
+hash = "c3741eb99da1676db710022999844ad608687b2008743403e840b3e9df8c5cba"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "38558115d3fd1ebea2ea2c9ab25c729dc9058f63946923d09d78e7b21698950b"
+hash = "d94e2cbc9b4637842aa7ea40fc84d1d2ec1da9d19bab5f5ea3b45179d7639f27"
 metafile = true
 
 [[files]]
@@ -327,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
+hash = "4e4f1161a4029f3863634ca739651b0b289db8dfce58eba0081d451ebeab427a"
 metafile = true
 
 [[files]]
@@ -362,5 +362,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "5da6e73153e45cdb9868fb82c1e1fb8ccbaf88c2f5dd4c06858d6939f07e8ac4"
+hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
 metafile = true
