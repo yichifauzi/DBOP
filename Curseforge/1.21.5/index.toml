@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "734666cd9e65ae2e53b6fc03fc44b94652194d568ccb4279e1c503ae92231bfb"
+hash = "5dd9cf1cc1eae8d0b3dd54b8a3a83266dcdf90e13c50d32188c0d44c2187b4a0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f58c00d29026f42ffeabee1c83afd7de986f973126409b52550efd356160036b"
+hash = "8ab286da0262cc7b3bb1996c91725e035e24bccc53ebaa753cb3a77623ead37c"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -180,6 +180,11 @@ hash = "7c0add037e5478e0fed5aa4836006c6653570b89bf03024e96600dab2b709d6d"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "e29500e5ffeea591240da132d5aaefa426e3554d9f45589fef58a1706c87e3b1"
+metafile = true
+
+[[files]]
 file = "mods/ferritecore-fabric.pw.toml"
 hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
 metafile = true
@@ -290,6 +295,16 @@ hash = "7311fef5aec30057018f7668f760e4fa2f4a65709a058444d0c888234f25d084"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "3c25fcd76154fe911e654e565bb4bc6778dbf74b360d7c3e58a35f6f82a7e402"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "2494505990ebe04a740fbae936efdf4d24a52071c04d3b73d215b9539e59817b"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "80b76c60b4db627674a5ee72927323fd7cff9977ec36f553e52f859b7afce5c0"
 metafile = true
@@ -307,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "53cb81aa59cd62274ee8e487a1d0650ed4f26ac91bc0afae4cef3fba143214a4"
+metafile = true
+
+[[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "3c04b16d503e7e1df2e71896b1e5e50748032261924b250478ed443d8d91ac23"
 metafile = true
 
 [[files]]

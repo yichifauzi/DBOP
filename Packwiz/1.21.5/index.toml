@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f827bbcc4aa1c75309465a44d63a52d4046a88ea5235e46854d8bc981cd02a46"
+hash = "49be7ac360dd68c05ad62b0c73e0e4d1c29e8527a4d9abd706b76da7155bdd20"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b6c28f0bcd2e5dc922ba63f2413f213b732391ab9265a4868703319e7f4ffc8f"
+hash = "d4b075082d22ec02a01810421a48380fc0a4fa1cfdedee8d36ec16228a9e7b87"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -181,6 +181,11 @@ hash = "74f982840637b38161c0e139773534d159b7f43c9855e7a73bbe17b9500d1a7e"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
@@ -197,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/imblocker-original.pw.toml"
-hash = "44cc70f024c8864966e5da0832960987f11335cc4a99f2a12c8ebbd61daed4fd"
+hash = "9b07b93a09263835d55c8ac685ca2451320bec3b131edccbc25727991c7e5227"
 metafile = true
 
 [[files]]
@@ -288,6 +293,16 @@ metafile = true
 [[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "45473d5027f61ec3fe7c60e4835c6215aa12f48086d237c42bdfd34d22c90905"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
