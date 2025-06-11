@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "49be7ac360dd68c05ad62b0c73e0e4d1c29e8527a4d9abd706b76da7155bdd20"
+hash = "5d7e1ad8136736502bea9d2e5cb09736a791702e04e4a41d1f5d67f1a3696036"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d4b075082d22ec02a01810421a48380fc0a4fa1cfdedee8d36ec16228a9e7b87"
+hash = "cf0d5ffefc9412d82d7a8ed6074793c93d528e2643cc1e66acadfffec32a660f"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "2049b19e9e60ae9e341754c2ef3fb15a918737c6d937eac643900bf5580b1f43"
+hash = "39d2695bf316d7d48d21da0ae6b38ea3e74c47c3b07c93bbade4dd753df90321"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -377,5 +377,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "a89dd43f376e990c515fe6b6b0875d9bbf51063bf3d1afa02a720039ffa651a6"
+hash = "58f2d6711487280df6601b89a4fb453938304d333c5df9a0549d7c49ece067bd"
 metafile = true
