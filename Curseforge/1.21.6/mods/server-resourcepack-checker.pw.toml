@@ -1,13 +1,13 @@
 name = "Server Resourcepack Checker"
-filename = "resourcepackchecker-fabric-1.21.5-1.2.2.jar"
+filename = "resourcepackchecker-fabric-1.21.6-1.2.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5b558584d3e2c653a17b3a0c37be188dcce23969"
+hash = "b1205216cd1825860f09a0980f8c7cb3d38dfd2d"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6347536
+file-id = 6662575
 project-id = 687618
