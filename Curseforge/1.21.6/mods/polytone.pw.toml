@@ -1,0 +1,13 @@
+name = "Polytone"
+filename = "polytone-1.21.5-3.4.2-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "108a15f8671379299342c01d3658572c8d672900"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6543031
+project-id = 958094

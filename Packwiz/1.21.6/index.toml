@@ -78,7 +78,12 @@ hash = "68f6cb8a324c7024dc6ad761c8fe17771cd141dfe3dd1993795e194822d8eb83"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "58851900d977d4bebe8bc17801a0698ae88fc057d4a000622afef0d454bed8ae"
+hash = "1512794b9ed18045b75e8a4f1c6ac9612de4014efcea0b7bc4e1cca987bea87f"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
@@ -126,23 +131,8 @@ hash = "fdc5ce8e97292ddb06a2983494c67c3f688d77e7fb7b9c1baddf04a2e6c401fb"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "d5e2dff89b98ca6afed2b69a4e4a9a565b365bc8a51c7ff6df3b1c2cddb7016d"
-metafile = true
-
-[[files]]
-file = "mods/debugify.pw.toml"
-hash = "9adbf88eeabbb76bd74ce7ff91a9e22d94df0a8aab18918e72044b1136f5cbc2"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
-metafile = true
-
-[[files]]
-file = "mods/e4mc.pw.toml"
-hash = "eb6d2ad2e00159c545fdc9d945e7196ad6d7d6f02e1ec4c2ffb8ecb480812219"
 metafile = true
 
 [[files]]
@@ -171,18 +161,8 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "5fd8b2e4130116c7c9ff76b21eec58900199347779790243685ce86bfbffbd54"
-metafile = true
-
-[[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "d850fd4705ab0a5245b05fdb1b0fc2e7640559ef18d12c7ac4417c8424dd46c7"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "3959d60960d97b019d81945ebfd38ed498649b31952e84404b365730c9facb6f"
 metafile = true
 
 [[files]]
@@ -193,11 +173,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "cee7b9a65f1d8625f9c103486e8b91edf6bb03b36ab2430fd927ec0d687ce8db"
-metafile = true
-
-[[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "f3307a0f730451d411ac998a92418b9ae92116f38b1fd8e56c9e74c760ccb1b7"
 metafile = true
 
 [[files]]
@@ -276,28 +251,13 @@ hash = "82c6a005e570b35248179947cbe0061df5088b87e6f4dec65df119079398fc2e"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "4a62527550776afcc7ccc10d8d699a74a0b31e18d57740871d8ecb51564bb4a0"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
 metafile = true
 
 [[files]]
-file = "mods/particle-core.pw.toml"
-hash = "05fb472a9449fbb9442bc21813af1db5f88b51666befb006eadfe7b73d9e7a4b"
-metafile = true
-
-[[files]]
 file = "mods/pinglist.pw.toml"
 hash = "6d1a365f7d7d6a150d7b236d9ac80e14b3e5d43461a2a2beaf26762d1d3f0385"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "9794f646cbb2b29bdeb1a190f5471b8fee168bacac0c1185318a318af9647c90"
 metafile = true
 
 [[files]]
@@ -326,11 +286,6 @@ hash = "ebb5ebe180600df2ef2c2cc700c15075e42b77243b438be2fb59ffbcbc63f3fc"
 metafile = true
 
 [[files]]
-file = "mods/simple-shulker-preview.pw.toml"
-hash = "3d49deb6bc138a8a588e201fa0ce83c37e4a567e3905a6e9b13a959510199176"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "d3ce7c562cb2d457391f3ea7992f1018055544035097547d9bc2d30b7429c8ea"
 metafile = true
@@ -353,11 +308,6 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "05900efb4cdaf32033674639fc83525f47b33afdfb8e693930883cf4842fdc84"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "a0de9075120ca71195092346b4b1a559fa8e4837f08021f36455122295646511"
 metafile = true
 
 [[files]]

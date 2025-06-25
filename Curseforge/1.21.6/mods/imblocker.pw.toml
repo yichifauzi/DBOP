@@ -1,0 +1,13 @@
+name = "IMBlocker"
+filename = "IMBlocker-5.2.2-fabric-1.17+.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "306f31d3825918adc840fcf885fac8de5746bf7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6582794
+project-id = 483760
