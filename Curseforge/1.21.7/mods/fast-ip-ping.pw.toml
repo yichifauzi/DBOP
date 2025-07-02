@@ -1,0 +1,13 @@
+name = "Fast IP Ping"
+filename = "fast-ip-ping-v1.0.7-mc1.21.6-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eaa3cc46aa6bfbf2285f2e38c77b28caad00de80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666704
+project-id = 904356
