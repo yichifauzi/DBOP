@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "e696773b7bdf787c2c1262a2760cea9842ec69a695fa9ca9441fdc0f797d6038"
+hash = "6de6086da0e179f1356419c9074800d1625837e5011d48d40d1a72afc23ea887"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "272fd215c9afb369f8f9e686614db51c0f48dd1b18ef15c9b0aa33a602ba296b"
+hash = "a5fb90cf486d90baf296e761a2943cfe3d5da84d3520804928b539576f15dc4b"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f147a115ed7b2e1d8d28c349178ed58a381e7edd6d719648eff6333cbf40e88c"
+hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
 metafile = true
 
 [[files]]
@@ -278,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "ebb5ebe180600df2ef2c2cc700c15075e42b77243b438be2fb59ffbcbc63f3fc"
+metafile = true
+
+[[files]]
+file = "mods/simple-shulker-preview.pw.toml"
+hash = "985ba7961d05cf18a8b1cadeea4921afca6e7e411df8fba10d6cfc5e066a2309"
 metafile = true
 
 [[files]]
