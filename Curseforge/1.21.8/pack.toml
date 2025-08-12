@@ -1,13 +1,13 @@
 name = "DBOP MC 1.21.8"
 author = "dirtTW"
-version = "0.6.0-beta.1"
+version = "0.6.0-beta.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6880c8f7bb4d749b15c5e33db51f37cdca67d8fb9a0137de1c3ecff0af1f2760"
+hash = "4884f9da4eae9c19b188bfacb01520dd3857110f4c26f052a40ca54e0639f975"
 
 [versions]
-fabric = "0.16.14"
+fabric = "0.17.2"
 minecraft = "1.21.8"
