@@ -54,7 +54,7 @@ jobs:
           popd
       - name: Attest mrpack
         id: attest-mrpack
-        uses: actions/attest-build-provenance@v2
+        uses: actions/attest-build-provenance@v3
         with:
           subject-path: DBOP-${{ github.ref_name }}.mrpack
       - name: Copy and zip attestation
