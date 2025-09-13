@@ -276,11 +276,6 @@ hash = "a336a1007f8295404b303eaa1a46f4e833085ce28e830b9cbdbf412b45f5f414"
 metafile = true
 
 [[files]]
-file = "mods/noxesium.pw.toml"
-hash = "973e054fbd03640a6bf9f151ac7b12b4931ca51633dbda4703930ab86982fa0e"
-metafile = true
-
-[[files]]
 file = "mods/optiboxes.pw.toml"
 hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
 metafile = true

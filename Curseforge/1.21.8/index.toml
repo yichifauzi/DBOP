@@ -150,11 +150,6 @@ hash = "4d3e90f51e900422f5eb5dd8d1decba6b6aceebdb4d476888df85087fa3ae917"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-block-entities.pw.toml"
-hash = "5e1b38c85003c0a4b23628f3baaca55033a7fdaffcc87c81dfe6f93e382480c6"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "90633f877db2b3dac3f185a85e0028fa9a7d1873d5fb13e57cfc0604a8cea99d"
 metafile = true
@@ -272,11 +267,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "37ced06005686e4f91ff3bb005bac6d50160366e84eb1acb75d5b56e0aa01dee"
-metafile = true
-
-[[files]]
-file = "mods/noxesium.pw.toml"
-hash = "7eeba56540e7deffbe5ebd7f06b870a90d169f5319e7e4b5ac48f3ee45a65812"
 metafile = true
 
 [[files]]
