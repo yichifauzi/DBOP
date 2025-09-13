@@ -281,6 +281,11 @@ hash = "973e054fbd03640a6bf9f151ac7b12b4931ca51633dbda4703930ab86982fa0e"
 metafile = true
 
 [[files]]
+file = "mods/optiboxes.pw.toml"
+hash = "7e89ff5c7bab024cfe9331d474bcb676950d27e9d69842c9ea78aafadbb64450"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
 metafile = true

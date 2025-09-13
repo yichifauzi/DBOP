@@ -1,0 +1,13 @@
+name = "Optiboxes"
+filename = "optiboxes-1.4+mc1.21.8-cf08861.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1430876bd2f595be0a6fd34a9ec7308503ec696"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6875746
+project-id = 1301799
