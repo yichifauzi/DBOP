@@ -67,7 +67,7 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 * **Discord Server:** [土靈泥土幫](https://discord.gg/MjGznUaQg5) 
 
 
-## [Kinetic Hosting: Get 25% Off Your First Month!](https://billing.kinetichosting.net/aff.php?aff=922)
+## [Kinetic Hosting: Get 25% Off Your First Month!](https://billing.kinetichosting.com/aff.php?aff=922)
 
 Get your Minecraft server hosted with Kinetic Hosting! They're affordable, reliable, and support a huge range of modpacks. Use code '**DBOP**' at checkout for 25% off your first month - it helps support the DBOP modpack too!
 
