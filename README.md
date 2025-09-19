@@ -1,4 +1,4 @@
-![Banner](https://github.com/yichifauzi/DBOP/blob/main/banner.png?raw=true)
+![Banner](https://github.com/dirttw/DBOP/blob/main/banner.png?raw=true)
 ## DirtTW's Basement Optimize Pack (DBOP)
 **Boost your Minecraft performance without sacrificing the vanilla experience!**
 
@@ -41,9 +41,9 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 **需要幫助或想回報問題？**
 
-* **GitHub：** [https://github.com/yichifauzi/DBOP](https://github.com/yichifauzi/DBOP) 
-* **開發者 GitHub：** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
-* **安裝教學：** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
+* **GitHub：** [https://github.com/dirttw/DBOP](https://github.com/dirttw/DBOP) 
+* **開發者 GitHub：** [https://github.com/dirttw](https://github.com/dirttw) 
+* **安裝教學：** [https://dirttw.github.io/DBOP-Installtutorial/](https://dirttw.github.io/DBOP-Installtutorial/)
 * **Discord：** dirttw
 * **Discord 伺服器：** [土靈泥土幫](https://discord.gg/MjGznUaQg5) 
 
@@ -60,9 +60,9 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 **Need Help or Want to Report an Issue?**
 
-* **GitHub:** [https://github.com/yichifauzi/DBOP](https://github.com/yichifauzi/DBOP) 
-* **Developer's GitHub:** [https://github.com/yichifauzi](https://github.com/yichifauzi) 
-* **Installation Tutorial:** [https://yichifauzi.github.io/DBOP-Installtutorial/](https://yichifauzi.github.io/DBOP-Installtutorial/)
+* **GitHub:** [https://github.com/dirttw/DBOP](https://github.com/dirttw/DBOP) 
+* **Developer's GitHub:** [https://github.com/dirttw](https://github.com/dirttw) 
+* **Installation Tutorial:** [https://dirttw.github.io/DBOP-Installtutorial/](https://dirttw.github.io/DBOP-Installtutorial/)
 * **Discord:** dirttw
 * **Discord Server:** [土靈泥土幫](https://discord.gg/MjGznUaQg5) 
 
@@ -71,4 +71,4 @@ DBOP 是一個基於 Fabric 模组平台的優化包，大部分模组都是客�
 
 Get your Minecraft server hosted with Kinetic Hosting! They're affordable, reliable, and support a huge range of modpacks. Use code '**DBOP**' at checkout for 25% off your first month - it helps support the DBOP modpack too!
 
-[![Kinetichosting](https://github.com/yichifauzi/DBOP/blob/main/DBOP.png?raw=true)](https://tinyurl.com/3xbj8m3s)
+[![Kinetichosting](https://github.com/dirttw/DBOP/blob/main/DBOP.png?raw=true)](https://tinyurl.com/3xbj8m3s)
