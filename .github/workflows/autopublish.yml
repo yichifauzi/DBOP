@@ -4,7 +4,7 @@ on:
     types: [published]
 jobs:
   publish-to-curseforge:
-    if: github.repository_owner == 'yichifauzi'
+    if: github.repository_owner == 'dirttw'
     runs-on: ubuntu-24.04
     environment: github-actions
     steps:
@@ -29,7 +29,7 @@ jobs:
           game-versions: ${{ vars.MC_VERSION }}
 
   publish-to-modrinth:
-    if: github.repository_owner == 'yichifauzi'
+    if: github.repository_owner == 'dirttw'
     runs-on: ubuntu-24.04
     environment: github-actions
     permissions:
@@ -44,7 +44,7 @@ jobs:
         with:
           name: "Linux 64-bit x86"
           github-token: ${{ secrets.GH_PAT }}
-          repository: yichifauzi/packwiz
+          repository: dirttw/packwiz
           run-id: 17694483352
       - name: Export to packwiz
         run: |
